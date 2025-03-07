@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf8" />
+    <title>$faq.de.title$</title>
+    <link rel="stylesheet" href="../../style.css" />
+  </head>
+  <body>
+    <h1>$faq.de.title$</h1>
+    <main class="faq">
+      $for(faq.questions)$
+        $if(faq.questions.de)$
+          <article id="$faq.questions.de.id$">
+            $if(faq.questions.en)$
+              <a class="lang-button" href="../en/#$faq.questions.en.id$">en</a>
+            $endif$
+            <h2>$faq.questions.de.q$</h2>
+            <div>
+              $for(faq.questions.tags)$
+                #$faq.questions.tags$
+              $endfor$
+            </div>
+            <div>
+              $faq.questions.de.a$
+            </div>
+          </article>
+        $endif$
+      $endfor$
+    </main>
+  </body>
+</html>

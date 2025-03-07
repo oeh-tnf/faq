@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf8" />
+    <title>FAQs</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>FAQs</h1>
+    <main class="faq-list">
+      <section lang="de">
+        <h2>Deutsch</h2>
+        <ul>
+          $for(faqs)$
+            $if(faqs.de)$
+              <li><a href="$faqs.id$/de/">$faqs.de.title$</a></li>
+            $endif$
+          $endfor$
+        </ul>
+      </section>
+      <section lang="en">
+        <h2>English</h2>
+        <ul>
+          $for(faqs)$
+            $if(faqs.en)$
+              <li><a href="$faqs.id$/de/">$faqs.de.title$</a></li>
+            $endif$
+          $endfor$
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+de.title = "Test FAQ"
+en.title = "Test FAQ"
+
+de.intro = '''
+Dies hier ist eine Test FAQ.
+
+Du kannst dir den Quellcode auf [GitHub](https://github.com/jstsmthrgk/faq-proto) ansehen.
+'''
+en.intro = '''
+This is a Test FAQ.
+
+You can look at the source code on [GitHub](https://github.com/jstsmthrgk/faq-proto).
+'''
+
+[[questions]]
+
+tags = [ "lipsum" ]
+
+de.q = "Wie geht nochmal Lorem Ipsum?"
+de.a = '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+'''
+
+en.q = "How was Lorem Ipsum again?"
+en.a = '''
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+'''
+
+[[questions]]
+
+tags = [ "hitchhiker" ]
+
+de.q = "Was ist die Antwort auf die Frage nach dem Leben dem Universum und allem?"
+de.a = "42"
+
+en.q = "What is the answer to the question about life the universe and everything?"
+en.a = "42"
+
+[[questions]]
+
+de.q = "Aber kann das hier auch Markdown?"
+de.a = '''
+Ja, zum Beispiel kann man hier einen [link](https://www.jku.at/) einfügen.
+
+Oder | gar
+-----|--------
+eine | Tabelle
+'''
+
+en.q = "But does this also support Markdown?"
+en.a = '''
+Yes, for example one can include a [link](https://www.jku.at/).
+
+or | even
+---|------
+a  | table
+'''
