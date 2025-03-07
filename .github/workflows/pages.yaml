@@ -17,7 +17,7 @@ jobs:
       - name: Install System Dependencies
         run: sudo apt-get install -y pandoc golang
       - name: Install Go Dependencies
-        run: sudo go install github.com/sclevine/yj/v5@v5.1.0
+        run: go install github.com/sclevine/yj/v5@v5.1.0
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build
