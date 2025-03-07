@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install System Dependencies
-        run: sudo apt-get install -y pandoc go
+        run: sudo apt-get install -y pandoc golang
       - name: Install Go Dependencies
         run: sudo go get github.com/sclevine/yj
       - name: Checkout
