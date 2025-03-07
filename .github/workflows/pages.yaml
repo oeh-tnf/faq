@@ -17,7 +17,7 @@ jobs:
       - name: Install pandoc
         run: sudo apt-get install -y pandoc
       - name: Install yj (1/2)
-        run: sudo wget https://github.com/sclevine/yj/releases/download/v5.1.0/yj-linux-amd64 -o /usr/local/bin/yj
+        run: sudo wget https://github.com/sclevine/yj/releases/download/v5.1.0/yj-linux-amd64 -O /usr/local/bin/yj
       - name: Install yj (2/2)
         run: sudo chmod +x /usr/local/bin/yj
       - name: Checkout
