@@ -14,10 +14,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Install System Dependencies
+      - name: Install pandoc
         run: sudo apt-get install -y pandoc
-      - name: Install yj
+      - name: Install yj (1/2)
         run: sudo wget https://github.com/sclevine/yj/releases/download/v5.1.0/yj-linux-amd64 -o /usr/local/bin/yj
+      - name: Install yj (2/2)
+        run: sudo chmod +x /usr/local/bin/yj
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build
