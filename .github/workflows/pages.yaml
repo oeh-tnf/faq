@@ -14,8 +14,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Install Dependencies
-        run: sudo apt-get install -y pandoc yj
+      - name: Install System Dependencies
+        run: sudo apt-get install -y pandoc go
+      - name: Install Go Dependencies
+        run: sudo go get github.com/sclevine/yj
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build
