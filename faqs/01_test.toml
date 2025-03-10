@@ -14,8 +14,6 @@ You can look at the source code on [GitHub](https://github.com/jstsmthrgk/faq-pr
 
 [[questions]]
 
-tags = [ "lipsum" ]
-
 de.q = "Wie geht nochmal Lorem Ipsum?"
 de.a = '''
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -39,8 +37,6 @@ mollit anim id est laborum.
 '''
 
 [[questions]]
-
-tags = [ "hitchhiker" ]
 
 de.q = "Was ist die Antwort auf die Frage nach dem Leben dem Universum und allem?"
 de.a = "42"

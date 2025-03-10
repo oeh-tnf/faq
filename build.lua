@@ -67,29 +67,23 @@ end
 
 -- process the faqs
 for _,faq in pairs(faqs) do
-    local tagset = {}
     if faq.de then
         faq.de.intro = renderMarkup(faq.de.intro)
     end
     if faq.en then
         faq.en.intro = renderMarkup(faq.en.intro)
     end
-    processQuestions(faq.questions, tagset)
+    processQuestions(faq.questions)
     if faq.sections then
         for _,section in pairs(faq.sections) do
-            processQuestions(section.questions, tagset)
+            processQuestions(section.questions)
             if faq.sections then
                 for _,subsection in pairs(section.subsections) do
-                    processQuestions(subsection.questions, tagset)
+                    processQuestions(subsection.questions)
                 end
             end
         end
     end
-    faq.tags = {}
-    for tag,_ in pairs(tagset) do
-        table.insert(faq.tags, tag)
-    end
-    table.sort(faq.tags)
 end
 
 -- make a directory for the output
