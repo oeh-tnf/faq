@@ -67,3 +67,33 @@ or | even
 ---|------
 a  | table
 '''
+
+[[sections]]
+
+de.title = "Ganz besondere Fragen"
+en.title = "Very special Questions"
+
+[[sections.questions]]
+
+de.q = "Aber? Aber? Aber?"
+de.a = "jaja..."
+
+en.q = "But? But? But?"
+en.a = "well..."
+
+[[sections.subsections]]
+
+de.title = "Extremst besondere Fragen"
+en.title = "Extremely special Questions"
+
+[[sections.subsections.questions]]
+
+de.q = "AAAAAAAAAAAAAAAAAAAAAAAAAA?!?"
+de.a = '''
+So schlimm ist es auch wieder nicht.
+'''
+
+en.q = "AAAAAAAAAAAAAAAAAAAAAAAAAA?!?"
+en.a = '''
+It's not that bad after all.
+'''

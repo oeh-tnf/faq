@@ -5,13 +5,13 @@ faqTemplateEn = nil;
 -- load the templates
 do
     local indexTemplateFile = io.open("templates/index.html", "r")
-    indexTemplate = pandoc.template.compile(indexTemplateFile:read("a"), "templates")
+    indexTemplate = pandoc.template.compile(indexTemplateFile:read("a"), "templates/index.html")
     indexTemplateFile:close();
     local faqTemplateDeFile = io.open("templates/faq-de.html", "r")
-    faqTemplateDe = pandoc.template.compile(faqTemplateDeFile:read("a"), "templates")
+    faqTemplateDe = pandoc.template.compile(faqTemplateDeFile:read("a"), "templates/faq-de.html")
     faqTemplateDeFile:close();
     local faqTemplateEnFile = io.open("templates/faq-en.html", "r")
-    faqTemplateEn = pandoc.template.compile(faqTemplateEnFile:read("a"), "templates")
+    faqTemplateEn = pandoc.template.compile(faqTemplateEnFile:read("a"), "templates/faq-en.html")
     faqTemplateEnFile:close();
 end
 
@@ -29,16 +29,12 @@ for _,filename in pairs(pandoc.system.list_directory("faqs")) do
     end
 end
 
--- process the faqs
-for _,faq in pairs(faqs) do
-    local tagset = {}
-    if faq.de then
-        faq.de.intro = pandoc.write(pandoc.read(faq.de.intro), "html")
-    end
-    if faq.en then
-        faq.en.intro = pandoc.write(pandoc.read(faq.en.intro), "html")
-    end
-    for _,question in pairs(faq.questions) do
+function renderMarkup (markdown)
+    return pandoc.write(pandoc.read(markdown), "html")
+end
+
+function processQuestions (questions, tagset)
+    for _,question in pairs(questions) do
         if question.tags then
             for _,tag in pairs(question.tags) do
                 tagset[tag] = true
@@ -55,7 +51,7 @@ for _,faq in pairs(faqs) do
             id = string.gsub(id, " ", "-")
             id = string.gsub(id, "[^0-9a-z%-]", "")
             question.de.id = id
-            question.de.a = pandoc.write(pandoc.read(question.de.a), "html")
+            question.de.a = renderMarkup(question.de.a)
         end
         if question.en then
             local id = question.en.q
@@ -64,7 +60,29 @@ for _,faq in pairs(faqs) do
             id = string.gsub(id, " ", "-")
             id = string.gsub(id, "[^0-9a-z%-]", "")
             question.en.id = id
-            question.en.a = pandoc.write(pandoc.read(question.en.a), "html")
+            question.en.a = renderMarkup(question.en.a)
+        end
+    end
+end
+
+-- process the faqs
+for _,faq in pairs(faqs) do
+    local tagset = {}
+    if faq.de then
+        faq.de.intro = renderMarkup(faq.de.intro)
+    end
+    if faq.en then
+        faq.en.intro = renderMarkup(faq.en.intro)
+    end
+    processQuestions(faq.questions, tagset)
+    if faq.sections then
+        for _,section in pairs(faq.sections) do
+            processQuestions(section.questions, tagset)
+            if faq.sections then
+                for _,subsection in pairs(section.subsections) do
+                    processQuestions(subsection.questions, tagset)
+                end
+            end
         end
     end
     faq.tags = {}

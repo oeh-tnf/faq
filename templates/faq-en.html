@@ -3,30 +3,120 @@
   <head>
     <meta charset="utf8" />
     <title>$faq.en.title$</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="../../style.css" />
   </head>
-  <body>
+  <body vocab="http://schema.org/">
     <h1>$faq.en.title$</h1>
-    <main class="faq">
+    <nav>
+      <ul>
+        $for(faq.questions)$
+          $if(faq.questions.en)$
+            <li><a href="#$faq.questions.en.id$">$faq.questions.en.q$</a></li>
+          $endif$
+        $endfor$
+        $for(faq.sections)$
+          $if(faq.sections.en)$
+            <li>
+                $faq.sections.en.title$
+                <ul>
+                  $for(faq.sections.questions)$
+                    $if(faq.sections.questions.en)$
+                      <li><a href="#$faq.sections.questions.en.id$">$faq.sections.questions.en.q$</a></li>
+                    $endif$
+                  $endfor$
+                  $for(faq.sections.subsections)$
+                    $if(faq.sections.subsections.en)$
+                      <li>
+                          $faq.sections.subsections.en.title$
+                          <ul>
+                            $for(faq.sections.subsections.questions)$
+                              $if(faq.sections.subsections.questions.en)$
+                                <li><a href="#$faq.sections.subsections.questions.en.id$">$faq.sections.subsections.questions.en.q$</a></li>
+                              $endif$
+                            $endfor$
+                          </ul>
+                      </li>
+                    $endif$
+                  $endfor$
+                </ul>
+            </li>
+          $endif$
+        $endfor$
+      </ul>
+    </nav>
+    <main class="faq" typeof="FAQPage">
       <div class="intro">
         $faq.de.intro$
       </div>
       $for(faq.questions)$
         $if(faq.questions.en)$
-          <article id="$faq.questions.en.id$">
+          <article id="$faq.questions.en.id$" property="mainEntity" typeof="Question" resource="#$faq.questions.en.id$">
             $if(faq.questions.de)$
-              <a class="lang-button" href="../de/#$faq.questions.de.id$">de</a>
+              <a class="lang-button" href="../de/#$faq.questions.en.id$">de</a>
             $endif$
-            <h2>$faq.questions.en.q$</h2>
+            <h2 property="name" content="$faq.questions.en.q$"><a href="#$faq.questions.en.id$">#</a>$faq.questions.en.q$</h2>
             <div>
               $for(faq.questions.tags)$
                 #$faq.questions.tags$
               $endfor$
             </div>
-            <div>
-              $faq.questions.en.a$
+            <div property="acceptedAnswer" typeof="Answer">
+              <div property="text">
+                $faq.questions.en.a$
+              </div>
             </div>
           </article>
+        $endif$
+      $endfor$
+      $for(faq.sections)$
+        $if(faq.sections.en)$
+          <h2>$faq.sections.en.title$</h2>
+          $for(faq.sections.questions)$
+            $if(faq.sections.questions.en)$
+              <article id="$faq.sections.questions.en.id$" property="mainEntity" typeof="Question" resource="#$faq.sections.questions.en.id$">
+                $if(faq.sections.questions.de)$
+                  <a class="lang-button" href="../de/#$faq.sections.questions.de.id$">de</a>
+                $endif$
+                <h3 property="name" content="$faq.sections.questions.en.q$"><a href="#$faq.questions.sections.en.id$">#</a>$faq.sections.questions.en.q$</h3>
+                <div>
+                  $for(faq.sections.questions.tags)$
+                    #$faq.sections.questions.tags$
+                  $endfor$
+                </div>
+                <div property="acceptedAnswer" typeof="Answer">
+                  <div property="text">
+                    $faq.sections.questions.en.a$
+                  </div>
+                </div>
+              </article>
+            $endif$
+          $endfor$
+          $for(faq.sections.subsections)$
+            $if(faq.sections.subsections.en)$
+              <h3>$faq.sections.subsections.en.title$</h3>
+              $for(faq.sections.subsections.questions)$
+                $if(faq.sections.subsections.questions.en)$
+                  <article id="$faq.sections.subsections.questions.en.id$" property="mainEntity" typeof="Question" resource="#$faq.sections.subsections.questions.en.id$">
+                    $if(faq.sections.subsections.questions.de)$
+                      <a class="lang-button" href="../de/#$faq.sections.subsections.questions.de.id$">de</a>
+                    $endif$
+                    <h4 property="name" content="$faq.sections.subsections.questions.en.q$"><a href="#$faq.sections.subsections.questions.en.id$">#</a>$faq.sections.subsections.questions.en.q$</h4>
+                    <div>
+                      $for(faq.sections.subsections.questions.tags)$
+                        #$faq.sections.subsections.questions.tags$
+                      $endfor$
+                    </div>
+                    <div property="acceptedAnswer" typeof="Answer">
+                      <div property="text">
+                        $faq.sections.subsections.questions.en.a$
+                      </div>
+                    </div>
+                  </article>
+                $endif$
+              $endfor$
+            $endif$
+          $endfor$
         $endif$
       $endfor$
     </main>
