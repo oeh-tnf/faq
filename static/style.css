@@ -86,8 +86,11 @@
 
 :root {
   --color-bg-site: #ffffff;
+  --color-fg-site: #18197c;
+  --color-fg-site-hover: #f09500;
   --color-bg-card: #edf4fa;
   --color-fg-card: #18197c;
+  --color-fg-card-hover: #f09500;
   --color-bg-title: #2b7fc2;
   --color-fg-title: #ffffff;
   --color-bg-btn: #18197c;
@@ -161,7 +164,26 @@ body > h1 {
   color: var(--color-fg-btn-hover);
 }
 
+.faq .intro {
+  max-width: 800px;
+  color: var(--color-fg-site);
+  font-size: 18px;
+  font-weight: 300;
+  margin: 90px auto;
+}
+
+.faq .intro a:hover,
+.faq .intro a:active,
+.faq .intro a:focus {
+  color: var(--color-fg-site-hover);
+}
+
+.faq .intro a {
+  color: var(--color-fg-site);
+}
+
 .faq article {
+  box-sizing: border-box;
   position: relative;
   background-color: var(--color-bg-card);
   color: var(--color-fg-card);
@@ -172,6 +194,12 @@ body > h1 {
 
 .faq article a {
   color: var(--color-fg-card);
+}
+
+.faq article a:hover,
+.faq article a:active,
+.faq article a:focus {
+  color: var(--color-fg-card-hover);
 }
 
 .faq article a.lang-button {
