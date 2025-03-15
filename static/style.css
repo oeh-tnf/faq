@@ -494,9 +494,7 @@ nav a:focus {
   nav:focus-within {
     width: 80vw;
     height: 100vh;
-    margin: 0;
-    margin-right: 24px;
-    padding: 16px;
+    padding: 52px 16px;
     border-radius: 0;
   }
 
