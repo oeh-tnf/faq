@@ -462,9 +462,42 @@ nav a:focus {
   }
 
   nav {
-    margin: 0;
-    padding: 16px;
+    box-sizing: border-box;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 48px;
+    height: 48px;
+    border-radius: 0 0 16px 0;
     overflow: hidden;
+    padding-top: 48px;
+  }
+
+  nav::before {
+    content: "\02630";
+    position: fixed;
+    top: 0;
+    left: 0;
+    line-height: 48px;
+    width: 48px;
+    text-align: center;
+    font-size: 28px;
+  }
+
+  nav:hover::before,
+  nav:focus-within::before {
+    display: none;
+  }
+
+  nav:hover,
+  nav:focus-within {
+    width: 80vw;
+    height: 100vh;
+    margin: 0;
+    margin-right: 24px;
+    padding: 16px;
+    border-radius: 0;
   }
 
   nav ul {
