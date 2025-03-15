@@ -477,20 +477,13 @@ footer a:focus {
     position: relative;
   }
 
-  .faq article h2 a,
-  .faq article h3 a,
-  .faq article h4 a {
-    position: absolute;
-    left: -1ch;
-    display: none;
-  }
 
-  .faq article h2:hover a,
-  .faq article h3:hover a,
-  .faq article h4:hover a {
+  .faq article h2 a:hover::before,
+  .faq article h3 a:hover::before,
+  .faq article h4 a:hover::before {
     position: absolute;
     left: -1ch;
-    display: inline;
+    content: '#';
   }
 
   .faq article :last-child {
