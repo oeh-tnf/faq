@@ -55,7 +55,7 @@
             $if(faq.questions.de)$
               <a class="lang-button" href="../de/#$faq.questions.en.id$">de</a>
             $endif$
-            <h2 property="name" content="$faq.questions.en.q$"><a href="#$faq.questions.en.id$">#</a>$faq.questions.en.q$</h2>
+            <h2 property="name" content="$faq.questions.en.q$"><a href="#$faq.questions.en.id$">$faq.questions.en.q$</a></h2>
             <div property="acceptedAnswer" typeof="Answer">
               <div property="text">
                 $faq.questions.en.a$
@@ -73,7 +73,7 @@
                 $if(faq.sections.questions.de)$
                   <a class="lang-button" href="../de/#$faq.sections.questions.de.id$">de</a>
                 $endif$
-                <h3 property="name" content="$faq.sections.questions.en.q$"><a href="#$faq.questions.sections.en.id$">#</a>$faq.sections.questions.en.q$</h3>
+                <h3 property="name" content="$faq.sections.questions.en.q$"><a href="#$faq.questions.sections.en.id$">$faq.sections.questions.en.q$</a></h3>
                 <div property="acceptedAnswer" typeof="Answer">
                   <div property="text">
                     $faq.sections.questions.en.a$
@@ -91,7 +91,7 @@
                     $if(faq.sections.subsections.questions.de)$
                       <a class="lang-button" href="../de/#$faq.sections.subsections.questions.de.id$">de</a>
                     $endif$
-                    <h4 property="name" content="$faq.sections.subsections.questions.en.q$"><a href="#$faq.sections.subsections.questions.en.id$">#</a>$faq.sections.subsections.questions.en.q$</h4>
+                    <h4 property="name" content="$faq.sections.subsections.questions.en.q$"><a href="#$faq.sections.subsections.questions.en.id$">$faq.sections.subsections.questions.en.q$</a></h4>
                     <div property="acceptedAnswer" typeof="Answer">
                       <div property="text">
                         $faq.sections.subsections.questions.en.a$
@@ -105,5 +105,8 @@
         $endif$
       $endfor$
     </main>
+    <footer>
+      <a href="https://oeh.jku.at/en/imprint">Imprint</a>
+    </footer>
   </body>
 </html>

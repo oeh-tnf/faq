@@ -103,6 +103,9 @@
   --color-fg-btn: #ffffff;
   --color-bg-btn-hover: #f09500;
   --color-fg-btn-hover: #ffffff;
+  --color-bg-footer: #2b7fc2;
+  --color-fg-footer: #ffffff;
+  --color-fg-footer-hover: #f09500;
 }
 
 /********************
@@ -169,6 +172,39 @@ body > h1 {
   color: var(--color-fg-card-hover);
 }
 
+.faq article h2 a,
+.faq article h3 a,
+.faq article h4 a {
+  color: var(--color-fg-card);
+  text-decoration: none;
+}
+
+.faq article h2 a:hover,
+.faq article h3 a:hover,
+.faq article h4 a:hover,
+.faq article h2 a:active,
+.faq article h3 a:active,
+.faq article h4 a:active,
+.faq article h2 a:focus,
+.faq article h3 a:focus,
+.faq article h4 a:focus {
+  color: var(--color-fg-card);
+}
+
+
+.faq article h2 a:hover::before,
+.faq article h3 a:hover::before,
+.faq article h4 a:hover::before,
+.faq article h2 a:active::before,
+.faq article h3 a:active::before,
+.faq article h4 a:active::before,
+.faq article h2 a:focus::before,
+.faq article h3 a:focus::before,
+.faq article h4 a:focus::before {
+  color: var(--color-fg-card-hover);
+  text-decoration: underline;
+}
+
 .faq > h2 {
   background-color: var(--color-bg-sectionheader);
   color: var(--color-fg-sectionheader);
@@ -193,6 +229,20 @@ nav a:focus {
   color: var(--color-fg-nav-hover);
 }
 
+footer {
+  background-color: var(--color-bg-footer);
+  color: var(--color-fg-footer);
+}
+
+footer a {
+  color: var(--color-fg-footer);
+}
+
+footer a:hover,
+footer a:active,
+footer a:focus {
+  color: var(--color-fg-footer-hover);
+}
 
 /******************
  * DESKTOP LAYOUT *
@@ -287,20 +337,12 @@ nav a:focus {
     position: relative;
   }
 
-  .faq article h2 a,
-  .faq article h3 a,
-  .faq article h4 a {
+  .faq article h2 a:hover::before,
+  .faq article h3 a:hover::before,
+  .faq article h4 a:hover::before {
     position: absolute;
     left: -1ch;
-    display: none;
-  }
-
-  .faq article h2:hover a,
-  .faq article h3:hover a,
-  .faq article h4:hover a {
-    position: absolute;
-    left: -1ch;
-    display: inline;
+    content: '#';
   }
 
   .faq article :last-child {
@@ -346,6 +388,12 @@ nav a:focus {
 
   nav > ul > li:first-child {
     margin-top: 0;
+  }
+
+  footer {
+    grid-column-start: 2;
+    grid-column-end: -1;
+    padding: 30px;
   }
 }
 
@@ -516,4 +564,7 @@ nav a:focus {
     margin-top: 0;
   }
 
+  footer {
+    padding: 30px;
+  }
 }
