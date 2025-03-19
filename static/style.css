@@ -117,7 +117,7 @@ body {
   background-color: var(--color-bg-site);
 }
 
-body > h1 {
+header h1 {
   background-color: var(--color-bg-title);
   color: var(--color-fg-title);
 }
@@ -255,15 +255,28 @@ footer a:focus {
     grid-template-columns: 400px 1fr;
   }
 
-  body > h1 {
+  header {
+    grid-column-start: 1;
+    grid-column-end: -1;
+  }
+
+  header a {
+    display: block;
+    margin: 15px 15px;
+    text-align: center;
+  }
+
+  header a img {
+    height: 100px;
+  }
+
+  header h1 {
     font-size: 52px;
     font-weight: 700;
     text-align: center;
     height: 280px;
     line-height: 280px;
     margin: 0;
-    grid-column-start: 1;
-    grid-column-end: -1;
   }
 
   .faq-list {
@@ -406,7 +419,17 @@ footer a:focus {
     margin: 0;
   }
 
-  body > h1 {
+  header a {
+    margin: 10px 15px;
+    display: block;
+    text-align: center;
+  }
+
+  header a img {
+    height: 60px;
+  }
+
+  header h1 {
     font-size: 34px;
     padding: 30px 15px;
     margin: 0;
