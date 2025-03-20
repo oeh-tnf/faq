@@ -87,14 +87,14 @@
 
 :root {
   /* tokens */
-  
+
   --color-token-accent-dark: #18197c;
   --color-token-accent: #2b7fc2;
   --color-token-accent-alternate: #f09500;
   --color-token-background: #ffffff;
   --color-token-background-accent: #edf4fa;
   --color-token-background-accent-light: #c9deef;
-  
+
   --color-bg-site: var(--color-token-background);
   --color-fg-site: var(--color-token-accent-dark);
   --color-fg-site-hover: var(--color-token-accent-alternate);
@@ -123,12 +123,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-token-accent-dark: #cdceeb;
-    --color-token-accent: #22659c;
+    --color-token-accent-dark: #d6d7f6;
+    --color-token-accent: #2b7fc2;
     --color-token-accent-alternate: #f09500;
     --color-token-background: #1c1d23;
     --color-token-background-accent: #434a56;
-    --color-token-background-accent-light: #082238;
+    --color-token-background-accent-light: #46545f;
 }
 
 /********************
