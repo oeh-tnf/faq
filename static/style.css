@@ -86,30 +86,49 @@
 /* color definitions */
 
 :root {
-  --color-bg-site: #ffffff;
-  --color-fg-site: #18197c;
-  --color-fg-site-hover: #f09500;
-  --color-bg-card: #edf4fa;
-  --color-fg-card: #18197c;
-  --color-fg-card-hover: #f09500;
-  --color-bg-title: #2b7fc2;
-  --color-fg-title: #ffffff;
-  --color-bg-sectionheader: #edf4fa;
-  --color-fg-sectionheader: #18197c;
-  --color-bg-nav: #c9deef;
-  --color-fg-nav: #18197c;
-  --color-fg-nav-hover: #f09500;
-  --color-bg-btn: #18197c;
-  --color-fg-btn: #ffffff;
-  --color-bg-btn-hover: #f09500;
-  --color-fg-btn-hover: #ffffff;
-  --color-bg-btn-inv: #f09500;
-  --color-fg-btn-inv: #ffffff;
-  --color-bg-btn-inv-hover: #18197c;
-  --color-fg-btn-inv-hover: #ffffff;
-  --color-bg-footer: #2b7fc2;
-  --color-fg-footer: #ffffff;
-  --color-fg-footer-hover: #f09500;
+  /* tokens */
+  
+  --color-token-accent-dark: #18197c;
+  --color-token-accent: #2b7fc2;
+  --color-token-accent-alternate: #f09500;
+  --color-token-background: #ffffff;
+  --color-token-background-accent: #edf4fa;
+  --color-token-background-accent-light: #c9deef;
+  
+  --color-bg-site: var(--color-token-background);
+  --color-fg-site: var(--color-token-accent-dark);
+  --color-fg-site-hover: var(--color-token-accent-alternate);
+  --color-bg-card: var(--color-token-background-accent);
+  --color-fg-card: var(--color-token-accent-dark);
+  --color-fg-card-hover: var(--color-token-accent-alternate);
+  --color-bg-title: var(--color-token-accent);
+  --color-fg-title: var(--color-token-background);
+  --color-bg-sectionheader: var(--color-token-background-accent);
+  --color-fg-sectionheader: var(--color-token-accent-dark);
+  --color-bg-nav: var(--color-token-background-accent-light);
+  --color-fg-nav: var(--color-token-accent-dark);
+  --color-fg-nav-hover: var(--color-token-accent-alternate);
+  --color-bg-btn: var(--color-token-accent-dark);
+  --color-fg-btn: var(--color-token-background);
+  --color-bg-btn-hover: var(--color-token-accent-alternate);
+  --color-fg-btn-hover: var(--color-token-background);
+  --color-bg-btn-inv: var(--color-token-accent-alternate);
+  --color-fg-btn-inv: var(--color-token-background);
+  --color-bg-btn-inv-hover: var(--color-token-accent-dark);
+  --color-fg-btn-inv-hover: var(--color-token-background);
+  --color-bg-footer: var(--color-token-accent);
+  --color-fg-footer: var(--color-token-background);
+  --color-fg-footer-hover: var(--color-token-accent-alternate);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-token-accent-dark: #cdceeb;
+    --color-token-accent: #22659c;
+    --color-token-accent-alternate: #f09500;
+    --color-token-background: #1c1d23;
+    --color-token-background-accent: #434a56;
+    --color-token-background-accent-light: #082238;
 }
 
 /********************
