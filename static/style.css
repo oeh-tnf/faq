@@ -372,7 +372,7 @@ footer a:focus {
 
   .faq .intro {
     max-width: 800px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     margin: 90px auto;
   }
@@ -383,6 +383,7 @@ footer a:focus {
     padding: 60px;
     margin: 90px auto;
     max-width: 800px;
+    font-size: 16px;
   }
 
   .faq article a.lang-button {
@@ -393,9 +394,9 @@ footer a:focus {
     font-weight: 300;
   }
 
-  .faq article h2,
-  .faq article h3,
-  .faq article h4 {
+  .faq article > h2,
+  .faq article > h3,
+  .faq article > h4 {
     font-size: 28px;
     font-weight: 700;
     margin-top: 0;
@@ -403,9 +404,9 @@ footer a:focus {
     position: relative;
   }
 
-  .faq article h2 a:hover::before,
-  .faq article h3 a:hover::before,
-  .faq article h4 a:hover::before {
+  .faq article > h2 a:hover::before,
+  .faq article > h3 a:hover::before,
+  .faq article > h4 a:hover::before {
     position: absolute;
     left: -1ch;
     content: '#';
@@ -542,13 +543,15 @@ footer a:focus {
   .faq .intro {
     padding: 0 16px;
     margin: 16px 0;
+    font-size: 16px;
+    font-weight: 300;
   }
 
   .faq article {
     margin: 16px;
     padding: 30px;
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .faq article a.lang-button {
@@ -559,9 +562,9 @@ footer a:focus {
     font-weight: 300;
   }
 
-  .faq article h2,
-  .faq article h3,
-  .faq article h4 {
+  .faq article > h2,
+  .faq article > h3,
+  .faq article > h4 {
     font-size: 24px;
     font-weight: 700;
     margin-top: 0;
@@ -570,9 +573,9 @@ footer a:focus {
   }
 
 
-  .faq article h2 a:hover::before,
-  .faq article h3 a:hover::before,
-  .faq article h4 a:hover::before {
+  .faq article > h2 a:hover::before,
+  .faq article > h3 a:hover::before,
+  .faq article > h4 a:hover::before {
     position: absolute;
     left: -1ch;
     content: '#';
