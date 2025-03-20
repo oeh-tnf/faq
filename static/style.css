@@ -96,13 +96,17 @@
   --color-fg-title: #ffffff;
   --color-bg-sectionheader: #edf4fa;
   --color-fg-sectionheader: #18197c;
-  --color-bg-nav: #95bfe0;
+  --color-bg-nav: #c9deef;
   --color-fg-nav: #18197c;
   --color-fg-nav-hover: #f09500;
   --color-bg-btn: #18197c;
   --color-fg-btn: #ffffff;
   --color-bg-btn-hover: #f09500;
   --color-fg-btn-hover: #ffffff;
+  --color-bg-btn-inv: #f09500;
+  --color-fg-btn-inv: #ffffff;
+  --color-bg-btn-inv-hover: #18197c;
+  --color-fg-btn-inv-hover: #ffffff;
   --color-bg-footer: #2b7fc2;
   --color-fg-footer: #ffffff;
   --color-fg-footer-hover: #f09500;
@@ -121,6 +125,23 @@ header h1 {
   background-color: var(--color-bg-title);
   color: var(--color-fg-title);
 }
+
+header a.lang-button {
+  background-color: var(--color-bg-btn-inv);
+  color: var(--color-fg-btn-inv);
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+}
+
+header a.lang-button:hover,
+header a.lang-button:active,
+header a.lang-button:focus {
+  background-color: var(--color-bg-btn-inv-hover);
+  color: var(--color-fg-btn-inv-hover);
+}
+
 
 .faq-list section {
   background-color: var(--color-bg-card);
@@ -217,10 +238,13 @@ header h1 {
 nav {
   background-color: var(--color-bg-nav);
   color: var(--color-fg-nav);
+  font-weight: 600;
 }
 
 nav a {
   color: var(--color-fg-nav);
+  font-weight: 400;
+  text-decoration: none;
 }
 
 nav a:hover,
@@ -260,14 +284,26 @@ footer a:focus {
     grid-column-end: -1;
   }
 
-  header a {
+  header a.logo-link {
     display: block;
-    margin: 15px 15px;
-    text-align: center;
+    margin: 15px auto;
+    width: min-content;
   }
 
-  header a img {
+  header a.logo-link img {
     height: 100px;
+  }
+
+  header a.lang-button {
+    display: block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 24px;
+    position: absolute;
+    top: 41px;
+    right: 41px;
+    font-size: 18px;
   }
 
   header h1 {
@@ -419,14 +455,26 @@ footer a:focus {
     margin: 0;
   }
 
-  header a {
-    margin: 10px 15px;
+  header a.logo-link {
+    margin: 10px auto;
     display: block;
-    text-align: center;
+    width: min-content;
   }
 
-  header a img {
+  header a.logo-link img {
     height: 60px;
+  }
+
+  header a.lang-button {
+    display: block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 24px;
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    font-size: 18px;
   }
 
   header h1 {
