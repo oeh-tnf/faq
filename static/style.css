@@ -666,8 +666,11 @@ footer a:focus {
     display: block;
     width: 80vw;
     height: 100vh;
-    padding: 52px 0px;
+    padding: 16px 0px;
+    padding-top: 52px;
     border-radius: 0;
+    overflow-y: scroll;
+    box-sizing: border-box;
   }
 
   nav ul {
@@ -679,6 +682,7 @@ footer a:focus {
   nav > ul {
     padding: 0px 16px;
     width: 80vw;
+    margin: 0;
   }
 
   nav ul li {
