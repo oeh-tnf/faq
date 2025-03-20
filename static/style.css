@@ -673,6 +673,10 @@ footer a:focus {
     box-sizing: border-box;
   }
 
+  nav.scripted.shown {
+    width: 100vw;
+  }
+
   nav ul {
     list-style: none;
     padding-left: 16px;
