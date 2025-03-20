@@ -34,28 +34,30 @@ function renderMarkup (markdown)
 end
 
 function processQuestions (questions)
-    for _,question in pairs(questions) do
-        if question.de then
-            local id = question.de.q
-            id = string.lower(id)
-            id = string.gsub(id, "ä", "ae")
-            id = string.gsub(id, "ö", "oe")
-            id = string.gsub(id, "ü", "ue")
-            id = string.gsub(id, "ß", "ss")
-            id = string.gsub(id, "-", "")
-            id = string.gsub(id, " ", "-")
-            id = string.gsub(id, "[^0-9a-z%-]", "")
-            question.de.id = id
-            question.de.a = renderMarkup(question.de.a)
-        end
-        if question.en then
-            local id = question.en.q
-            id = string.lower(id)
-            id = string.gsub(id, "-", "")
-            id = string.gsub(id, " ", "-")
-            id = string.gsub(id, "[^0-9a-z%-]", "")
-            question.en.id = id
-            question.en.a = renderMarkup(question.en.a)
+    if questions then
+        for _,question in pairs(questions) do
+            if question.de then
+                local id = question.de.q
+                id = string.lower(id)
+                id = string.gsub(id, "ä", "ae")
+                id = string.gsub(id, "ö", "oe")
+                id = string.gsub(id, "ü", "ue")
+                id = string.gsub(id, "ß", "ss")
+                id = string.gsub(id, "-", "")
+                id = string.gsub(id, " ", "-")
+                id = string.gsub(id, "[^0-9a-z%-]", "")
+                question.de.id = id
+                question.de.a = renderMarkup(question.de.a)
+            end
+            if question.en then
+                local id = question.en.q
+                id = string.lower(id)
+                id = string.gsub(id, "-", "")
+                id = string.gsub(id, " ", "-")
+                id = string.gsub(id, "[^0-9a-z%-]", "")
+                question.en.id = id
+                question.en.a = renderMarkup(question.en.a)
+            end
         end
     end
 end
@@ -72,7 +74,7 @@ for _,faq in pairs(faqs) do
     if faq.sections then
         for _,section in pairs(faq.sections) do
             processQuestions(section.questions)
-            if faq.sections then
+            if section.subsections then
                 for _,subsection in pairs(section.subsections) do
                     processQuestions(subsection.questions)
                 end
