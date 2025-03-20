@@ -1,0 +1,1445 @@
+logo.src = "informatik_ai.png"
+logo.href = "https://oeh.jku.at/cs/"
+
+de.title = "Informatik & AI Studium FAQ"
+en.title = "CS & AI Study FAQ"
+
+de.intro = '''
+Als Studienvertretungen für Informatik und AI werden wir oft mit Fragen zu unseren Studien kontaktiert. Dieses FAQ sollte dabei helfen, die meisten davon zu beantworten.
+
+Das FAQ besteht aus drei Teilen: Fragen, die alle betreffen, dann Fragen zum Bachelorstudium, und zuletzt Fragen zum Master.
+Am Ende des Dokuments findest du außerdem einen Link zu unserem Discord FAQ & Guide und zu unserem Internationals FAQ.
+
+Für eine Sammlung von wichtigen Informationen zum Studienstart empfiehlt sich auch ein Blick in unseren Leitfaden. Du findest den Leitfaden für Informatik [hier](https://oeh.jku.at/cs/resources) bzw. den Study Guide für [AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569) hier!
+
+Wenn du weitere Fragen oder Feedback hast, kannst du dich jederzeit an uns wenden. Entweder per Mail ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) und [ai@oeh.jku.at](mailto:ai@oeh.jku.at) ), oder via Discord. Falls du noch nicht auf unserem Discord Server für Informatik & AI bist, tritt gerne über diesen Link bei: <https://discord.gg/wAek576>.
+
+Das FAQ wird stetig erweitert, den Stand der letzten Bearbeitung findest du unten. Wir haben uns bei der Beantwortung große Mühe gegeben, es können sich aber natürlich Fehler eingeschlichen haben. Bitte melde dich bei uns, solltest du welche finden, und behandle das FAQ als Erstauskunft - wende dich bei komplexeren Problemen direkt an uns.
+
+Wir referenzieren im FAQ manchmal auch bestehende Gesetze, damit du dich selbst weiter informieren kannst. Die Deutung von Gesetzestexten ist aber nicht immer ganz einfach, hol dir also gerne Unterstützung von uns. Wir verwenden primär die folgenden beiden Quellen und ihre gängigen Abkürzungen:
+[Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) und [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
+'''
+en.intro = '''
+As student representatives for Computer Science and AI, we are frequently contacted with questions about our studies. This FAQ should help answer most of them.
+
+This FAQ is divided into three sections: General questions, questions about the Bachelor and then ones concerning the Master's studies.
+At the end of the document, you will also find the link to our Discord FAQ & Guide, and to our Internationals FAQ.
+
+We have also created a more in-depth study guide that should help you with the start of your study. You can find the guide for Computer Science [here](https://oeh.jku.at/cs/resources) and the one for AI [here](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
+
+If you have any further questions or feedback, do not hesitate to contact us. Either via email ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) and [ai@oeh.jku.at](mailto:ai@oeh.jku.at)) or via Discord. If you are not yet on our Discord server for Computer Science & AI, join by following this link: <https://discord.gg/wAek576>.
+
+The FAQ is constantly being updated. You can find the date it was last modified below. We have taken great care in answering the questions, but of course, errors may occur. Please contact us if you find any, and treat the FAQ as initial information - contact us directly for solutions to more complex problems.
+
+Finally, we will sometimes provide law references to aid you in finding further information yourself. Law texts are usually in German and a bit hard to interpret, however, so feel free to ask for assistance. We will mostly refer to two texts of law and will use the common shorthand abbreviation when doing so:
+[Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) and [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
+'''
+
+[[sections]]
+
+de.title = "Allgemein"
+en.title = ""
+
+[[sections.subsections]]
+
+de.title = "Anmeldung und Studienplanung"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Was sollte ich für den Anfang wissen?"
+de.a = '''
+Wir empfehlen dir immer, zum ersten Termin deiner LVAs zu gehen. Oft wird dort viel Organisatorisches besprochen, das für den restlichen Kurs wichtig ist. Bei LVAs mit Anwesenheitspflicht kann es außerdem sein, dass dein Platz an eine Person auf der Warteliste gegeben wird, wenn du zum ersten Termin nicht erscheinst.
+
+
+Wir haben einen aktiven Discord Server für alle, die Informatik und/oder AI studieren.
+Tritt über diesen Link bei: <https://discord.gg/wAek576>
+Wenn du Fragen hast, kannst du dich jederzeit an uns, die Studienvertretung Informatik & AI, wenden. Entweder per Mail ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) and [ai@oeh.jku.at](mailto:ai@oeh.jku.at)), oder via Discord.
+Für Erstsemestrige haben wir zudem einen Leitfaden ausgearbeitet, den wir dir sehr ans Herz legen können. Schmöker einmal durch den “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources)” bzw. den [Study Guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es Anforderungen für eine Zulassung zum Studium?"
+de.a = '''
+Für unsere Bachelor-Studiengänge gibt es keine besonderen Erfordernisse. Du musst wie bei allen Bachelor-Studien nachweisen, dass du auf Matura-Niveau bist (etwa durch dein Matura-Zeugnis, eine [Studienberechtigungsprüfung](https://www.jku.at/studium/studierende/studienberechtigungspruefung), Sprachzertifikate etc.). Genaueres erfährst du beim [Anmelde-FAQ der JKU](https://www.jku.at/studium/studieninteressierte/anmeldung-zum-studium/bachelor-diplom/) und in unserem [Internationals FAQ](../../internationals/en/).
+
+Für unsere Master-Kurse musst du ein aufbauendes Bachelor-Studium absolviert haben - mehr Infos zu etwaigen zusätzlichen Prüfungen findest du auf der [Hilfeseite der JKU](https://www.jku.at/studium/studieninteressierte/anmeldung-zum-studium/master/) und beim jeweiligen Master-Abschnitt im FAQ weiter unten.
+
+In keinem Fall ist dein Notenschnitt von Bedeutung, es gibt auch keine Quoten oder eine Begrenzung der Studierendenzahlen: Sofern du die geforderten Dokumente fristgerecht einreichst, wirst du zum Studium zugelassen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Welche Fächer soll ich machen?"
+de.a = '''
+Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) findest du den vorgeschlagenen Studienplan. Es ist ratsam, sich für alle empfohlenen LVAs eines Semesters anzumelden. Wenn es dir zuviel wird, kannst du während des Semesters noch Fächer aufhören. Der Studienplan ist aber nur eine Empfehlung, du kannst ihn (mit Einschränkungen) nach deinen Bedürfnissen abändern.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was heißt “VO”, “UE”, etc. bei LVAs?"
+de.a = '''
+##### Vorlesungen (VO oder VL)
+
+geben einen Überblick über ein Fach und dessen theoretische Ansätze und präsentieren unterschiedliche Lehrmeinungen und Methoden. Die Inhalte werden überwiegend im Vortragsstil vermittelt. Eine Vorlesung hat nie Anwesenheitspflicht und wird normalerweise durch eine einzelne Klausur am Semesterende bewertet. Manche Vorlesungen bieten zusätzliche Wege an, eine Note zu erhalten (z.B. Mini-Tests).
+
+##### Übungen (UE) und Praktika (PR)
+
+vertiefen den Vorlesungsstoff. Was für einen positiven Abschluss einer LVA geleistet werden muss, wird von der vortragenden Person festgelegt: Meist gibt es regelmäßige Übungsabgaben, es können aber auch Tafel-Präsentationen, Lab-Reports oder Übungstests sein. Anwesenheitspflicht wird von der LVA leitenden Person bestimmt. Genauere Informationen findest du immer im KUSSS beim [Studienhandbuch](https://studienhandbuch.jku.at/index.php)-Eintrag der jeweiligen LVA.
+
+##### Seminare (SE)
+
+sind wissenschaftlich weiterführende Lehrveranstaltungen. Sie dienen dem Erwerb von vertieftem Fachwissen und Kompetenzen sowie der Diskussion und Reflexion wissenschaftlicher Themen. Meist sucht man sich ein Thema, schreibt eine Seminararbeit und präsentiert diese dann am Ende vom Semester vor den LVA-Teilnehmer*innen. Ein Seminar hat in der Regel verpflichtende Anwesenheit.
+
+##### Kombinierte Veranstaltungen (KV)
+
+sind eine Kombination aus Vorlesung und Übung. Ob Anwesenheit besteht und wie sich die Note zusammensetzt, hängt von der vortragenden Person ab.
+
+Weitere LVA-Arten, welche nicht in Informatik und AI Curricula enthalten sind: Übung mit Vorlesung (UV), Vorlesung mit Übung (VU), Grundkurs (GK), Exkursion (EX), Konversatorium (KO), Proseminar (PS), Sprachkurs (SK), Interdisziplinäres Projekt (IP), Künstlerischer Einzelunterricht (KE), Künstlerischer Gruppenunterricht (KG)...
+Mehr Infos über sie findest du in _§§ 13f Satzung_.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich im Vorhinein heraus, ob eine LVA Anwesenheitspflicht hat?"
+de.a = '''
+Wenn Anwesenheitspflicht besteht, sollte dies im KUSSS im [Studienhandbuch](https://studienhandbuch.jku.at/index.php)-Eintrag zur jeweiligen LVA unter “Beurteilungskriterien” aufgelistet sein.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie melde ich mich zu Kursen an?"
+de.a = '''
+Du kannst dich für Kurse während des Anmeldungszeitraums registrieren, du findest die Termine auf der [JKU-Website](https://www.jku.at/studium/studierende/fristen-und-termine/).
+Manche Kurse werden nach dem “first come, first served”-Prinzip zugeteilt, bei anderen spielt die Reihenfolge keine Rolle - sieh dir dazu die [Zuteilungsarten](https://www.jku.at/index.php?id=9629) an und priorisiere bei der Anmeldung entsprechend.
+
+Wir empfehlen dir also, schon vorher zu überlegen, zu welchen Kursen du dich anmelden möchtest. Bei manchen Kursen gibt es außerdem mehrere Zeitslots, also stell sicher, dass sie sich nicht überlappen. Das Kursangebot ist immer mindestens eine Woche vor Anmeldung verfügbar.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie funktioniert KUSSS?"
+de.a = '''
+Siehe dafür das KUSSS FAQ [hier](https://www.jku.at/studium/studierende/kusss/kusss-faq/).
+'''
+
+en.q = "Ich bin nicht in meinen Kurs gekommen, was nun?"
+en.a = '''
+Schreib höflich eine Mail an die LVA-Leitung und frag nach, ob für dich noch Platz ist. Wenn nicht, geh unbedingt trotzdem zum ersten Termin der LVA, die du gerne besuchen würdest. Sag Bescheid, dass du noch keinen Platz hast. Oft werden dann die Plätze von den nicht anwesenden Studierenden vergeben.
+
+Bei Pflichtkursen hast du ein Anrecht auf einen Platz (§ 59 Abs. 4 UG), wenn dir sonst eine Studienzeit-Verlängerung droht - melde dich in diesem Fall unbedingt bei uns.
+
+Die JKU hat außerdem eine [Reklamationsstelle](https://www.jku.at/studium/studierende/kusss/kusss-faq/reklamationsmanagement/) für solche Fälle, die sich notfalls darum kümmert, dass für dich noch ein Platz in einem Kurs geschaffen wird.
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe eine Überschneidung von Kursen, was nun?"
+de.a = '''
+Das kommt auf die Art der LVA an. Bei einer Vorlesung besteht keine Anwesenheitspflicht, das heißt, du musst nicht hingehen und kannst die andere LVA besuchen.
+
+Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe die nächste Frage.
+Wenn du nach dem vorgeschlagenen Studienplan studierst, sollte es zu keinen Überschneidungen kommen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich meine Übungsgruppe wechseln?"
+de.a = '''
+Schreib eine höfliche Mail mit deinem Anliegen an die LVA-Leitung. Vergiss die LVA-Nummer und deine Matrikelnummer nicht!
+
+Die LVA-Leitung wird dir dann Bescheid geben, ob ein Wechsel möglich ist.
+Falls Wechseln nicht möglich ist, schau trotzdem zum ersten Termin deiner gewünschten Übungsgruppe und sag der LVA-Leitung, dass du in diese Gruppe wechseln möchtest. Oft kann eine Lösung gefunden werden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich die Mail-Adressen von meinen LVA-Leiter*innen?"
+de.a = '''
+Es gibt kein zentrales Verzeichnis aller E-Mail-Adressen. Wenn du also eine Mail Adresse einer bestimmten Person suchst, such online nach ihrem Namen + JKU. Der erste Treffer ist meistens die Institutswebsite mit all den Informationen, die du brauchst.
+
+Beispiel: _Martina Seidl JKU_ bringt dir [diesen](https://www.jku.at/institut-fuer-symbolic-artificial-intelligence/team/martina-seidl/) ersten Treffer und hier findest du auch alle Informationen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie schreibe ich eine Mail an LVA-Leiter*innen?"
+de.a = '''
+Zuallererst: Sei höflich! Deine Chancen auf Erfolg sind viel höher, wenn du nett bist und die Zeit deiner LVA-Leitung respektierst.
+
+Schreibe immer den LVA-Namen dazu, wenn du eine Frage zu einer bestimmten LVA hast. Erwähn auch die LVA-Nummer (sechsstellig mit Punkt in der Mitte, du findest sie im KUSSS).
+
+Unterzeichne am Ende immer mit deinem Namen und deiner Matrikelnummer.
+
+Am besten ist es, du schreibst auch deine Studienkennzahl (SKZ) dazu: Für den Bachelor Informatik ist das 033/521, AI Bachelor 033/536, Master Computer Science 066/921, und für Master AI 066/993. Alle Studienkennzahlen findest du [hier](https://www.jku.at/fileadmin/gruppen/381/ZUS/Zulassung/SKZ_aktuell_2020W.pdf).
+
+Deine kleine Checkliste vor dem Abschicken einer E-Mail sollte also sein:
+
+* LVA-Nummer & -Name
+* Name + Matrikelnummer
+* SKZ
+* höflich formuliert
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es etwas zu beachten, wenn ich nicht nach empfohlenem Studienplan studiere?"
+de.a = '''
+Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die StEOP baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
+
+Es macht grundsätzlich Sinn, LVAs in der empfohlenen Reihenfolge zu absolvieren: Oft ist eine Abhängigkeit auch recht ersichtlich, zum Beispiel bei “Hands-on AI I” und “Hands-on AI II”. Es wird nicht überprüft, ob du die vorangegangene LVA schon abgeschlossen hast, aber das Wissen wird vorausgesetzt. Eine grobe Richtlinie, in welcher LVA welches Wissen vorausgesetzt wird, findest du am Ende des [Informatik Curriculum Guides](https://oeh.jku.at/cs/resources) und für AI [hier](https://discord.com/channels/370458917073059841/379966639602401301/884847119670853652) auf unserem [Discord-Server](https://discord.gg/wAek576).
+
+Melde dich gerne bei uns, wenn du Hilfe bei deinem Studienplan brauchst!
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Müssen Vorlesung und Übung zu einem Thema gemeinsam absolviert werden?"
+de.a = '''
+Oft werden Fächer in zwei LVAs geteilt: Eine Vorlesung für theoretische Inhalte, und eine Übung zur praktischen Umsetzung. In diesem Fall können sie immer getrennt absolviert werden, und es gibt für jedes Fach eine eigene Note.
+
+Aufgrund der starken inhaltlichen Nähe wird allerdings empfohlen, beide gleichzeitig zu absolvieren - dadurch sparst du dir nicht nur den doppelten Lernaufwand, die Verflechtung von Theorie und Praxis hilft auch beim Verständnis.
+
+Bei manchen Fächern (etwa VL und UE Logic) können zudem durch einen Prüfungsantritt Noten für beide LVAs erlangt werden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind Special Topics (“Spezielle Kapitel”)?"
+de.a = '''
+Special Topics sind Kurse, die nicht jedes Jahr/Semester angeboten werden, weil sie eben ein spezielles Thema und wechselnden Inhalt haben.
+
+Special Topics ermöglichen es den Instituten, aktuelle Trends in ihren Bereichen aufzugreifen und das Lehrangebot von Gastlehrenden zu nutzen. Lehrveranstaltungen dieser Kategorie können angekündigt werden, ohne im Studienplan aufgeführt zu sein, und es besteht keine Verpflichtung, sie regelmäßig abzuhalten.
+
+Die Bezeichnung von Special Topics besteht aus einem Haupttitel ("Special Topics:") und einem Untertitel, der den eigentlichen Inhalt der Lehrveranstaltung darstellt.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind freie Studienleistungen?"
+de.a = '''
+Jedes österreichische Uni-Studium muss “Freie Studienleistungen” beinhalten - sie sollen Studierenden die Möglichkeit geben, auch über ihr Fachgebiet hinaus Einblicke in die Wissenschaft zu erhalten. Die dafür vorgesehenen ECTS kannst du darum durch beliebige Fächer an einer beliebigen österreichischen Universität absolvieren, vom Sprach- bis zum Töpferkurs. Es ist natürlich auch möglich (wenngleich nicht unbedingt Ziel der Maßnahme), ein Informatik-Fach für die freien Studienleistungen zu nutzen.
+Viele [ehrenamtliche Dienste](https://www.jku.at/rektorat/vizerektorat-fuer-lehre-und-studierende/anrechnung-ehrenamtlicher-taetigkeit/) geben ebenfalls “Freie ECTS” - auf unserem [Discord-Server](https://discord.gg/wAek576) kannst du dich im `#free-electives` channel zu den besten Fächern austauschen.
+
+Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch Regeln zur Anrechnung) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
+Wenn du ein Fach an einer anderen Universität absolvieren möchtest, lies dir die Regeln der jeweiligen Uni zu “Mitbelegung” durch.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich neben dem Studium arbeiten? Wie viele ECTS soll ich machen?"
+de.a = '''
+Die Studien sind prinzipiell als Vollzeitstudium (30 ECTS pro Semester) ausgelegt. Grundsätzlich gilt, dass ein Credit-Punkt ca. 25 Arbeitsstunden ausmacht, du also jedes Semester über 40 Stunden pro Woche an Zeit einplanen musst.
+
+Da man auf der Universität selbst entscheiden kann, wie viele Kurse man belegt, empfiehlt es sich darum, bei Arbeit neben dem Studium weniger als 30 ECTS zu machen: Man muss dann natürlich mit Verzögerungen in der Studienzeit rechnen, die empfohlene Studiendauer wird sich so also nicht mehr ausgehen.
+
+
+Im Bachelor wird darum empfohlen, erst frühestens ab dem 5. Semester zu arbeiten - uns ist aber selbstverständlich klar, dass das nicht für alle finanziell möglich ist: Wenn du Probleme hast, dir das Studium leisten zu können, sieh dir die Frage zur finanziellen Unterstützung an.
+
+Die Anzahl an ECTS, die du im Semester machen kannst/sollst, ist natürlich von deiner freien Zeit und deinen Vorkenntnissen abhängig.
+Gerne beraten wir dich individuell dazu, schreib uns einfach eine E-Mail oder eine Nachricht auf Discord!
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich mehr als 30 ECTS pro Semester machen?"
+de.a = '''
+Wie oben schon erwähnt, steht es dir grundsätzlich frei, auch mehr als die empfohlenen 30 ECTS pro Semester zu absolvieren, angenehm ist es aber sicher nicht.
+
+Falls du das Studium primär für den Titel absolvierst, bereits entsprechende Vorbildung hast und bereit bist, sehr wenig Freizeit zu haben, kannst du deine Studiendauer durch eine höhere ECTS-Zahl pro Semester aber natürlich verkürzen. Natürlich musst du dann unsere Frage zu einer individuellen Studienplanung berücksichtigen - wir beraten dich gerne individuell.
+
+Mach dir aber bitte bewusst, dass du damit nicht nur soziale Einbuße hast, sondern auch inhaltlich vermutlich nicht so viel mitnehmen wirst - viele Lernprozesse passieren schließlich auch außerhalb der Kurse bei Gesprächen mit deinen Kommiliton:innen und Professor:innen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich einen Kurs für mehrere Studiengänge nutzen? Kann ich mir einen ähnlichen Kurs anrechnen? "
+de.a = '''
+Ja, Kurse können für mehrere Studien verwendet werden, mit einigen Einschränkung. Insbesondere dürfen die beiden Studiengänge nicht voneinander abhängen: Wenn du den Kurs für einen Abschluss verwendet hast (z.B.: BSc Informatik), und dieser Titel dann Voraussetzungen für den zweiten Studiengang (z.B.: MSc Computer Science) ist, kannst du den Kurs darin nicht verwenden. Ähnliche Einschränkungen gelten auch für Vorstudienlehrgänge.
+
+Wenn der Kurs in den beiden Studiengängen nicht exakt gleich ist, kann trotzdem eine Anrechnung möglich sein. Sieh dir für Informatik [diese Seite](https://cs.jku.at/teaching/stuko/credittransfer/) an und kontaktiere für AI [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich kann im nächsten Semester keine LVAs abschließen, was soll ich tun?"
+de.a = '''
+Falls es dir mal nicht möglich ist, für ein oder zwei Semester zu studieren, du aber nicht vorhast, das Studium abzubrechen, kannst du dich beurlauben lassen. Dies ist maximal zwei Semester hintereinander möglich. Gründe für Beurlaubung und Formulare findest du [hier](https://www.jku.at/studium/studierende/beurlaubung/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie lange darf ich für mein Studium brauchen? Ab wann muss ich Geld zahlen?"
+de.a = '''
+Grundsätzlich gibt es keine maximale Studiendauer, ein Studium ist aber mit Kosten verbunden. Jedes Semester musst du den ÖH-Beitrag (rund 25€) zahlen.
+
+Je nach Staatsbürgerschaft musst du zudem Studiengebühren zahlen: EU- bzw. EWR-Bürger:innen zahlen während der Mindeststudienzeit + zwei Toleranzsemestern keine Studiengebühren (in unserem Bachelor sind das also z.B. acht beitragsbefreite Semester). Mehr Infos findest du [hier](https://www.jku.at/studium/studierende/dein-studienstart/oeh-und-studienbeitrag/).
+
+Für manche Förderungen (etwa die Studienbeihilfe) hast du nur ein Toleranzsemester, bevor die Unterstützung eingestellt wird.
+
+Beachte im Bachelor die Mindeststudienleistung.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich eine LVA aufhören?"
+de.a = '''
+Bei den meisten LVAs kannst du dich bis zum ersten Termin einfach im KUSSS abmelden. Wenn du diese Frist verpasst, hängt das weitere Vorgehen von der LVA-Art ab:
+Bei Vorlesungen meldest du dich einfach nicht zur Prüfung an, das kostet dich keinen Antritt und hat auch sonst keinerlei Konsequenzen. Du musst deine LVA-Leitung nicht informieren.
+
+Bei Übungen, KVs oder Praktika gibt es oft einen festgelegten Modus, der meist in der ersten Übungseinheit erklärt wird (z.B. "Nach zwei abgegeben Hausübungen bekommt man eine Note”), rechtlich gesehen kannst du aber ab der ersten erbrachten Leistung beurteilt werden. Willst du den Kurs beenden, schreib eine höfliche Mail an die LVA-Leitung, ob sie dich vom Kurs abmelden kann.
+
+Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber mehrere Versuche.
+'''
+
+en.q = "Gibt es finanzielle Unterstützung?"
+en.a = '''
+Die ÖH hat einige Angebote, die dir die Finanzierung deines Studiums erleichtern können. Eine Liste findest du [hier](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
+
+Zusätzlich gibt es auch viele [weitere staatliche Unterstützungsangebote](https://www.stipendium.at/), die etwa berufstätigen Studierenden helfen sollen.
+
+Bitte wende dich bei Fragen an unsere Expert:innen im [ÖH JKU Soziareferat](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Brauche ich einen Laptop, und was muss er können?"
+de.a = '''
+Prinzipiell gibt es auf der Universität zum Beispiel in der Bibliothek PCs, die man verwenden kann. Weil aber so gut wie alle Abgaben elektronisch erfolgen, es regelmäßige Hausaufgaben am PC gibt usw., ist ein Laptop sehr empfehlenswert.
+
+
+Es reicht im Grund fast jeder Laptop mit Windows, macOS oder Linux, er muss nichts Spezifisches können oder eine bestimmte Ausstattung haben. Grundsätzlich raten wir von Chromebooks, Android-Tablets und iPads als Haupt-Arbeitsgeräten ab, weil nicht alle empfohlenen Programme damit kompatibel sind.
+
+In manchen seltenen Fällen kann es sein, dass du für ein Programm eine virtuelle Maschine mit einem bestimmten Betriebssystem benötigst, das kann dir aber unabhängig vom Host-System passieren.
+
+Für ideales Arbeiten empfehlen wir ein Gerät mit mindestens 8GB RAM, einer SSD, einem 1920x1080 Bildschirm, und einer Akkulaufzeit von mindestens 2h: Nicht in jedem Raum steht eine Steckdose zur Verfügung.
+Des Weiteren ist ein leichter Laptop super: Du wirst ihn viel herumtragen.
+
+Wenn du einen neuen Laptop suchst, gibt es oft auch spezielle Angebote für Studierende im Netz, etwa unter [edustore](https://www.edustore.at/) und [u:book](https://ubook.at/) - vergleich hier aber in jedem Fall die Preise. Geräte mit den Spezifikationen oben findest du in der Regel für unter 400€ auf gängigen [Vergleichsportalen](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+
+Übrigens: Die JKU hat auch eine Menge an [kostenloser Software](https://help.jku.at/im/de/software/software-fuer-studierende) für dich, die du also nicht kaufen musst.
+
+Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wo finde ich Templates für Präsentationen und Arbeiten?"
+de.a = '''
+Das Institut für Netzwerke und Sicherheit hat praktische LaTeX-Templates ausgearbeitet, die du für Seminar-Arbeiten, technische Reports und vor allem für Abschlussarbeiten verwenden kannst: Du findest den aktuellen Release auf [GitHub](https://github.com/michaelroland/jku-templates-report-latex).
+
+Für Präsentationen gibt es ein eigenes Template, das du ebenfalls auf [GitHub](https://github.com/michaelroland/jku-templates-presentation-latex) findest.
+
+Weitere Templates und Richtlinien für deine Thesis findest du auf der [JKU-Website](https://www.jku.at/studium/studierende/abschlussarbeiten/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Prüfungen"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Wie melde ich mich zu Prüfungen an?"
+de.a = '''
+Für Vorlesungsprüfungen musst du dich rechtzeitig via [KUSSS](https://kusss.jku.at/kusss/szsearchexam.action?search=true&searchType=mylvas) anmelden, um teilnehmen zu dürfen. Folge einfach dem Link oben und such nach dem entsprechenden Kurs. Kannst du keine Prüfung finden, siehe unten.
+
+Für Übungen, Kurse und Seminare gilt die Anmeldung zur Lehrveranstaltung bereits als Anmeldung und Zulassung zur Lehrveranstaltungsprüfung. Schau sicherheitshalber trotzdem nach, ob sich deine LVA-Leitung eine zusätzliche Anmeldung wünscht.
+
+Du kannst dich zu Lehrveranstaltungsprüfungen für Vorlesungen und Kurse bis zum Ende des zweiten auf die Abhaltung folgenden Semesters anmelden, dann musst du dich erneut vorab bei der LVA selbst anmelden. (§ 27 Satzung)
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe mich zu einer Klausur angemeldet, kann sie aber nicht schreiben. Was nun?"
+de.a = '''
+In der Regel hast du bis kurz vor der Klausur Zeit, um dich von einem Antritt wieder abzumelden. Details findest du im KUSSS und [my.jku.at](https://my.jku.at) bei der entsprechenden Prüfung.
+
+Falls du diese Frist verpasst hast, kannst du versuchen, dich per Mail an die LVA-Leitung abzumelden.
+
+Schreibst du eine Klausur nicht, zu der du angemeldet warst, kostet dich das keinen Klausur-Antritt: Es kann keine Leistung bewertet werden, wenn du keine erbracht hast. Lehrende können dich in manchen Fällen aber für den nächsten Klausur-Antritt blockieren und so deinen Studienfortschritt verzögern. Das passiert zwar selten, in der Regel ist es aber allgemein keine gute Idee, Leute zu verärgern, die deine Klausur bewerten - meld dich bitte ab!
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie viele Klausurtermine gibt es für Vorlesungen, und warum sind bei der Anmeldung noch nicht alle eingetragen?"
+de.a = '''
+Pro Semester müssen in allen **Vorlesungen** (VL/VO) drei Klausurtermine angeboten werden, also auch in Semestern, in denen die LVA gar nicht angeboten wird (_§ 76 Abs. 3 UG und § 33 Abs. 2 Satzung_). Meist werden aber zu Semesterbeginn nur zwei eingeplant. Wenn du also noch einen brauchst, frag höflich bei dem oder der LVA-Leiter*in nach, ob noch ein Termin angeboten wird oder ob du eine mündliche Prüfung machen kannst. Falls dir das verwehrt wird, wende dich bitte an uns ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) bzw. [ai@oeh.jku.at](mailto:ai@oeh.jku.at)) - wir kümmern uns darum, dass du einen weiteren Antritt erhältst.
+
+Klausurtermine findest du bei der Anmeldung als Notiz bei den LVA Terminen, oder im KUSSS unter dem Reiter „[LVA-Prüfungen](https://kusss.jku.at/kusss/szexaminationlist.action?search=true&searchType=mylvas)“. Wurden keine Termine eingetragen, melde dich gerne bei uns: Wir kümmern uns jeden Semesteranfang darum, dass alle Prüfungstermine fixiert sind.
+Besonders bei kleineren LVAs legen manche Profs den Prüfungstermin mit den Studierenden am Anfang des Semesters fest, um für alle einen passenden Termin zu finden.
+
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was passiert, wenn ich ein Fach nicht schaffe?"
+de.a = '''
+Jede LVA hat mehrere Antritte. Entweder es gibt Nachklausuren, oder du wiederholst die LVA zum nächstmöglichen Zeitpunkt. (Du meldest dich neu dafür an.)
+
+Handelt es sich um ein Pflichtfach, musst du das Fach wiederholen. Ist es eine Vertiefung oder eine LVA aus einem selbst zu wählenden Pool, ist es deine Entscheidung, ob du die LVA wiederholen willst.
+
+Negative Noten scheinen nicht auf deinem finalen Zeugnis auf.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie viele Antritte habe ich bei LVAs?"
+de.a = '''
+Negativ beurteilte Prüfungen der Studieneingangs- und Orientierungsphase (StEOP) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
+Es zählen alle Prüfungsantritte für dasselbe Prüfungsfach in allen facheinschlägigen Studien an derselben Universität.
+
+Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalten - siehe “Was ist eine kommissionelle Prüfung?” für mehr Infos.
+
+Die letzte Prüfung eines Studienabschnitts darf ein weiteres Mal wiederholt werden (_§ 77 Abs. 2 UG_).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was passiert, wenn ich alle Antritte aufbrauche?"
+de.a = '''
+Wenn du den letzten Antritt in einem Pflichtfach verbrauchst, wirst du automatisch exmatrikuliert. Es ist dir ab dann nicht mehr möglich, an der JKU ein Studium anzumelden, das dieses Fach als Pflichtgegenstand beinhaltet (_§ 63 Abs. 7 UG_).
+
+Du solltest also wenn möglich versuchen, es gar nicht so weit kommen zu lassen: Nimm bitte auf jeden Fall vorab Kontakt mit uns auf, damit wir gemeinsam nach einer Lösung suchen können. Folgende Optionen gibt es:
+
+1. Du fragst bei der LVA-Leitung nach, ob es andere Optionen zur Ablegung der Prüfung gibt.
+2. Du legst ein ähnliches Fach in einem anderen JKU-Studiengang ab und lässt es dir anrechnen - siehe etwa [diese Listen](https://cs.jku.at/teaching/stuko/credittransfer/) für mögliche Anrechnungen.
+3. Du legst das Fach an einer anderen Universität ab und lässt es dir anrechnen: Das ist aber leichter gesagt als getan - du kannst Fächer grundsätzlich nur dann an anderen Unis mitbelegen, wenn sie nicht bereits an der JKU angeboten werden (§ 63 Abs. 9 UG). Das Fach muss also einerseits unterschiedlich genug für eine Mitbelegung, aber ähnlich genug für eine Anrechnung sein - das Thema muss also in jedem Fall mit deinem Präses besprochen werden. Bei einem Auslandssemester gibt es diese Limitation nicht.
+4. Du wartest auf eine Studienplanänderung: Manchmal ändern sich LVAs (etwa durch Umbenennung) und erhalten eine neue Kursnummer. In diesem Fall werden oft auch deine Antritte resettet, die LVA wird also wie ein neuer Kurs behandelt. Frag sicherheitshalber beim Prüfungs- und Anerkennungsservice nach, ob so eine Änderung erfolgt ist.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Darf ich eine LVA wiederholen, die ich geschafft habe?"
+de.a = '''
+Positiv bewertete LVAs können unabhängig von der LVA-Art **einmal** wiederholt werden, und die Wiederholung muss innerhalb von einem Jahr passieren. Die neue Note muss also mit einem Datum innerhalb von 12 Monaten nach der alten eingetragen werden.
+
+Wenn du eine positiv bewertete LVA wiederholst, wird der ursprüngliche Antritt automatisch nichtig und damit vollständig von deinem Zeugnis entfernt: Wenn deine Wiederholung negativ ausfällt, musst du den Kurs also so lange wiederholen, bis du ihn erneut positiv abschließt. Der ursprüngliche positive Antritt zählt dabei nicht zu deiner Anzahl an Prüfungsantritten. Vgl. _§ 77 Abs. 1 UG_.
+
+Es empfiehlt sich, vorab Kontakt zu deinen Profs aufzunehmen und ihnen deine Situation zu schildern, manchmal finden sich alternative Lösungen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie lange darf es dauern, bis ich meine Noten bekomme? "
+de.a = '''
+Lehrende sind verpflichtet, dir spätestens vier Wochen nach der letzten erbrachten Leistung in einer LVA eine Note auszustellen - bei Vorlesungen ist das die Klausur, bei Übungen meist die letzte Einheit (_§ 34 Abs. 2 Satzung_). Falls das nicht der Fall ist, frag bitte freundlich bei der LVA-Leitung nach, oder wende dich an uns.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Darf ich meine Bewertungsgrundlagen / meine korrigierte Klausur einsehen?"
+de.a = '''
+Innerhalb von 6 Monaten nach Erhalt einer Note kannst du bei deiner LVA-Leitung eine Einsicht in die Beurteilungsunterlagen beantragen - bei Klausuren ist das die korrigierte schriftliche Klausur bzw. bei einer mündlichen Prüfung ein Protokoll der dir gestellten Fragen. Du darfst über die Klausur ein “Gedächtnisprotokoll” anfertigen und es mit anderen teilen, offene Fragen (also nicht Multiple Choice) und deine Antworten darfst du zudem abfotografieren oder anderweitig vervielfältigen.
+
+Für offene Fragen ist auch eine “elektronische Einsichtnahme” online möglich.
+
+Vgl. _§ 79 Abs. 5 UG_.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich gegen meine Note Einspruch erheben?"
+de.a = '''
+Nein, gegen Beurteilungen ist kein Rechtsmittel zulässig. Nur negative Noten können bei “schweren Mängeln” (etwa wenn die Klausurzeit signifikant kürzer ist als angekündigt) aufgehoben werden, in dem Fall wird dein negativer Antritt nichtig. Bitte melde dich unverzüglich bei uns, wenn du glaubst, dass ein solcher Mangel vorliegt: Ein Einspruch muss innerhalb von vier Wochen nach der Notenverkündung passieren (_§ 79 Abs. 1 UG_).
+
+Wenn du das Gefühl hast, ungerecht behandelt zu werden, kannst du für weitere Antritte eine kommissionelle Prüfung beantragen.
+
+Du kannst außerdem beantragen, dass du beim nächsten Mal von einer anderen dafür fachlich geeigneten Person deiner Wahl geprüft wirst (_§ 59 Abs. 13 UG_).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist eine kommissionelle Prüfung?"
+de.a = '''
+Bei einer kommissionellen Prüfung entscheidet nicht mehr eine einzelne Person über die Note, sondern ein Prüfungssenat. Sie ist also eine Mechanik, die sicherstellen soll, dass du nicht unfair behandelt wirst.
+
+Bei Klausuren wird deine Prüfungsleistung von mehreren Personen kontrolliert, bei Übungen und Co. wird versucht, deine kontinuierlich erbrachte Leistung auf einen Moment zu konzentrieren und diesen kommissionell zu überprüfen.
+
+Ab der dritten Wiederholung einer Vorlesungsklausur ist diese verpflichtend kommissionell abzuhalten, du kannst eine kommissionelle Prüfung aber auch schon vorher beantragen (_§ 77 Abs. 3 UG_). Unabhängig vom Kurstyp ist zumindest die letzte Wiederholung verpflichtend kommissionell abzuhalten (_§ 35 Abs. 3 Satzung_).
+
+Melde dich in jedem Fall vorab bei deiner LVA-Leitung, um Details zu klären!
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wo finde ich die Studienbestätigung bzw. mein Zeugnis?"
+de.a = '''
+Wichtige Dokumente zum Download findest du im KUSSS links unter “Meine Daten” im Reiter “Dokumente”. Dort findest du Studienbestätigung, Studienblatt und Studienerfolg im jeweiligen Tab.
+
+Ein Zeugnis wie in der Schule gibt es nicht. Man kann sich jedoch jederzeit seine Noten als PDF ausdrucken, das heißt auf der Universität “Studienerfolg”.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich meinen Notenschnitt berechnen? Wie schließe ich mit Auszeichnung ab?"
+de.a = '''
+Dein Curriculum besteht aus verschiedenen Fächern, die wiederum mehrere LVAs beinhalten. Deine Note für jedes Fach ist die Durchschnittsnote aller zugehörigen LVAs, gewichtet nach ihren ECTS (_§ 34 Abs. 4 Satzung_).
+
+Dein Zeugnis wird deine Noten für alle Fächer beinhalten.
+Du schließt mit Auszeichnung ab, wenn keine Fachnote schlechter als eine 2 ist und zumindest die Hälfte aller Fachnoten 1en sind (_§ 34 Abs. 5a Satzung_).
+Nicht alle Fachnoten werden für diese Berechnung verwendet, so sind zum Beispiel deine “Freien Studienleistungen” und die Noten für die “Master’s Thesis” und die “Master’s Thesis Seminars” für deine Auszeichnung irrelevant. Mehr dazu findest du in deinem Curriculum.
+
+Wenn du Informatik oder Computer Science studierst, kannst du auch unseren [automatischen Rechner](https://oeh.jku.at/cs/resources) nutzen, um deine Fachnoten zu ermitteln.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Studienvertretung (ÖH)"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Wie ist die ÖH aufgebaut?"
+de.a = '''
+
+Die Österreichischen Hochschüler_innenschaft ist in verschiedene Levels strukturiert:
+
+##### Studienvertretung (ÖH StV AI + StV Informatik)
+
+Deine Studienvertretung ist dein direkter Kontaktpunkt bei Problemen und Fragen zum Studium - in deinem Fall sind deine Vertreter:innen die StV AI und die StV Informatik. Für mehr zu unserer Arbeit, siehe Was machen die Studienvertretungen (StVs)?.
+
+##### Fakultätsvertretung (ÖH TNF)
+
+Die ÖH TNF ist die Vertretung aller Studierenden der Technik- und Naturwissenschaften Fakultät. Alle Studienvertretungen aus dem Fachbereich (und damit auch die StV AI und die StV Informatik) entsenden Mitglieder in die ÖH TNF. Dort koordinieren wir die Arbeit der einzelnen StVs: Viele unserer größten Veranstaltungen (z.B. die [JKU Games](https://games.oeh.jku.at)) werden auf diese Weise mitorganisiert, und auch bei vielen anderen Projekten (z.B. unseren Studienführern) arbeiten wir zusammen. Mehr über die ÖH TNF erfährst du [hier](https://oeh.jku.at/tnf).
+
+##### Universitätsvertretung (ÖH JKU / UV)
+
+Die ÖH JKU koordiniert die verschiedenen Fakultäten und kümmert sich um uni-weite Anliegen, sie kommentiert zum Beispiel Baupläne der JKU und Änderungen in Verordnungen. Die ÖH JKU hat außerdem spezialisierte Referate für manche Themen, zum Beispiel das Sozialreferat (Beihilfen, Barrierefreiheit…), das Referat für Migration und Integration (Visas, Ergänzungsprüfungen…) und ein ein Referat für rechtliche Fragen. Einen Überblick der ÖH JKU findest du [hier](https://oeh.jku.at/oeh-jku/referate).
+
+##### Bundesvertretung (BV)
+
+Die BV koordiniert die verschiedenen Universitäten und kommentiert Gesetzesentwürfe. Sie lobbyiert für uns gegenüber der Politik auf einem nationalen Level. Eine Erklärung zur Funktionsweise der ÖH findest du [hier](https://www.oeh.ac.at/ueber-uns/).
+
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was machen die Studienvertretungen (StVs) für Informatik und AI?"
+de.a = '''
+Die Studienvertretungen sind deine erste Anlaufstelle, wenn es Probleme mit Lehrveranstaltungen oder Lehrenden gibt oder Fragen zum Studium auftauchen. Wir sind Studis wie du und machen diesen Job freiwillig.
+
+Wir haben drei Kernaufgaben: Vertreten, Vernetzen und Beraten. Wir vertreten dich, wenn es Probleme und Anliegen gibt gegenüber den Institutsmitarbeiter:innen, und sitzen für dich in Kommissionen zur Studienplanung. Wir organisieren Events, sodass du deine Kolleg:innen kennenlernen kannst. Und wir beraten dich bei allen unispezifischen Themen, zum Beispiel durch dieses FAQ.
+
+Auf unseren Websites findest du weitere Infos zu unserer Arbeit: Siehe [Informatik](https://oeh.jku.at/cs) und [AI](https://oeh.jku.at/ai).
+Infos zu unseren aktuellen Projekten findest du auch auf unserem [Dashboard](https://docs.google.com/spreadsheets/d/1zDA9RtYCeS_W9kqg-fvT_ZM88MHDR_vEhD6qcAP12aM/edit#gid=1576615211).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was bedeutet fraktioniert, gehören die StVs AI oder Informatik einer Partei an?"
+de.a = '''
+Alle zwei Jahre werden alle Level der Studierendenvertretung neu gewählt - normalerweise im Mai von ungeraden Jahren.
+
+Bei der Wahl der Universitäts- und Bundesvertretung werden Fraktionen gewählt, die Studienvertretung ist eine Personenwahl. Fraktionen kannst du mit politischen Parteien vergleichen, viele Uni-Fraktionen arbeiten auch mit staatlichen Parteien zusammen.
+
+Die Mitarbeiter:innen der Studienvertretungen in der Technisch-Naturwissenschaftlichen Fakultät sind allesamt unfraktioniert: Das bedeutet, dass niemand, der in den Studienvertretungen Informatik oder AI aktiv sein möchte, einer Uni-Partei angehören darf. Wir glauben, dass wir uns dadurch effizienter für deine Anliegen einsetzen können, ohne uns ständig vermarkten zu müssen.
+
+Natürlich arbeiten wir aber mit der Universitätsvertretung zusammen und kooperieren dafür auch manchmal mit einzelnen Fraktionen, wenn sie unsere Bemühungen unterstützen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich der ÖH beitreten?"
+de.a = '''
+Die ÖH arbeitet in vielen verschiedenen Bereichen und freut sich immer über ambitionierte Unterstützung. Wenn du deiner Studienvertretung beitreten möchtest, wendest du dich am besten an ihren Vorsitz oder schreib eine E-Mail an [ai@oeh.jku.at](mailto:ai@oeh.jku.at) bzw. [informatik@oeh.jku.at](mailto:informatik@oeh.jku.at). Die StV Informatik hat außerdem ihre Onboarding-Prozedur veröffentlicht, damit du weißt, wie du dir den Beitritt vorstellen kannst.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist eine LVA-Evaluierung?"
+de.a = '''
+Am Ende jedes Semesters finden LVA-Evaluierungen statt. Diese findest du im KUSSS bei “Meine LVAs”. Bei einer Evaluierung kannst du anonym dein Feedback abgeben und so mithelfen, die Lehre stetig zu verbessern. Als Studienvertretung können auch wir diese Information nutzen, um mit konkreten Zahlen für Änderungen einzutreten, wir sind also auf deine Mithilfe angewiesen. Um dir das Evaluieren etwas schmackhafter zu machen, veranstalten wir deswegen auch jedes Semester einen “Eval-Day”, wo du in entspannter Atmosphäre bei Drinks und Snacks mit deinen Kolleg:innen gemeinsam deine LVAs evaluieren kannst.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie lerne ich meine Studienkolleginnen und -kollegen kennen?"
+de.a = '''
+Wir veranstalten laufend Events, bei denen man sich vernetzen kann. Beschreibungen zu allen größeren Veranstaltungen findest du auf unseren Websites ([Informatik](https://oeh.jku.at/cs/events), [AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence/events)). Dort gibt es auch einen Event-Kalender, mit dem um immer auf dem Laufendem bleiben kannst.
+
+Am [Discord-Server](https://discord.gg/wAek576) und über den [Instagram-Account](https://www.instagram.com/oehtnf/) der ÖH TNF informieren wir auch über unsere aktuellen Events.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie funktioniert die ÖH Versicherung?"
+de.a = '''
+Durch deinen ÖH-Beitrag sind alle Studierenden automatisch unfall- und haftpflichtversichert: Wenn du dich verletzt oder etwas kaputt machst, greift die Versicherung und übernimmt die Kosten ohne Selbstbehalt. Die Versicherung ist sehr weitreichend und deckt auch Studierendenheime, Uni-Exkursionen, ÖH-Events und einen Besuch des nächstgelegenen Supermarkts ab. Sei dir aber bewusst, dass es sich hier um keine Krankenversicherung handelt.
+
+Für mehr Infos und die vertraglichen Details, besuch [diese Hilfeseite](https://www.oeh.ac.at/service/oeh-versicherung/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wo finde ich Infos zu anderen Studien? Haben andere StVs auch einen Discord-Server?"
+de.a = '''
+Alle StVs an der JKU haben eine Subpage auf der [ÖH JKU Website](https://oeh.jku.at/studium) und sind für die Inhalte darauf selbst verantwortlich. Viele der technisch-naturwissenschaftlichen StVs haben auch eigene Discord-Server: Du findest alle Kontaktdaten [hier](https://oeh.jku.at/tnf/contacts).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections]]
+
+de.title = "Bacholor"
+en.title = ""
+
+[[sections.subsections]]
+
+de.title = "Bachelor AI & INF"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist die StEOP & wie funktioniert sie?"
+de.a = '''
+Die **S**tudien**e**ingangs- und **O**rientierungs**p**hase umfasst Pflichtlehrveranstaltungen, die Bachelor-Studierende zu Studienbeginn abschließen müssen, bevor sie andere LVAs absolvieren können. Solange du die StEOP nicht abgeschlossen hast, kannst du nur für ausgewählte LVAs aus den ersten Semestern eine Beurteilung erhalten (im KUSSS bezeichnet als “Weitere Lehrveranstaltungen/Prüfungen, die bereits vor Abschluss der StEOP absolviert werden können”).
+
+Um die StEOP abzuschließen, musst du 9 ECTS aus einem Pool von Pflicht-LVAs absolvieren. Welche LVAs in diesem Pool sind, siehst du in deinem [Curriculum](https://studienhandbuch.jku.at) - dort gibt es auch einige weiterführende Informationen.
+
+Auf [KUSSS](https://kusss.jku.at/kusss/steopinfo.action) findest du (angemeldet) außerdem den aktuellen Status deiner StEOP.
+Eine detaillierte Beschreibung zum StEOP-System findest du in unseren “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources)” und dem “[Study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)”.
+
+Es ist grundsätzlich manchmal möglich, auch schon vor Abschluss der StEOP Kurse außerhalb der erlaubten Pools zu belegen - in diesem Fall musst du aber vorab mit deinen Lehrenden Kontakt aufnehmen und sie bitten, mit dem Eintragen der Note zu warten, bis du die StEOP abgeschlossen hast. Wenn du dich so für Kurse anmeldest, wird KUSSS darum auch eine Warnung anzeigen.
+
+Manchmal kann es passieren, dass noch nicht alle deine Noten des letzten Semesters final eingetragen wurden. bevor die Anmeldung für das nächste Semester startet. In diesem Fall kann es passieren, dass dir KUSSS ebenfalls eine Warnung anzeigt: Du kannst sie getrost ignorieren, wenn du weißt, dass die Noten in nächster Zeit eingetragen werden und du die StEOP damit abgeschlossen hast.
+
+Weitere Infos findest du im JKU FAQ zum Thema [hier](https://www.jku.at/studium/studierende/studieneingangs-und-orientierungsphase/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie lange darf ich zum Abschluss der StEOP brauchen?"
+de.a = '''
+Es gibt kein Zeitlimit für den Abschluss der StEOP. Es gibt allerdings zu Beginn deines Studiums eine Mindestanzahl an ECTS (“Mindeststudienleistung”), die du schaffen musst. Weil deine Wahlfreiheit bei Kursen während der StEOP stark eingeschränkt ist, schließt du sie in der Regel ab, wenn du die Mindeststudienleistung erfüllst.
+
+Wir empfehlen dir, die StEOP so schnell wie möglich abzuschließen, um von den zusätzlichen Klausur-Antritten und dem flexibleren Kursplan zu profitieren.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist die Mindeststudienleistung?"
+de.a = '''
+In Bachelor- und Diplomstudien sind die Studierenden verpflichtet, in jedem Studium, zu dem eine Zulassung besteht, in den ersten vier Semestern insgesamt eine Studienleistung im Umfang von mindestens 16 ECTS zu erbringen.
+
+Die ECTS für das Erreichen der Mindeststudienleistung nach vier Semestern können im Wintersemester bis zum 31. Oktober und im Sommersemester bis zum 31. März erbracht werden (_§ 59a UG_).
+
+Mehr Infos zu Ausnahmen, Konsequenzen bei Nichterfüllung, etc. findest du [hier](https://www.jku.at/studium/studierende/mindeststudienleistung/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich mir etwas von der Schule anrechnen lassen?"
+de.a = '''
+Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar. Für genauere Infos für jeweils Informatik und AI, sieh bitte im entsprechenden FAQ-Kapitel für Informatik und AI an. Wir haben dort Links mit Anrechnungstabellen bereitgestellt.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich würde gerne im Sommersemester starten, wie gehe ich da vor?"
+de.a = '''
+Generell raten wir von einem Studienbeginn im Sommersemester eher ab. (Sonderform Informatik-Studium für Informatik-HTLs. Siehe dazu die FAQ-Frage “Ich habe eine Informatik-HTL besucht und möchte Informatik studieren, wie kann ich mit den Anrechnungen im Sommersemester beginnen?”).
+
+Solltest du jedoch erst im Sommersemester ins Studium einsteigen können, ist dies natürlich möglich. Wir empfehlen dir, die Fächer aus dem planmäßigen 2. Semester zu absolvieren und unserem Rat zur individuellen Studienplanung zu folgen.
+
+Wenn du bereits Vorkenntnisse im Programmieren hast, ist der Einstieg bei z.B. Softwareentwicklung 2 (INF) oder Programming in Python II (AI) kein Problem. Hast du aber noch nie programmiert, solltest du vorher Softwareentwicklung 1 bzw. Programming in Python I belegen und den darauf aufbauenden Kurs verschieben. Prinzipiell ist die Gestaltung der Stundenpläne bzw. die Einteilung, welche Kurse du wann machst, ganz dir überlassen. Es empfiehlt sich allerdings, den empfohlenen Semesterplan nicht ganz außer Acht zu lassen.
+
+In unserem “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources)” und dem “[Study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)” findest du eine Liste von Kursen, die wir beim Sommerstart basierend auf deinen Vorkenntnissen empfehlen. Manchmal kann es aber sein, dass auch Kurse aus dem Wintersemester (z.B. Softwareentwicklung 1) zusätzlich im Sommer angeboten werden, um dir den Einstieg zu erleichtern.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich den BSc AI und Informatik dual studieren?"
+de.a = '''
+Es ist zwar möglich, beide Studiengänge parallel zu studieren, sie überschneiden sich aber weniger, als du vielleicht denkst. Kurse, die in beiden Studien vorkommen, können ohne Verfahren angerechnet werden (ca. 40 ECTS). Es gibt außerdem einige Kurse, die ähnlich genug für eine automatische Anrechnung sind ([hier](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf) veröffentlicht, ca. 16 ECTS). Dazu kommen noch die Freien Studienleistungen, die automatisiert angerechnet werden können.
+Anders formuliert: Du sparst dir ca. ein Drittel der Zeit für ein Studium.
+
+Gleichzeitig führt ein duales Studium aber zu einer sehr großen Workload mit vielen potenziell überlappenden Kursen, oder zu einem individuellen Studienplan mit längerer Studiendauer für beide Studiengänge.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich Kurse aus dem Bachelor in meinem Master verwenden?"
+de.a = '''
+Es ist nicht möglich, Kurse sowohl für den Bachelor- als auch für den Master-Abschluss zu verwenden. Mit anderen Worten: Auch wenn du bereits während deines Bachelor-Studiums einige Master-Kurse belegen kannst, solltest du sie nicht für dein Bachelor-Zeugnis einreichen, wenn du sie für das Master-Studium nutzen willst. Kurse, die du nicht für deinen BSc eingereicht hast, können dann einfach für deinen MSc verwendet werden.
+
+Falls du einen Pflichtkurs aus dem Master im Bachelor eingereicht hast (etwa als Teil deiner Freien Studienleistung), musst du im Master einen alternativen Kurs absolvieren. Bitte sprich dafür mit deinem Studienpräses oder frag uns um Hilfe.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich eine Bachelorarbeit?"
+de.a = '''
+Um eine Bachelorarbeit zu finden, gibt es prinzipiell drei verschiedene Wege:
+
+* Man wendet sich mit einem eigenen Thema an ein passendes Institut/eine:n passende:n Professor:in
+* Man fragt bei einem Institut/einer Betreuungsperson nach, was für Themen angeboten werden. Die meisten Institute haben einige Arbeiten auf der Website ausgeschrieben. Dort kann man sich ein Bild machen.
+* Man kann bei einer Firma eine Abschlussarbeit schreiben. Man braucht dafür aber immer eine Betreuungsperson auf der JKU. Das heißt, du bewirbst dich für eine Arbeit bei einer Firma und suchst dir an der JKU eine passende Betreuungsperson. Manche Institute verlangen in diesem Fall Geld von der Firma für die Betreuung deiner Arbeit. Deine Betreuungsperson erklärt dir den Rest der Prozedur.
+
+Die ÖH hilft dir dabei, eine Betreuungsperson und ein Thema zu finden: Wir veranstalten jedes Jahr einen Bachelor-Info-Abend. Mehr dazu hier: AI, Informatik.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie schließe ich meinen Bachelor ab?"
+de.a = '''
+Alle detaillierten Infos dazu findet man auf der [JKU-Website](https://www.jku.at/studium/studierende/abschluesse/).
+
+Um das Bachelorstudium abzuschließen, musst du zuerst alle vorgegebenen Fächer positiv abschließen, genug ECTS für Vertiefung und freie Studienleistungen gesammelt haben. Hast du das alles erfüllt, musst du den Prüfungsraster (welchen man auch auf der Website findet) ausgefüllt und unterschrieben an [pruefung-tn@jku.at](mailto:pruefung-tn@jku.at) senden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie fülle ich den Prüfungsraster aus?"
+de.a = '''
+Wenn sich das Curriculum im Laufe deines Studiums nicht geändert hat, kannst du den Prüfungsraster vielleicht automatisch über [examroster.jku.at](https://examroster.jku.at/) ausfüllen lassen. Der Service ist aktuell aber in der Beta-Phase und nicht sonderlich verlässlich: Überprüfe die Angaben und sei nicht überrascht, wenn er nicht funktioniert.
+
+Wenn der automatische Weg nicht klappt, lade dir den [Prüfungsraster](https://www.jku.at/studium/studierende/abschluesse/) von der JKU Website herunter und befolge die beschriebenen Anweisungen.
+Wenn du im KUSSS eingeloggt bist klicke links auf den Reiter "Ausfüllhilfe Prüfungsraster", dort kann man sich ein PDF herunterladen, welches ein wenig hilft den Prüfungsraster auszufüllen. ACHTUNG: Diese Ausfüllhilfe hat doppelte Zuweisungen und es kann auch sein, dass manche Kurse falsch zugeordnet sind oder gar nicht vorhanden sind. Falls so etwas der Fall ist, richte dich nach der Notenauskunft im KUSSS. Auch kannst du im Kurskatalog (Reiter “LVA-Suche” - ganz oben “Meine Studienpläne” oder “Alle Studienpläne”) nachsehen, in welcher Kategorie welche LVAs sind.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Bachelor AI spezifisch"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Wie und was kann ich mir von der Schule anrechnen lassen?"
+de.a = '''
+Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fächer anrechnen lassen. [Hier](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) findest du eine Tabelle mit den Anrechnungsmöglichkeiten für AI.
+
+Zur Anerkennung schreib eine Mail an den [Prüfungs- und Anerkennungsservice](https://www.jku.at/lehr-und-studienorganisation/pruefungs-und-anerkennungsservice/) der JKU mit deinem Zeugnis. (Erst nach dem Start des Studiums möglich.)
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie und was kann ich mir von der Schule anrechnen lassen?"
+de.a = '''
+Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fächer anrechnen lassen. [Hier](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) findest du eine Tabelle mit den Anrechnungsmöglichkeiten für AI.
+
+Zur Anerkennung schreib eine Mail an den [Prüfungs- und Anerkennungsservice](https://www.jku.at/lehr-und-studienorganisation/pruefungs-und-anerkennungsservice/) der JKU mit deinem Zeugnis. (Erst nach dem Start des Studiums möglich.)
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Welche Kurse bekomme ich angerechnet von Informatik?"
+de.a = '''
+[Hier](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Informatik_and_Artificial_Intelligence_at_JKU.pdf) findest du eine Tabelle, was du dir vom Informatik-Bachelor auf AI anrechnen lassen kannst.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Welche Kurse bekomme ich angerechnet von Bioinformatik?"
+de.a = '''
+[Hier](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Bioinformatics_and_Artificial_Intelligence_at_JKU.pdf) findest du eine Tabelle, was du dir von Bioinformatik auf AI anrechnen lassen kannst.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich komme nicht aus Linz, wie oft muss ich vor Ort sein?"
+de.a = '''
+Du musst mindestens einmal nach Linz kommen um dich zum Studium anzumelden. Ein paar Kurse bzw. Prüfungen erfordern Anwesenheit. Diese kannst du aber nicht nur in Linz, sondern auch Wien oder Bregenz absolvieren. Für Kurse gibt es auch immer mindestens eine Gruppe, die virtuell stattfindet.
+
+Alle Kurse finden in Linz statt, werden aber in Wien und Bregenz live gestreamt und oder werden aufgezeichnet.
+
+Weitere Infos findest du [hier](https://www.jku.at/zentrum-fuer-fernstudien/fernstudium-jku/artificial-intelligence/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Muss ich Deutsch können?"
+de.a = '''
+Nein, das Studium ist in Englisch. Wenn du in Linz wohnst, ist es natürlich hilfreich, ein wenig Deutsch zu können. Die jüngeren Leute können sehr wahrscheinlich Englisch, jedoch kann es bei älteren Generationen in Österreich sein, dass ihre Englischkenntnisse nicht sehr gut bis gar nicht vorhanden sind. Siehe das [International-FAQ](../../internationals/en/) für mehr.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind “Seminars” und “Practical Work”"
+de.a = '''
+Die LVA “Seminar in AI” (3 ECTS, 4. Semester - Sommersemester) und “Practical Work in AI” (7,5 ECTS, 5. Semester, Wintersemester) sind dazu da, um dich auf die Bachelorarbeit am Ende vom Studium vorzubereiten. Es gibt mehrere Gruppen mit verschiedenen Lehrenden, die diese LVA anbieten. Also kannst du dir das Fachgebiet (wie bei der Bachelorarbeit) aussuchen. Melde dich dazu einfach bei der passenden Lehrperson im KUSSS an.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist “Area of Specialization”?"
+de.a = '''
+Du kannst dein Wissen in verschiedenen Bereichen vertiefen. Die Bereiche sind “Computer and Data Science”, “Mathematics”, “Mechatronics”, “Live Sciences”, “Special Topics” und “Miscellaneous”. Du kannst LVAs in mehreren Bereichen belegen, du musst dich nicht für einen entscheiden.
+
+Zusätzlich solltest du bei den Specialization-Kursen beachten, dass du keinen Kurs doppelt für ein Bachelorstudium und ein darauf aufbauendes Masterstudium nutzen kannst. Wenn du vorhast, an der JKU den AI-Master zu belegen, solltest du darauf achten keine Pflichtkurse oder Track-Kurse aus dem Master für die Area of Specialization zu verwenden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich bin in Wien und finde keine passenden “Area of Specialization”-Kurse. Was soll ich tun?"
+de.a = '''
+Viele Kurse aus dem Specialization-Pool werden nur als Präsenzkurse in Linz angeboten. Wenn du Schwierigkeiten hast, Kurse zu finden die online angeboten werden kannst du für die Area of Specialization auch Kurse von der TU Wien anrechnen lassen (lass dir das für die geplanten Kurse vorher per E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) bestätigen).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es eine Bachelorprüfung?"
+de.a = '''
+In _§ 7 Abs. 2_ des AI-Curriculum steht: “_The Bachelor’s program in Artificial Intelligence is concluded by a Bachelor’s Examination. The Bachelor’s Examination consists of the successful completion of mandatory subjects [...]. In order to graduate, students must also receive a passing grade for their Bachelor’s thesis as well as for the free electives examinations._”
+
+Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist der AI Bachelor-Infoabend?"
+de.a = '''
+Jedes Jahr wird von der Studienvertretung ein Bachelor-Infoabend veranstaltet. Wir erklären dir, wie man den Bachelor abschließt, wie man eine Bachelorarbeit findet und die Institute stellen sich mit ihren Bachelorarbeitsthemen vor. Die Videos des letzten Events findest du [hier](https://informatik.jku.at/students/aibachelorinfoabend2024/) (Stand 2024).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe weitere Fragen. An wen kann ich mich wenden?"
+de.a = '''
+Wenn du allgemeine Fragen über das AI Studium und die Anmeldung hast, wende dich bitte an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) (Linz), [ai-wien@jku.at](mailto:ai-wien@jku.at) (Vienna) oder [bregenz@fernstudien.at](mailto:bregenz@fernstudien.at) (Bregenz). Auch wir stehen dir gerne für Fragen über das AI Studium zur Verfügung. Kontaktiere uns via Mail [ai@oeh.jku.at](mailto:ai@oeh.jku.at)  oder auf unserem [Discord-Server](https://discord.gg/wAek576).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Bachelor INF spezifisch"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Wie und was kann ich mir von der Schule anrechnen lassen?"
+de.a = '''
+Für einige Schulen gibt es bereits fertige Tabellen an Fächern, die man sich problemlos anrechnen lassen kann: [Tabelle für HAKs](https://informatik.jku.at/teaching/stuko/news/hak.html), [Tabelle für HTLs](https://informatik.jku.at/teaching/stuko/news/htl.html)
+
+Es können manchmal auch weitere Fächer angerechnet werden, obwohl sie sich nicht in diesen Tabellen befinden.
+
+Die Anerkennung kann erst nach Studienstart passieren, muss aber in den ersten beiden Semestern erfolgen.
+
+Mehr Infos zur Anrechnung findest du Informatik-spezifisch [hier](https://cs.jku.at/teaching/stuko/credittransfer/) und allgemein [hier](https://www.jku.at/studium/studierende/anerkennung-von-pruefungen/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe eine Informatik-HTL besucht und möchte Informatik studieren, wie kann ich mit den Anrechnungen im Sommersemester beginnen?"
+de.a = '''
+Wenn du eine Informatik-HTL besucht hast, kannst du dir genug LVAs anrechnen lassen, um die restlichen Fächer so zu legen, dass du dir ein ganzes Semester sparst. [Hier](https://informatik.jku.at/teaching/stuko/news/misc/Sonderstundenplan_HTLs.pdf) findest du mehr Informationen darüber.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was muss ich bei Vertiefungsfächern im Bachelor beachten?"
+de.a = '''
+Im 5. und 6. Semester im Bachelor Informatik sind Vertiefungen vorgesehen, hierbei handelt es sich meist um Fächer aus dem Master Computer Science. Im Master gibt es ein sogenanntes Major Subject (schau dir dazu gern unsere FAQ-Frage an: Major Subject und Complementary Subject, was ist das?). Keine Pflicht-LVA aus einem Major ist im Vertiefungspool des Bachelors enthalten - anders als oft geglaubt kann man sich den Wunsch-Major also nicht “verbauen”, außer man strengt sich wirklich an.
+
+Achte aber darauf, dass du zumindest eine Vertiefung mit dem LVA-Typ SE (Seminar) abschließt ([Vertiefung](https://studienhandbuch.jku.at/169484) oder [Special Topic](https://studienhandbuch.jku.at/169499)) - das ist verpflichtend.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich dasselbe Seminar mehrmals belegen? Brauche ich eines für meinen Bachelorabschluss?"
+de.a = '''
+Ja, man braucht mindestens eine LVA vom Typ SE (siehe oben) und ja, man kann ein Seminar mehrmals belegen und ECTS bekommen. Bei Seminaren handelt es sich um LVAs mit “wechselndem Inhalt” (im KUSSS als “NICHT INHALTSGLEICH” und “ANTRITTSZÄHLUNG AUS” markiert).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es eine Bachelorprüfung?"
+de.a = '''
+In _§ 7 Abs. 2_ des Informatik-Curriculums steht: “_Das Bachelorstudium Informatik wird mit einer Bachelorprüfung abgeschlossen. Die Bachelorprüfung ist eine Gesamtprüfung, die in Form von Fachprüfungen über die Pflichtfächer [...] abzulegen ist. Für den Studienabschluss ist auch die positive Beurteilung der Bachelorarbeit sowie der freien Studienleistungen Voraussetzung._”
+
+Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist der Informatik Bachelor-Infoabend?"
+de.a = '''
+Jedes Jahr wird von der Studienvertretung ein Bachelor-Infoabend veranstaltet. Wir erklären dir, wie man den Bachelor abschließt, wie man eine Bachelorarbeit findet und die Institute stellen sich mit ihren Bachelorarbeitsthemen vor. Die Videos des letzten Events findest du [hier](https://oeh.jku.at/cs/bsc).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections]]
+
+de.title = "Master"
+en.title = ""
+
+[[sections.subsections]]
+
+de.title = "Master AI & CS"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich eine Masterarbeit, kann ich es auch mit einer Firma machen? Wenn ja, wie funktioniert das?"
+de.a = '''
+Es gibt drei verschieden Möglichkeiten eine Masterarbeit zu finden:
+
+1. Man wendet sich mit einem eigenen Thema an ein passendes Institut/eine*n passende*n Professor*in
+2. Man fragt bei einem Institut/einer Betreuungsperson nach, was für Themen angeboten werden. Die meisten Institute haben einige Arbeiten auf der Website ausgeschrieben. Dort kann man sich ein Bild machen.
+3. Man kann bei einer Firma eine Abschlussarbeit schreiben. Man braucht dafür aber immer eine Betreuungsperson auf der JKU. Das heißt, du bewirbst dich für eine Arbeit bei einer Firma und suchst dir auf der JKU eine fachlich passende Betreuungsperson. Manche Institute verlangen eine Bezahlung durch die Firma für ihre Betreuung. Den weiteren Ablauf wird dir dann deine Betreuungsperson mitteilen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ist es verpflichtend, die Masterarbeit in LaTeX zu verfassen?"
+de.a = '''
+Nein, es ist nicht verpflichtend, die Masterarbeit in Latex zu verfassen, es muss nur das Deckblatt den JKU Richtlinien entsprechen (siehe [hier](https://www.jku.at/studium/studierende/abschlussarbeiten/) für Vorlagen) und es muss in PDF/A gespeichert sein (siehe [hier](https://www.jku.at/studium/studierende/abschlussarbeiten/) unter Einreichung). Jedoch sollte man mit der betreuenden Person darüber sprechen, ob es zum Beispiel schon institutsinterne Vorlagen oder zusätzliche Vorgaben gibt.
+
+Es wird regelmäßig ein Latex Kurs angeboten, der für freie Studienleistung verwendet werden kann. (“Wissenschaftliches Schreiben und Layouten anhand von LaTeX 1”)
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist der Inhalt der Masterprüfung? Kann man die Prüfung wiederholen?"
+de.a = '''
+Den Inhalt der Masterprüfung (also den Prüfungsteil von Major und Complementary Subject für CS und Machine Learning and Perception und dein Elective Track in AI) muss man sich direkt mit der jeweiligen, gewählten prüfenden Person ausmachen. Dies sollten Inhalte aus Kursen sein, die bei der jeweiligen, prüfenden Person abgelegt wurden.
+
+Diese Prüfung kann man wie jede andere Prüfung mehrmals wiederholen.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was für Fristen und Termine gibt es vor der Masterprüfung?"
+de.a = '''
+Die Masterarbeit kann das gesamte Jahr über abgegeben werden. Zwischen der Abgabe der Arbeit und der abschließenden Masterprüfung müssen mindestens vier Wochen liegen.
+
+Eine genauere Übersicht findest du [hier](https://informatik.jku.at/teaching/master/process_thesis.pdf).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ab wann gilt mein Master als abgeschlossen?"
+de.a = '''
+Erst wenn die Note für deine kommissionelle Abschlussprüfung eingetragen ist, gilt dein Master formell als abgeschlossen. Bis dahin musst du weiter als Student:in gemeldet sein, also auch weiter Studiengebühren zahlen.
+
+Wenn du dein Studium bis spätestens 31.10. bzw. 31.03. abschließt, musst du die Gebühren für das angefangene Semester nicht mehr zahlen. Wenn du unsicher bist, empfehlen wir eine Zahlung und anschließend gegebenenfalls einen [Antrag auf Rückerstattung](https://zulassung.jku.at/datenabfrage/studienbeitrag) zu stellen - mehr zum Prozess findest du [hier](https://www.jku.at/studium/studierende/dein-studienstart/oeh-und-studienbeitrag/).
+
+Mehr Infos zum Abschluss findest du [hier](https://www.jku.at/studium/studierende/abschluesse/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Master AI spezifisch"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe meinen Bachelor nicht in AI gemacht. Kann ich mich trotzdem für den AI Master inskribieren und muss ich etwas nachholen?"
+de.a = '''
+Wenn du den Bachelor in Bioinformatics, Elektronik und Informationstechnik, Informatik, Mechatronik, NawiTec, Statistik und Data Science, Technische Mathematik, Technische Physik oder Wirtschaftsinformatik (an der JKU, oder ein vergleichbares Studium an einer anderen Uni) gemacht hast, kannst du den AI Master machen, aber musst die LVAs “Machine Learning: Supervised Techniques" (536MLPEMSTV19, VL, 3 ECTS) und "Machine Learning: Unsupervised Techniques” (536MLPEMUTV19, VL, 3 ECTS) bis zum Ende des 2. Semesters nachmachen. Diese kannst du im Rahmen von Area of Specialization oder der Free Electives absolvieren.
+
+Wenn du keinen Bachelor in den oben genannten Fächern hast, kann man trotzdem zum AI Master zugelassen werden. Du musst dafür je nach Background bis zu 40 ECTS nachholen. Für genauere Informationen wende dich bitte an den [Zulassungsservice](https://www.jku.at/lehr-und-studienorganisation/zulassungsservice/).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wen kann ich kontaktieren, wenn ich Kurse für Area of Specialization gezählt haben möchte, die aber nicht explizit in dieser Kategorie gelistet sind?"
+de.a = '''
+Bitte schreibe eine E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) und teile ihnen dein Anliegen mit.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie funktioniert das mit den Prüfer*innen bei der Masterprüfung? Müssen sie mich unterrichtet haben?"
+de.a = '''
+Im Rahmen der Masterprüfung musst du drei Mitglieder für die Kommission vorschlagen. (Bitte Frage deine gewünschten Mitglieder im Vorhinein.) Das erste Mitglied darf nicht deine Masterarbeit betreuen und übernimmt den Vorsitz. Die zweite Person wird dich über den Bereich “Machine Learning and Perception” prüfen und die dritte Person über deinen Elective Track.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections]]
+
+de.title = "Master CS Spezifisch"
+en.title = ""
+
+[[sections.subsections.questions]]
+
+de.q = "Major Subject und Complementary Subject, was ist das?"
+de.a = '''
+Um den Computer Science Master abzuschließen, müssen alle Kurse aus einem Major Subject absolviert werden. Du musst deinen Major also nicht vorab bekannt geben, sondern wählst ihn erst durch Einreichen deines Prüfungsrasters. Es empfiehlt sich aber, sich gleich zu Beginn des Studiums für einen Major zu entscheiden und die zugehörigen Fächer schnellstmöglich zu absolvieren.
+
+Es gibt sechs verschiedene Majors (Computational Engineering, Data Science, Intelligent Information Systems, Networks and Security, Pervasive Computing und Software Engineering). Eine genauere Beschreibung der verschiedenen Majors findest du im [Curriculum](https://studienhandbuch.jku.at/texte/921_6_MS_ComputerScience.pdf) ab Seite 3. Informationen zu den LVAs für die Majors findest du [hier](https://www.kusss.jku.at/kusss/coursecatalogue-get-currbranches-or-segments.action?set.listsubjects-overview.treeView.expandAll=true&curId=289) im KUSSS oder im [Curriculum Guide](https://informatik.jku.at/teaching/curricula/CS_Master_Guide.pdf) ab Seite 6.
+
+Für das Complementary Subject muss man insgesamt 27 ECTS aus beliebigen anderen Majors und dem General Electives Pool absolvieren. Diese 27 ECTS kann man sich “zusammenbauen”, wie man möchte. Eine Liste der Kurse findest du [hier](https://www.kusss.jku.at/kusss/coursecatalogue-get-currbranches-or-segments.action?set.listsubjects-overview.treeView.expandAll=true&curId=289) im KUSSS.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wo finde ich den Curriculums Guide?"
+de.a = '''
+[Hier](https://informatik.jku.at/teaching/curricula/CS_Master_Guide.pdf) ist der Curriculums Guide zu finden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind die Master’s Thesis Seminare im 3. und 4. Semester?"
+de.a = '''
+Das sind zwei Seminare, die man während des Schreibprozesses der Masterarbeit macht: Sie sollen sicherstellen, dass du auch während deiner Thesis ECTS erhältst. Der Inhalt dieser Seminare ist von der betreuenden Person abhängig. Bitte frage diesbezüglich vor der Anmeldung bei deiner Betreuerin oder deinem Betreuer nach.
+
+Man muss sich für die Seminare im KUSSS anmelden.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was ist das Major Subject Seminar and Project im 3. Semester?"
+de.a = '''
+Für deinen Master musst du in deinem gewählten Major Subject ein Seminar (3 ECTS) und ein Project (7,5 ECTS) machen. Dafür musst du dich im KUSSS anmelden. Wenn du zum Beispiel den Major Data Science gewählt hast, meldest du dich für die LVA “PR Project in Data Science” und “SE Seminar in Data Science” an.
+
+Das Project und/oder Seminar können auch im Zuge deiner Masterarbeit gemacht werden: Du kannst also in dem Project und/oder Seminar ein ähnliches Thema wählen und somit schon Vorarbeit leisten, die du dann auch für die Master Thesis verwenden kannst. Sprich hierfür bitte mit deiner Betreuerin oder deinem Betreuer.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie funktioniert das mit den Prüfenden bei der Masterprüfung?"
+de.a = '''
+Für die Masterprüfung braucht man drei Prüfende. Es ist deine eigene Verantwortung, Prüfpersonen für die verschiedenen Teile deiner Prüfung zu finden. Bei der Prüfung gibt es je einen Teil zu: Masterarbeit, Major Subject, Complementary Subject.
+
+Für genauere Einschränkungen siehe [hier](http://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf).
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Hilfreiche Dokumente und Links zum Studienabschluss"
+de.a = '''
+Immer noch unsicher über den ganzen Prozess? Schau dir unseren [Master-Infoabend](https://oeh.jku.at/cs/msc) an!
+
+Hier gibt es einige weitere Ressourcen, die dir vielleicht helfen:
+
+* [Du hast alles positiv abgeschlossen? Dann gelangst du durch folgende Schritte zu deinem Abschlusszeugnis.](https://www.jku.at/studium/studierende/abschluesse/)
+* [Abschlussarbeit, Prüfungsraster, Akademische Feier. Hier findest du alle Informationen, die wichtig sind, um dein Studium erfolgreich abzuschließen.](https://www.jku.at/studium/studierende/studienabschluss/)
+* [Hier findest du hilfreiche Informationen zum Verfassen und Einreichen deiner Bachelor-, Master-, Diplomarbeit oder Dissertation.](https://www.jku.at/studium/studierende/abschlussarbeiten/)
+* [Allgemeines Computer Science Master](http://informatik.jku.at/teaching/master/)
+* [Current Information for the CS Master](http://informatik.jku.at/teaching/)
+* [The final steps to earn your Master’s Degree in Computer Science](http://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
+* [Master's Thesis Process](http://informatik.jku.at/teaching/master/process_thesis.pdf)
+'''
+
+en.q = ""
+en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich neben dem Master arbeiten oder ihn remote studieren?"
+de.a = '''
+Viele unserer MSc-Studis arbeiten neben dem Studium, und wir versuchen, dem gerecht zu werden. Wir versuchen zum Beispiel, dass Kurse mit verpflichtender Anwesenheit aus einem Major möglichst alle am selben Tag stattfinden, oft werden auch Abendkurse angeboten. Unser Curriculum sieht aber ein Vollzeit-Studium vor, und du wirst es schwer neben einer vollen Arbeitsbelastung absolvieren können - siehe hier für mehr.
+
+Manche Kurse werden online abgehalten oder bieten Videos an (insbesondere, wenn sie auch im AI-Master angeboten werden). Unser Studium ist aber für Präsenzunterricht ausgelegt, und viele unserer Kurse fordern diesen auch ein. In den meisten Fällen ist es darum nicht möglich, das Studium vollständig remote zu studieren.
+'''
+
+en.q = ""
+en.a = '''
+
+'''
