@@ -83,6 +83,15 @@
   src: url('fonts/outfit-v11-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* material-icons-round-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Material Icons Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/material-icons-round-v108-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 /* color definitions */
 
 :root {
@@ -595,12 +604,13 @@ footer a:focus {
     width: 48px;
     height: 48px;
     line-height: 48px;
-    font-size: 28px;
+    font-size: 32px;
     text-align: center;
     border: none;
     border-radius: 0 0 16px 0;
     overflow: hidden;
     padding: 0;
+    font-family: 'Material Icons Round';
   }
 
   nav {
@@ -620,14 +630,15 @@ footer a:focus {
   }
 
   nav:not(.scripted)::before {
-    content: "\02630";
+    content: "menu";
+    font-family: 'Material Icons Round';
     position: fixed;
     top: 0;
     left: 0;
     line-height: 48px;
     width: 48px;
     text-align: center;
-    font-size: 28px;
+    font-size: 32px;
   }
 
   nav.scripted {
