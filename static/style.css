@@ -235,6 +235,14 @@ header a.lang-button:focus {
   color: var(--color-fg-site);
 }
 
+.nav-button {
+  background-color: var(--color-bg-nav);
+  color: var(--color-fg-nav);
+  border: none;
+  font-family: Outfit, sans-serif;
+  cursor: pointer;
+}
+
 nav {
   background-color: var(--color-bg-nav);
   color: var(--color-fg-nav);
@@ -410,6 +418,10 @@ footer a:focus {
     margin: 90px auto;
   }
 
+  .nav-button {
+    display: none;
+  }
+
   nav {
     position: sticky;
     top: 0;
@@ -573,20 +585,41 @@ footer a:focus {
     margin: 16px 0;
   }
 
-  nav {
+  .nav-button {
+    display: block;
     box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 20;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 28px;
+    text-align: center;
+    border: none;
+    border-radius: 0 0 16px 0;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  nav {
     position:fixed;
     top: 0;
     left: 0;
     z-index: 10;
+    overflow: hidden;
+  }
+
+  nav:not(.scripted) {
+    box-sizing: border-box;
     width: 48px;
     height: 48px;
     border-radius: 0 0 16px 0;
-    overflow: hidden;
     padding-top: 48px;
   }
 
-  nav::before {
+  nav:not(.scripted)::before {
     content: "\02630";
     position: fixed;
     top: 0;
@@ -597,16 +630,29 @@ footer a:focus {
     font-size: 28px;
   }
 
-  nav:hover::before,
-  nav:focus-within::before {
+  nav.scripted {
+    width: 0px;
+    height: 0px;
+    transition: width 0.2s;
+  }
+
+  nav.scripted.shown-at-least-once {
+    height: 100vh;
+    padding: 52px 0px;
+  }
+
+  nav:not(.scripted):hover::before,
+  nav:not(.scripted):focus-within::before {
     display: none;
   }
 
-  nav:hover,
-  nav:focus-within {
+  nav:not(.scripted):hover,
+  nav:not(.scripted):focus-within,
+  nav.scripted.shown {
+    display: block;
     width: 80vw;
     height: 100vh;
-    padding: 52px 16px;
+    padding: 52px 0px;
     border-radius: 0;
   }
 
@@ -616,8 +662,9 @@ footer a:focus {
   }
 
   nav > ul {
-    margin: 0;
+    margin: 0px 16px;
     padding-left: 0;
+    width: 80vw;
   }
 
   nav ul li {
