@@ -670,11 +670,11 @@ footer a:focus {
   nav ul {
     list-style: none;
     padding-left: 16px;
+    box-sizing: border-box;
   }
 
   nav > ul {
-    margin: 0px 16px;
-    padding-left: 0;
+    padding: 0px 16px;
     width: 80vw;
   }
 
