@@ -154,13 +154,24 @@ de.a = '''
 Siehe dafür das KUSSS FAQ [hier](https://www.jku.at/studium/studierende/kusss/kusss-faq/).
 '''
 
-en.q = "Ich bin nicht in meinen Kurs gekommen, was nun?"
+en.q = ""
 en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich bin nicht in meinen Kurs gekommen, was nun?"
+de.a = '''
 Schreib höflich eine Mail an die LVA-Leitung und frag nach, ob für dich noch Platz ist. Wenn nicht, geh unbedingt trotzdem zum ersten Termin der LVA, die du gerne besuchen würdest. Sag Bescheid, dass du noch keinen Platz hast. Oft werden dann die Plätze von den nicht anwesenden Studierenden vergeben.
 
 Bei Pflichtkursen hast du ein Anrecht auf einen Platz (§ 59 Abs. 4 UG), wenn dir sonst eine Studienzeit-Verlängerung droht - melde dich in diesem Fall unbedingt bei uns.
 
 Die JKU hat außerdem eine [Reklamationsstelle](https://www.jku.at/studium/studierende/kusss/kusss-faq/reklamationsmanagement/) für solche Fälle, die sich notfalls darum kümmert, dass für dich noch ein Platz in einem Kurs geschaffen wird.
+'''
+
+en.q = ""
+en.a = '''
 
 '''
 
@@ -389,13 +400,25 @@ Bei Übungen, KVs oder Praktika gibt es oft einen festgelegten Modus, der meist 
 Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber mehrere Versuche.
 '''
 
-en.q = "Gibt es finanzielle Unterstützung?"
+en.q = ""
 en.a = '''
+
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es finanzielle Unterstützung?"
+de.a = '''
 Die ÖH hat einige Angebote, die dir die Finanzierung deines Studiums erleichtern können. Eine Liste findest du [hier](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
 
 Zusätzlich gibt es auch viele [weitere staatliche Unterstützungsangebote](https://www.stipendium.at/), die etwa berufstätigen Studierenden helfen sollen.
 
 Bitte wende dich bei Fragen an unsere Expert:innen im [ÖH JKU Soziareferat](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
+'''
+
+en.q = ""
+en.a = '''
+
 '''
 
 [[sections.subsections.questions]]
