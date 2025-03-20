@@ -33,13 +33,8 @@ function renderMarkup (markdown)
     return pandoc.write(pandoc.read(markdown), "html")
 end
 
-function processQuestions (questions, tagset)
+function processQuestions (questions)
     for _,question in pairs(questions) do
-        if question.tags then
-            for _,tag in pairs(question.tags) do
-                tagset[tag] = true
-            end
-        end
         if question.de then
             local id = question.de.q
             id = string.lower(id)
