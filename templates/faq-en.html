@@ -10,7 +10,7 @@
     <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
     <script src="../../script.js" defer></script>
   </head>
-  <body vocab="http://schema.org/">
+  <body vocab="http://schema.org/" typeof="FAQPage">
     <header>
       <a href="$faq.logo.href$" class="logo-link"><img src="../../$faq.logo.src$"></a>
       $if(faq.de)$
@@ -55,7 +55,7 @@
         $endfor$
       </ul>
     </nav>
-    <main class="faq" typeof="FAQPage">
+    <main class="faq">
       <div class="intro">
         $faq.en.intro$
       </div>
