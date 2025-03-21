@@ -567,26 +567,26 @@ footer a:focus {
 
   header button.cycle-colors-button {
     display: block;
-    width: 48px;
-    height: 48px;
-    line-height: 48px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
     border-radius: 24px;
-    font-size: 24px;
+    font-size: 20px;
     position: absolute;
-    top: 16px;
-    right: 79px; /* 15 + 48 + 16 */
+    top: 25px;
+    right: 65px; /* 10 + 30 + 25 */
   }
 
   header a.lang-button {
     display: block;
-    width: 48px;
-    height: 48px;
-    line-height: 48px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
     border-radius: 24px;
     position: absolute;
-    top: 16px;
-    right: 16px;
-    font-size: 18px;
+    top: 25px;
+    right: 25px;
+    font-size: 12px;
   }
 
   header h1 {
