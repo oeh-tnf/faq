@@ -33,6 +33,13 @@ function renderMarkup (markdown)
     return pandoc.write(pandoc.read(markdown), "html")
 end
 
+function escapeText (text)
+    text = string.gsub(text, "<", "&lt;")
+    text = string.gsub(text, "&", "&amp;")
+    text = string.gsub(text, "\"", "&quot;")
+    return text
+end
+
 function processQuestions (questions)
     if questions then
         for _,question in pairs(questions) do
@@ -47,6 +54,7 @@ function processQuestions (questions)
                 id = string.gsub(id, " ", "-")
                 id = string.gsub(id, "[^0-9a-z%-]", "")
                 question.de.id = id
+                question.de.q = escapeText(question.de.q)
                 question.de.a = renderMarkup(question.de.a)
             end
             if question.en then
@@ -56,6 +64,7 @@ function processQuestions (questions)
                 id = string.gsub(id, " ", "-")
                 id = string.gsub(id, "[^0-9a-z%-]", "")
                 question.en.id = id
+                question.en.q = escapeText(question.en.q)
                 question.en.a = renderMarkup(question.en.a)
             end
         end
@@ -65,17 +74,31 @@ end
 -- process the faqs
 for _,faq in pairs(faqs) do
     if faq.de then
+        faq.de.title = escapeText(faq.de.title)
         faq.de.intro = renderMarkup(faq.de.intro)
     end
     if faq.en then
+        faq.en.title = escapeText(faq.en.title)
         faq.en.intro = renderMarkup(faq.en.intro)
     end
     processQuestions(faq.questions)
     if faq.sections then
         for _,section in pairs(faq.sections) do
+            if section.de then
+                section.de.title = escapeText(section.de.title)
+            end
+            if section.en then
+                section.en.title = escapeText(section.en.title)
+            end
             processQuestions(section.questions)
             if section.subsections then
                 for _,subsection in pairs(section.subsections) do
+                    if subsection.de then
+                        subsection.de.title = escapeText(subsection.de.title)
+                    end
+                    if subsection.en then
+                        subsection.en.title = escapeText(subsection.en.title)
+                    end
                     processQuestions(subsection.questions)
                 end
             end
