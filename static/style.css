@@ -83,13 +83,13 @@
   src: url('fonts/outfit-v11-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-/* material-icons-round-regular - latin */
+/* material-symbols-rounded-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Material Icons Round';
+  font-family: 'Material Symbols Rounded';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/material-icons-round-v108-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/material-symbols-rounded-v230-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* color definitions */
@@ -97,6 +97,7 @@
 :root {
   /* tokens */
 
+  /* same as below, always change both */
   --color-token-accent-dark: #18197c;
   --color-token-accent: #2b7fc2;
   --color-token-accent-alternate: #f09500;
@@ -132,6 +133,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    /* same as below, always change both */
     --color-token-accent-dark: #d6d7f6;
     --color-token-accent: #2b7fc2;
     --color-token-accent-alternate: #f09500;
@@ -139,6 +141,26 @@
     --color-token-background-accent: #434a56;
     --color-token-background-accent-light: #343942;
   }
+}
+
+:root.force-light-color-scheme {
+  /* same as above, always change both */
+  --color-token-accent-dark: #18197c;
+  --color-token-accent: #2b7fc2;
+  --color-token-accent-alternate: #f09500;
+  --color-token-background: #ffffff;
+  --color-token-background-accent: #edf4fa;
+  --color-token-background-accent-light: #c9deef;
+}
+
+:root.force-dark-color-scheme {
+  /* same as above, always change both */
+  --color-token-accent-dark: #d6d7f6;
+  --color-token-accent: #2b7fc2;
+  --color-token-accent-alternate: #f09500;
+  --color-token-background: #1c1d23;
+  --color-token-background-accent: #434a56;
+  --color-token-background-accent-light: #343942;
 }
 
 /********************
@@ -153,6 +175,21 @@ body {
 header h1 {
   background-color: var(--color-bg-title);
   color: var(--color-fg-title);
+}
+
+header button.cycle-colors-button {
+  font-family: 'Material Symbols Rounded';
+  background-color: var(--color-bg-btn-inv);
+  color: var(--color-fg-btn-inv);
+  border: none;
+  cursor: pointer;
+}
+
+header button.cycle-colors-button:hover,
+header button.cycle-colors-button:active,
+header button.cycle-colors-button:focus {
+  background-color: var(--color-bg-btn-inv-hover);
+  color: var(--color-fg-btn-inv-hover);
 }
 
 header a.lang-button {
@@ -268,8 +305,8 @@ header a.lang-button:focus {
   background-color: var(--color-bg-nav);
   color: var(--color-fg-nav);
   border: none;
-  font-family: Outfit, sans-serif;
   cursor: pointer;
+  font-family: 'Material Symbols Rounded';
 }
 
 nav {
@@ -329,6 +366,18 @@ footer a:focus {
 
   header a.logo-link img {
     height: 100px;
+  }
+
+  header button.cycle-colors-button {
+    display: block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 24px;
+    font-size: 24px;
+    position: absolute;
+    top: 41px;
+    right: 104px; /* 15 + 48 + 41 */
   }
 
   header a.lang-button {
@@ -516,6 +565,18 @@ footer a:focus {
     height: 60px;
   }
 
+  header button.cycle-colors-button {
+    display: block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 24px;
+    font-size: 24px;
+    position: absolute;
+    top: 16px;
+    right: 79px; /* 15 + 48 + 16 */
+  }
+
   header a.lang-button {
     display: block;
     width: 48px;
@@ -651,7 +712,6 @@ footer a:focus {
     border-radius: 0 0 16px 0;
     overflow: hidden;
     padding: 0;
-    font-family: 'Material Icons Round';
   }
 
   nav {
@@ -672,7 +732,7 @@ footer a:focus {
 
   nav:not(.scripted)::before {
     content: "menu";
-    font-family: 'Material Icons Round';
+    font-family: 'Material Symbols Rounded';
     position: fixed;
     top: 0;
     left: 0;

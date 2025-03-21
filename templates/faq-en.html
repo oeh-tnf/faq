@@ -4,6 +4,14 @@
     <meta charset="utf8" />
     <title>$faq.en.title$</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>
+      const initialColorTheme = localStorage.getItem("prefers-color-scheme");
+      if (initialColorTheme === "light") {
+          document.documentElement.classList.add("force-light-color-scheme")
+      } else if (initialColorTheme === "dark") {
+          document.documentElement.classList.add("force-dark-color-scheme")
+      }
+    </script>
     <link rel="stylesheet" href="../../style.css" />
     <link rel="icon" href="../../favicon.ico" sizes="32x32">
     <link rel="icon" href="../../icon.svg" type="image/svg+xml">

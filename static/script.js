@@ -1,9 +1,14 @@
 window.addEventListener("load", () => {
+
+    /**************************
+     * COLLAPSIBLE NAVIGATION *
+     **************************/
+
     const nav = document.querySelector("body nav");
     const nav_button = document.createElement("button");
+    nav_button.type = "button";
     nav_button.classList.add("nav-button");
     nav_button.textContent = "menu";
-    nav_button.type = "button";
 
     function show() {
         nav.classList.add("shown");
@@ -38,5 +43,47 @@ window.addEventListener("load", () => {
         })
     }
     nav.classList.add("scripted");
-    hide();
+    const mediaMatch = window.matchMedia("(min-width: 1200px)");
+    if (mediaMatch.matches) {
+        show();
+    } else {
+        hide();
+    }
+    mediaMatch.addEventListener("change", (e) => {
+        if (e.matches) {
+            show();
+        } else {
+            hide();
+        }
+    });
+
+    /**************************
+     * DARK/LIGHT MODE SWITCH *
+     **************************/
+
+    let currentColorTheme = localStorage.getItem("prefers-color-scheme");
+    const cycleColorsButton = document.createElement("button");
+    cycleColorsButton.type = "button";
+    cycleColorsButton.classList.add("cycle-colors-button");
+    cycleColorsButton.textContent = currentColorTheme == "light" ? "light_mode" : currentColorTheme == "dark" ? "dark_mode" : "routine";
+
+    cycleColorsButton.addEventListener("click", () => {
+        if (currentColorTheme == "dark") {
+            document.documentElement.classList.remove("force-dark-color-scheme");
+            currentColorTheme = "light";
+            localStorage.setItem("prefers-color-scheme", "light");
+            document.documentElement.classList.add("force-light-color-scheme");
+        } else if (currentColorTheme == "light") {
+            document.documentElement.classList.remove("force-light-color-scheme");
+            currentColorTheme = null;
+            localStorage.removeItem("prefers-color-scheme");
+        } else {
+            currentColorTheme = "dark";
+            localStorage.setItem("prefers-color-scheme", "dark");
+            document.documentElement.classList.add("force-dark-color-scheme");
+        }
+        cycleColorsButton.textContent = currentColorTheme == "light" ? "light_mode" : currentColorTheme == "dark" ? "dark_mode" : "routine";
+    });
+
+    document.querySelector("body header").insertBefore(cycleColorsButton, document.querySelector("body header a.lang-button"));
 });
