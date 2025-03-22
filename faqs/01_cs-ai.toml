@@ -1282,7 +1282,7 @@ en.a = '''
 
 [[sections.subsections.questions]]
 
-de.q = "Ich komme nicht aus Linz, wie oft muss ich vor Ort sein?"
+de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
 de.a = '''
 Du musst mindestens einmal nach Linz kommen um dich zum Studium anzumelden. Ein paar Kurse bzw. Prüfungen erfordern Anwesenheit. Diese kannst du aber nicht nur in Linz, sondern auch Wien oder Bregenz absolvieren. Für Kurse gibt es auch immer mindestens eine Gruppe, die virtuell stattfindet.
 
@@ -1291,7 +1291,7 @@ Alle Kurse finden in Linz statt, werden aber in Wien und Bregenz live gestreamt 
 Weitere Infos findest du [hier](https://www.jku.at/zentrum-fuer-fernstudien/fernstudium-jku/artificial-intelligence/).
 '''
 
-en.q = "I am not from Linz, how often do I have to be on-site?"
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Bachelor?"
 en.a = '''
 You have to be in Linz once, namely when you officially enrol in the degree program.
 
@@ -1362,7 +1362,7 @@ In _§ 7 Abs. 2_ des AI-Curriculum steht: “_The Bachelor’s program in Artifi
 Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
 '''
 
-en.q = "Is there a Bachelor's examination?"
+en.q = "Is there a Bachelor's examination in the AI Bachelor?"
 en.a = '''
 In § 7 Abs. 2 AI-Curriculum it says: “_The Bachelor’s program in Artificial Intelligence is concluded by a Bachelor’s Examination. The Bachelor’s Examination consists of the successful completion of mandatory subjects [...]. In order to graduate, students must also receive a passing grade for their Bachelor’s thesis as well as for the free electives examinations._”
 
@@ -1470,7 +1470,7 @@ In _§ 7 Abs. 2_ des Informatik-Curriculums steht: “_Das Bachelorstudium Infor
 Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
 '''
 
-en.q = "Is there a Bachelor's examination?"
+en.q = "Is there a Bachelor's examination in the Computer Science Bachelor?"
 en.a = '''
 According to _§ 7 Abs. 2 Informatik-Curriculum_, there is no Bachelor's examination per se, but the completion of all courses is the Bachelor's examination. Some institutes may require a presentation of the Bachelor's thesis internally at the institute to share the knowledge gained from the thesis with colleagues.
 '''
@@ -1633,12 +1633,12 @@ As part of the oral examination, the student will be asked to create a 3-member 
 [[sections.subsections.questions]]
 
 # TODO: translate to German or delete
-de.q = "Ich bin nicht aus Linz, wie oft muss ich vor Ort sein?"
+de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
 de.a = '''
 Diese Frage wurde noch nicht übersetzt.
 '''
 
-en.q = "I am not from Linz, how often do I have to be on-site?"
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
 en.a = '''
 You have to be in Linz once, namely when you officially enrol in the degree program.
 
