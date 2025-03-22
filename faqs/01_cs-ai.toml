@@ -99,7 +99,7 @@ Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) finde
 
 en.q = "Which courses should I take?"
 en.a = '''
-On the last page of your [Curriculum](https://studienhandbuch.jku.at/index.php?lang=en), you will find the suggested study plan. It is advisable to register for all recommended courses. If it becomes too much for you, you can still drop subjects during the semester. Note that this study plan is only a recommendation, and that you can adjust it to your needs (with some caveats).
+On the last page of your [Curriculum](https://studienhandbuch.jku.at/index.php?lang=en), you will find the suggested study plan. It is advisable to register for all recommended courses. If it becomes too much for you, you can still [drop subjects](#how-can-i-drop-a-course) during the semester. Note that this study plan is only a recommendation, and that you can adjust it to your needs (with some [caveats](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan)).
 '''
 
 [[sections.subsections.questions]]
@@ -217,7 +217,7 @@ de.q = "Ich habe eine Überschneidung von Kursen, was nun?"
 de.a = '''
 Das kommt auf die Art der LVA an. Bei einer Vorlesung besteht keine Anwesenheitspflicht, das heißt, du musst nicht hingehen und kannst die andere LVA besuchen.
 
-Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe [die nächste Frage](#wie-kann-ich-meine-bungsgruppe-wechseln).
+Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe [die nächste Frage](#wie-kann-ich-meine-uebungsgruppe-wechseln).
 Wenn du nach dem vorgeschlagenen Studienplan studierst, sollte es zu keinen Überschneidungen kommen.
 '''
 
@@ -225,7 +225,7 @@ en.q = "I have an overlap of courses, what now?"
 en.a = '''
 That depends on the course type. For lectures, attendance is not compulsory, i.e. you can skip them in favour of another course.
 
-If both courses have mandatory attendance and are offered in multiple time slots, try switching to another slot to remove the overlap: See the next question.
+If both courses have mandatory attendance and are offered in multiple time slots, try switching to another slot to remove the overlap: See the [next question](#how-can-i-change-exercise-groups).
 
 If you study according to the suggested study plan, you are guaranteed to be able to study without overlaps.
 '''
@@ -242,7 +242,7 @@ Falls Wechseln nicht möglich ist, schau trotzdem zum ersten Termin deiner gewü
 
 en.q = "How can I change exercise groups?"
 en.a = '''
-Write a polite email to the course instructors with your request. Don't forget the course number and your matriculation number!
+Write a [polite email](#how-do-i-write-an-email-to-a-lecturer) to the course instructors with your request. Don't forget the course number and your matriculation number!
 
 Your course instructor will let you know if a change is possible.
 
@@ -307,7 +307,7 @@ So your checklist before sending an email should be:
 
 de.q = "Gibt es etwas zu beachten, wenn ich nicht nach empfohlenem Studienplan studiere?"
 de.a = '''
-Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die [StEOP](#was-ist-die-steop--wie-funktioniert-sie) baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
+Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die [StEOP](#was-ist-die-steop-wie-funktioniert-sie) baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
 
 Es macht grundsätzlich Sinn, LVAs in der empfohlenen Reihenfolge zu absolvieren: Oft ist eine Abhängigkeit auch recht ersichtlich, zum Beispiel bei “Hands-on AI I” und “Hands-on AI II”. Es wird nicht überprüft, ob du die vorangegangene LVA schon abgeschlossen hast, aber das Wissen wird vorausgesetzt. Eine grobe Richtlinie, in welcher LVA welches Wissen vorausgesetzt wird, findest du am Ende des [Informatik Curriculum Guides](https://oeh.jku.at/cs/resources) und für AI [hier](https://discord.com/channels/370458917073059841/379966639602401301/884847119670853652) auf unserem [Discord-Server](https://discord.gg/wAek576).
 
@@ -316,7 +316,7 @@ Melde dich gerne bei uns, wenn du Hilfe bei deinem Studienplan brauchst!
 
 en.q = "Is there anything to consider if I don’t study according to the recommended study plan?"
 en.a = '''
-Yes. Almost all courses in the technical and natural sciences are only offered annually, not every semester. Keep this in mind when you compile your own study plan. Also, make sure to finish StEOP as quickly as possible since it might limit you in your plans.
+Yes. Almost all courses in the technical and natural sciences are only offered annually, not every semester. Keep this in mind when you compile your own study plan. Also, make sure to finish [StEOP](#what-is-the-steop-how-does-it-work) as quickly as possible since it might limit you in your plans.
 
 It generally makes sense to complete courses in the recommended order. Often a dependency is quite obvious, for example in “Hands-on AI I” and “Hands-on AI II”. It is not checked whether you have already completed the previous course, but the knowledge is assumed. A rough guideline of which knowledge is required in which course can be found at the end of the [Computer Science Curriculum Guide](https://oeh.jku.at/en/study/technik-und-naturwissenschaften/informatik/resources), and [here](https://discord.com/channels/370458917073059841/379966639602401301/884847119670853652) on our [Discord server](https://discord.gg/wAek576) for AI.
 
@@ -370,7 +370,7 @@ de.a = '''
 Jedes österreichische Uni-Studium muss “Freie Studienleistungen” beinhalten - sie sollen Studierenden die Möglichkeit geben, auch über ihr Fachgebiet hinaus Einblicke in die Wissenschaft zu erhalten. Die dafür vorgesehenen ECTS kannst du darum durch beliebige Fächer an einer beliebigen österreichischen Universität absolvieren, vom Sprach- bis zum Töpferkurs. Es ist natürlich auch möglich (wenngleich nicht unbedingt Ziel der Maßnahme), ein Informatik-Fach für die freien Studienleistungen zu nutzen.
 Viele [ehrenamtliche Dienste](https://www.jku.at/rektorat/vizerektorat-fuer-lehre-und-studierende/anrechnung-ehrenamtlicher-taetigkeit/) geben ebenfalls “Freie ECTS” - auf unserem [Discord-Server](https://discord.gg/wAek576) kannst du dich im `#free-electives` channel zu den besten Fächern austauschen.
 
-Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch [Regeln zur Anrechnung](#kann-ich-einen-kurs-fuer-mehrere-studiengaenge-nutzen-kann-ich-mir-einen-aehnlichen-kurs-anrechnen-)) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
+Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch [Regeln zur Anrechnung](#kann-ich-einen-kurs-fuer-mehrere-studiengaenge-nutzen-kann-ich-mir-einen-aehnlichen-kurs-anrechnen)) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
 Wenn du ein Fach an einer anderen Universität absolvieren möchtest, lies dir die Regeln der jeweiligen Uni zu “Mitbelegung” durch.
 '''
 
@@ -380,7 +380,7 @@ Every Austrian university degree program must include "Freie Studienleistungen" 
 
 Many [voluntary work engagements](https://www.ulf-ooe.at/unsere-projekte/aktuelle-projekte-und-schwerpunkte/lev/lev-jku) (e.g. firefighters) also give "free ECTS" - you can exchange information on the best subjects in the `#free-electives` channel on our [Discord server](https://discord.gg/wAek576).
 
-If you are doing two degrees at the same time, you can also use subjects from one degree as free electives for the other (see also rules on credit transfer) - in short, you are completely free to choose your subjects.
+If you are doing two degrees at the same time, you can also use subjects from one degree as free electives for the other (see also [rules on credit transfer](#can-i-use-a-course-for-two-different-degrees-can-i-accredit-a-similar-course)) - in short, you are completely free to choose your subjects.
 
 If you would like to take a subject at another university, read the rules of the respective university regarding "Mitbelegung".
 '''
@@ -392,7 +392,6 @@ de.a = '''
 Die Studien sind prinzipiell als Vollzeitstudium (30 ECTS pro Semester) ausgelegt. Grundsätzlich gilt, dass ein Credit-Punkt ca. 25 Arbeitsstunden ausmacht, du also jedes Semester über 40 Stunden pro Woche an Zeit einplanen musst.
 
 Da man auf der Universität selbst entscheiden kann, wie viele Kurse man belegt, empfiehlt es sich darum, bei Arbeit neben dem Studium weniger als 30 ECTS zu machen: Man muss dann natürlich mit Verzögerungen in der Studienzeit rechnen, die empfohlene Studiendauer wird sich so also nicht mehr ausgehen.
-
 
 Im Bachelor wird darum empfohlen, erst frühestens ab dem 5. Semester zu arbeiten - uns ist aber selbstverständlich klar, dass das nicht für alle finanziell möglich ist: Wenn du Probleme hast, dir das Studium leisten zu können, sieh dir die [Frage zur finanziellen Unterstützung](#gibt-es-finanzielle-unterstuetzung) an.
 
@@ -406,7 +405,7 @@ In principle, studies are designed as full-time studies (30 ECTS). A credit poin
 
 Since you can decide for yourself how many courses you want to take, we recommend doing less than 30 ECTS if you plan to work on the side: Of course, you have to take delays in your studies into account then, i.e. the recommended study time will no longer be possible.
 
-In the Bachelor's programme, the official recommendation therefore suggests you should start working no earlier than the 5th semester, though we do of course know that this is not possible for everyone financially. If you are struggling to afford your studies, check out our question on financial aid!
+In the Bachelor's programme, the official recommendation therefore suggests you should start working no earlier than the 5th semester, though we do of course know that this is not possible for everyone financially. If you are struggling to afford your studies, check out our [question on financial aid](#is-there-financial-aid)!
 
 Generally, the number of ECTS you can/should do in a semester depends on the number of hours you have available and your previous knowledge.
 
@@ -426,9 +425,9 @@ Mach dir aber bitte bewusst, dass du damit nicht nur soziale Einbuße hast, sond
 
 en.q = "Can I do more than 30 ECTS in a semester?"
 en.a = '''
-As mentioned above, you are free to do more than the recommended 30 ECTS per semester, but it probably won’t be fun.
+As mentioned [above](#can-i-work-while-studying-how-many-ects-should-i-take), you are free to do more than the recommended 30 ECTS per semester, but it probably won’t be fun.
 
-If you are primarily studying to get a degree, already have the relevant previous education and are prepared to have very little free time, you can of course shorten the duration of your studies by taking a higher number of ECTS per semester. If you plan on doing so, please take our question about individual study planning into account - we are happy to advise you individually.
+If you are primarily studying to get a degree, already have the relevant previous education and are prepared to have very little free time, you can of course shorten the duration of your studies by taking a higher number of ECTS per semester. If you plan on doing so, please take our question about [individual study planning](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan) into account - we are happy to advise you individually.
 
 However, please be aware that you will not only lose out on the social side but also probably won’t benefit from your study academically as much - after all, many learning processes also happen outside of the courses during discussions with your fellow students and professors.
 '''
@@ -444,7 +443,7 @@ Wenn der Kurs in den beiden Studiengängen nicht exakt gleich ist, kann trotzdem
 
 en.q = "Can I use a course for two different degrees? Can I accredit a similar course?"
 en.a = '''
-Yes, courses can be used for multiple degrees, with some restrictions. Notably, the degrees may not depend on each other: If you used the course to get a degree (e.g. BSc Informatik), and this degree is a requirement to do another study (e.g. MSc Computer Science), you cannot use the course in this study. Similar restrictions might be in place for pre-study programs.
+Yes, courses can be used for multiple degrees, with some restrictions. Notably, the degrees may not [depend on each other](#can-i-use-courses-from-my-bachelors-degree-in-my-masters): If you used the course to get a degree (e.g. BSc Informatik), and this degree is a requirement to do another study (e.g. MSc Computer Science), you cannot use the course in this study. Similar restrictions might be in place for pre-study programs.
 
 If the course is not exactly identical between programmes, accreditation might still be possible. For more details, individual solutions, and the crediting itself, please see [this page](https://cs.jku.at/teaching/stuko/credittransfer/) for CS and contact [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) for AI.
 '''
@@ -482,7 +481,7 @@ Depending on your citizenship, you will also need to pay tuition fees: EU and EE
 
 Note that for some financial aids (e.g. Studienbeihilfe), the amount of tolerance semesters before funding is cut is lower.
 
-During the Bachelor’s, keep Mindeststudienleistung in mind.
+During the Bachelor’s, keep [Mindeststudienleistung](http://localhost:8000/cs-ai/en/#what-is-the-minimum-number-of-credits-mindeststudienleistung) in mind.
 '''
 
 [[sections.subsections.questions]]
@@ -503,7 +502,7 @@ For most courses, you can deregister up until the first meeting in KUSSS. If tha
 
 For exercises or practicals, there is either a certain mode (e.g. after two exercises have been handed in, you get a grade) or you politely write an email to the lecturer asking whether they can deregister you from the course.
 
-If this is not possible, and you do not continue the course, you will receive a negative grade. No worries though, you do have several attempts to pass.
+If this is not possible, and you do not continue the course, you will receive a negative grade. No worries though, you do have [several attempts to pass](#how-many-attempts-do-i-have-for-courses).
 '''
 
 [[sections.subsections.questions]]
@@ -604,7 +603,7 @@ Du kannst dich zu Lehrveranstaltungsprüfungen für Vorlesungen und Kurse bis zu
 en.q = "How do I register for exams?"
 en.a = '''
 To take part in lecture exams, you are required to register via [KUSSS](https://kusss.jku.at/kusss/szexaminationlist.action?search=true&searchType=mylvas) in time.
-Simply follow the link above and search for the respective course. If you can’t find any exams, see below for more.
+Simply follow the link above and search for the respective course. If you can’t find any exams, see [below](#how-many-exam-dates-are-there-for-a-subject-and-why-are-they-not-all-entered-when-i-register) for more.
 
 For exercises, courses and seminars, registration for a course also counts as registration and admission for the course examination. Make sure to check if your course instructor wants any additional sign ups, however.
 
@@ -676,7 +675,7 @@ Negative grades will not show up on your final diploma.
 
 de.q = "Wie viele Antritte habe ich bei LVAs?"
 de.a = '''
-Negativ beurteilte Prüfungen der [Studieneingangs- und Orientierungsphase (StEOP)](#was-ist-die-steop--wie-funktioniert-sie) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
+Negativ beurteilte Prüfungen der [Studieneingangs- und Orientierungsphase (StEOP)](#was-ist-die-steop-wie-funktioniert-sie) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
 Es zählen alle Prüfungsantritte für dasselbe Prüfungsfach in allen facheinschlägigen Studien an derselben Universität.
 
 Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalten - siehe “[Was ist eine kommissionelle Prüfung?](#was-ist-eine-kommissionelle-pruefung)” für mehr Infos.
@@ -686,11 +685,11 @@ Die letzte Prüfung eines Studienabschnitts darf ein weiteres Mal wiederholt wer
 
 en.q = "How many attempts do I have for courses?"
 en.a = '''
-Students may repeat failed examinations taken for the StEOP three times (= four attempts).
+Students may repeat failed examinations taken for the [StEOP](#what-is-the-steop-how-does-it-work) three times (= four attempts).
 For all other examinations, students may re-sit them up to four times (= five attempts) - this is a special rule of JKU, see _§ 53 Abs. 2 Satzung_.
 All examination attempts in the same subject, for all studies at the same university count.
 
-After repeating an examination for the third time, the examination will then be conducted by a committee - see What is an examination by committee (“Kommissionelle Prüfung”)? for more.
+After repeating an examination for the third time, the examination will then be conducted by a committee - see [What is an examination by committee (“Kommissionelle Prüfung”)?](#what-is-an-examination-by-committee-kommissionelle-prufung) for more.
 
 The last exam of a degree can be repeated one more time (see _§ 77 Abs. 2 UG_).
 '''
@@ -716,7 +715,7 @@ If you use up your last attempt in a mandatory subject, you will be automaticall
 If possible, you should therefore try not to let it get that far: In any case, please contact us in advance so that we can look for a solution together. The following options are available:
 
 1. You ask the LVA instructor whether there are other options for taking the exam.
-2. You take a similar subject from a different study at JKU and have it transferred - see e.g. these lists of equivalent courses.
+2. You take a similar subject from a different study at JKU and have it transferred - see e.g. [these lists](https://cs.jku.at/teaching/stuko/credittransfer/) of equivalent courses.
 3. You take the subject at another university and have it recognized at JKU: However, this is easier said than done - you can generally only take subjects at other universities if they are not already offered at JKU (§ 63 Abs. 9 UG). The subject must therefore be different enough for co-enrollment, but similar enough for credit transfer - this topic must therefore always be discussed with your study coordinator. This limitation does not apply to a semester abroad.
 4.You wait for a change in the curriculum: Sometimes LVAs change (for example due to renaming) and are given a new course number. In this case, your attempts are often reset, so the course is treated as a new course. To be on the safe side, ask the Examination and Recognition Service whether such a change has been made.
 '''
@@ -790,7 +789,7 @@ en.q = "Can I appeal my grade?"
 en.a = '''
 No, there is no right of appeal against assessments. Only negative grades can be overturned in case of "serious deficiencies" (e.g. if the exam time is significantly shorter than announced), in which case your negative entry becomes null and void. Please contact us immediately if you believe that such a deficiency exists: An appeal must happen within four weeks after the grade has been announced (_§ 79 Abs. 1 UG_).
 
-If you feel that you have been treated unfairly, you can request an examination by committee for future attempts.
+If you feel that you have been treated unfairly, you can request an [examination by committee](#what-is-an-examination-by-committee-kommissionelle-prufung) for future attempts.
 
 You can also request that you be examined by another person of your choice who is qualified to do so (_§ 59 Abs. 13 UG_).
 '''
@@ -898,7 +897,7 @@ The Austrian Student Union (ÖH) is divided into different levels:
 ##### Study Representation (ÖH StV AI + StV Informatik)
 
 Your study representatives are your direct contact points for issues concerning your study - in your case, your representatives are StV AI and StV Informatik respectively.
-For more on our work, see What are StV Informatik and StV AI about?
+For more on our work, see [What are StV Informatik and StV AI about?](#what-are-stv-ai-and-stv-informatik-about)
 
 ##### Faculty Representation (ÖH TNF)
 
@@ -1083,7 +1082,7 @@ Wir empfehlen dir, die StEOP so schnell wie möglich abzuschließen, um von den 
 
 en.q = "How long may I take to finish the StEOP?"
 en.a = '''
-There is no time limit to finish the StEOP. At the beginning of your studies, there is however a minimum amount of credits (“Mindeststudienleistung”) you have to do. Since your choice of courses is very restricted during StEOP, you will most likely finish your StEOP courses when attempting to reach Mindeststudienleistung.
+There is no time limit to finish the StEOP. At the beginning of your studies, there is however a [minimum amount of credits](#what-is-the-minimum-number-of-credits-mindeststudienleistung) (“Mindeststudienleistung”) you have to do. Since your choice of courses is very restricted during StEOP, you will most likely finish your StEOP courses when attempting to reach Mindeststudienleistung.
 
 Generally, we advise you to complete StEOP as quickly as possible to benefit from additional exam attempts and a more flexible study plan.
 '''
@@ -1099,13 +1098,13 @@ Die ECTS für das Erreichen der Mindeststudienleistung nach vier Semestern könn
 Mehr Infos zu Ausnahmen, Konsequenzen bei Nichterfüllung, etc. findest du [hier](https://www.jku.at/studium/studierende/mindeststudienleistung/).
 '''
 
-en.q = "What is the minimum number of credits (“Mindeststudienleistung)?"
+en.q = "What is the minimum number of credits (\"Mindeststudienleistung\")?"
 en.a = '''
 In Bachelor's and diploma degree programmes you are required to complete a total of at least 16 ECTS in the first four semesters in each degree programme to which admission is granted.
 
 The ECTS for achieving the minimum study performance after four semesters have to be completed by October 31st in the winter term and by March 31st in the summer term (_§ 59a UG_).
 
-More information on exceptions, consequences of non-compliance, etc. can be found here.
+More information on exceptions, consequences of non-compliance, etc. can be found [here](https://www.jku.at/en/degree-programs/students/minimum-number-of-credits/).
 '''
 
 [[sections.subsections.questions]]
@@ -1117,7 +1116,7 @@ Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerk
 
 en.q = "How can I get credit for something I did in school?"
 en.a = '''
-For recognition, you will need to submit a recognition request via the [AUWEA](https://anerkennung.jku.at/anerkennung/student/) tool which includes your school report (see more [here](https://www.jku.at/en/degree-programs/students/credit-transfer-and-examination-recognition/)). The recognition can only be applied for after the start of the degree programme. For more detailed information, see the corresponding FAQ chapters for Computer Science and AI. We have provided links with credit tables there.
+For recognition, you will need to submit a recognition request via the [AUWEA](https://anerkennung.jku.at/anerkennung/student/) tool which includes your school report (see more [here](https://www.jku.at/en/degree-programs/students/credit-transfer-and-examination-recognition/)). The recognition can only be applied for after the start of the degree programme. For more detailed information, see the corresponding FAQ chapters for [Computer Science](#how-and-what-can-i-get-credit-for-from-school-in-cs-bachelor) and [AI](#how-and-what-can-i-get-credit-for-from-school-in-ai-bachelor). We have provided links with credit tables there.
 '''
 
 [[sections.subsections.questions]]
@@ -1135,9 +1134,9 @@ In unserem “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources
 
 en.q = "I would like to start in the summer semester, how do I go about it?"
 en.a = '''
-In general, we do not recommend starting your studies in the summer semester. (Special case for Computer Science HTLs for Computer Science studies. See the FAQ question “I attended a Computer Science school and would like to study Computer Science. How can I start with credits in the summer semester?”).
+In general, we do not recommend starting your studies in the summer semester. (Special case for Computer Science HTLs for Computer Science studies. See the FAQ question “[I attended a Computer Science school and would like to study Computer Science. How can I start with credits in the summer semester?](#i-attended-a-computer-science-htl-and-would-like-to-study-computer-science-how-can-i-start-with-credits-in-the-summer-semester)”).
 
-However, if you are only able to start your studies in the summer semester, this is, of course, possible. We suggest that you complete the recommended subjects from the scheduled 2nd semester and follow our advice for an individual study plan.
+However, if you are only able to start your studies in the summer semester, this is, of course, possible. We suggest that you complete the recommended subjects from the scheduled 2nd semester and follow our advice for an [individual study plan](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan).
 
 If you already have previous knowledge of programming, it is no problem to start with e.g. Softwareentwicklung 2 (CS) or Programming in Python II (AI). However, if you have never programmed before, you should first take Softwareentwicklung 1 (CS) or Programming in Python I (AI) and postpone its successor for later. In principle, it is up to you to arrange your timetable and which courses you take and when. However, it is advisable not to completely disregard the recommended semester plan.
 
@@ -1156,10 +1155,10 @@ Gleichzeitig führt ein duales Studium aber zu einer sehr [großen Workload](#ka
 
 en.q = "Can I do a dual study of BSc AI and CS?"
 en.a = '''
-While it is of course possible to study both degrees at the same time, they have a lot less overlap than you might think. Courses that occur in both degrees can be used in both degrees without accreditation (ca. 40 ECTS), and there are some courses that are similar enough for automatic accreditation (published [here](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf), ca. 16 ECTS). Additionally, “Free Electives” (9 ECTS) can also be accredited automatically.
+While it is of course possible to study both degrees at the same time, they have a lot less overlap than you might think. Courses that occur in both degrees [can be used in both degrees](#can-i-use-a-course-for-two-different-degrees-can-i-accredit-a-similar-course) without accreditation (ca. 40 ECTS), and there are some courses that are similar enough for automatic accreditation (published [here](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf), ca. 16 ECTS). Additionally, “Free Electives” (9 ECTS) can also be accredited automatically.
 In other words, you “save” about a third of the time of one study.
 
-On the other hand, doing both studies simultaneously will either result in a hefty workload with many potential course overlaps or an individual study plan for a prolonged study for each degree.
+On the other hand, doing both studies simultaneously will either result in a [hefty workload](#can-i-do-more-than-30-ects-in-a-semester) with many potential course overlaps or an [individual study plan](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan) for a prolonged study for each degree.
 '''
 
 [[sections.subsections.questions]]
@@ -1199,7 +1198,7 @@ There are three different ways to find a Bachelor's thesis:
 * you ask an institute/supervisor what topics are offered. Most institutes have some work advertised on their website. You can get an idea there. Or
 * you can write a thesis at a company. However, you always need a supervisor at JKU. This means that you apply for a job at a company and look for a suitable supervisor at JKU. Some institutes will demand payment from the company for supervising a thesis, your supervisor will tell you the rest of the procedure.
 
-The ÖH helps you to connect to potential supervisors and find your topic by organising Bachelor Info Events. See more here: AI, CS.
+The ÖH helps you to connect to potential supervisors and find your topic by organising Bachelor Info Events. See more here: [AI](#what-is-the-ai-bachelor-info-evening), [CS](#what-is-the-informatik-bachelor-info-evening).
 '''
 
 [[sections.subsections.questions]]
@@ -1250,7 +1249,7 @@ Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fäc
 Zur Anerkennung schreib eine Mail an den [Prüfungs- und Anerkennungsservice](https://www.jku.at/lehr-und-studienorganisation/pruefungs-und-anerkennungsservice/) der JKU mit deinem Zeugnis. (Erst nach dem Start des Studiums möglich.)
 '''
 
-en.q = "How and what can I get credit for from school?"
+en.q = "How and what can I get credit for from school in AI Bachelor?"
 en.a = '''
 If you have attended a technical school (HTL in Austria), you can have subjects credited to you, depending on the HTL branch. [Here](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) you can find a table with the credit possibilities for AI.
 
@@ -1413,7 +1412,7 @@ Die Anerkennung kann erst nach Studienstart passieren, muss aber in den ersten b
 Mehr Infos zur Anrechnung findest du Informatik-spezifisch [hier](https://cs.jku.at/teaching/stuko/credittransfer/) und allgemein [hier](https://www.jku.at/studium/studierende/anerkennung-von-pruefungen/).
 '''
 
-en.q = "How and what can I get credit for from school?"
+en.q = "How and what can I get credit for from school in CS Bachelor?"
 en.a = '''
 For some schools, there are tables for subjects that can be credited: [Table for HAKs](https://informatik.jku.at/teaching/stuko/news/hak.html), [Table for HTLs](https://informatik.jku.at/teaching/stuko/news/htl.html). It is sometimes also possible to accredit courses that aren’t in these tables.
 
@@ -1445,7 +1444,7 @@ Achte aber darauf, dass du zumindest eine Vertiefung mit dem LVA-Typ SE (Seminar
 
 en.q = "What do I have to bear in mind when taking specialization subjects in the Bachelor's degree?"
 en.a = '''
-Usually in the 5th and 6th semesters of the Bachelor of Computer Science, you take specialization courses (General Electives). These are mostly subjects from the Master of Computer Science, which has a Major Subject to choose (take a look at our FAQ question: Major Subject and Complementary Subject, what is that?). No compulsory course from a Major Subject is included in the specialization pool in the Bachelor's degree, meaning that (contrary to a common myth) you cannot block a desired major unless you really try.
+Usually in the 5th and 6th semesters of the Bachelor of Computer Science, you take specialization courses (General Electives). These are mostly subjects from the Master of Computer Science, which has a Major Subject to choose (take a look at our FAQ question: [Major Subject and Complementary Subject, what is that?](#major-subject-and-complementary-subject-what-is-that)). No compulsory course from a Major Subject is included in the specialization pool in the Bachelor's degree, meaning that (contrary to a common myth) you cannot block a desired major unless you [really try](#can-i-use-courses-from-my-bachelors-degree-in-my-masters).
 
 You have to do one course of the type SE (seminar) as part of your electives however (either pick one from the [General Electives](https://studienhandbuch.jku.at/169484), or a [Special Topics seminar](https://studienhandbuch.jku.at/169499)).
 '''
@@ -1777,7 +1776,7 @@ Manche Kurse werden online abgehalten oder bieten Videos an (insbesondere, wenn 
 
 en.q = "Can I work during the MSc study, can I study remotely?"
 en.a = '''
-Many of our MSc students work on the side, and we try to accommodate that: We try to have courses with mandatory presence of the same major track on the same day, and often evening slots are offered. Our curriculum is a full-time study, however, and you will struggle to balance it next to a full workload - see our more general advice.
+Many of our MSc students work on the side, and we try to accommodate that: We try to have courses with mandatory presence of the same major track on the same day, and often evening slots are offered. Our curriculum is a full-time study, however, and you will struggle to balance it next to a full workload - see our more [general advice](#can-i-work-while-studying-how-many-ects-should-i-take).
 
 Some courses also offer remote meetings and recordings (especially if they are shared with the AI track). Still, the study is designed for on-site participation, and many of our courses require physical presence. In most cases, it is therefore not feasible to fully study remotely.
 '''
