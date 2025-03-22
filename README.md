@@ -3,13 +3,48 @@
 * [Pandoc](https://pandoc.org/)
 * [yj](https://github.com/sclevine/yj)
 
-# Why Lua?
+# How do I contribute?
 
-Because Pandoc is the GOAT (well, except templates it seems, but now I've
-already done it like that...) and I need to put every question through it
-seperately. The only two languages that can do that efficiently are Lua and
-Haskell.
+The content is all in the `faqs/` directory.
 
-# Why are the languages hardcoded?
+Each faq is a TOML file with the following format:
 
-Because additonal languages just would not be maintained.
+```
+Table:
+  logo: Table:
+    src: String, name of logo image file
+    href: String, where the logo should link to
+  de: Table:
+    title: String, title of the FAQ (German)
+    intro: String, Markdown, text at the beginning (German)
+  en: Table:
+    title: String, title of the FAQ (English)
+    intro: String, Markdown, text at the beginning (English)
+  questions: Array of Questions (see below)
+  sections: Array of Table:
+    de: Table:
+      title: String, title of the section (German)
+    en: Table:
+      title: String, title of the section (English)
+    questions: Array of Questions (see below)
+    subsections: Array of Table:
+      de: Table:
+        title: String, title of the section (German)
+      en: Table:
+        title: String, title of the section (English)
+      questions: Array of Questions (see below)
+```
+
+where the questions look like this:
+
+```
+Table:
+  de: Table:
+    q: String, the question (German)
+    a: String, Markdown, the answer (German)
+  en: Table:
+    q: String, the question (English)
+    a: String, Markdown, the answer (English)
+```
+
+Just submit your changes via a pull request, the maintainers will make sure to incorporate your changes quickly.
