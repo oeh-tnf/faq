@@ -38,12 +38,12 @@ Finally, we will sometimes provide law references to aid you in finding further 
 [[sections]]
 
 de.title = "Allgemein"
-en.title = ""
+en.title = "General"
 
 [[sections.subsections]]
 
 de.title = "Anmeldung und Studienplanung"
-en.title = ""
+en.title = "Registration // Planning your Studies"
 
 [[sections.subsections.questions]]
 
@@ -58,9 +58,16 @@ Wenn du Fragen hast, kannst du dich jederzeit an uns, die Studienvertretung Info
 Für Erstsemestrige haben wir zudem einen Leitfaden ausgearbeitet, den wir dir sehr ans Herz legen können. Schmöker einmal durch den “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources)” bzw. den [Study Guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 '''
 
-en.q = ""
+en.q = "What should I know as a newcomer?"
 en.a = '''
+We recommend that you always go to the first meeting of your courses. Often, a lot of organisational matters are discussed there, which are important for the rest of the course. For courses with compulsory attendance, it is also possible that your spot may be given to someone on the waiting list if you do not show up to the first appointment.
 
+We have a very active Discord server for anyone studying Computer Science and AI.
+Join via this link: <https://discord.gg/wAek576>
+
+If you have any questions, you can always contact us, the Student Unions for Computer Science and AI. Either via email ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) for CS and [ai@oeh.jku.at](mailto:ai@oeh.jku.at) for AI), or via Discord.
+
+We also prepared a guide for first-semester students that we would like to recommend to you. Check out the “[Studienleitfaden for Computer Science](https://oeh.jku.at/cs/resources)” and the [study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 '''
 
 [[sections.subsections.questions]]
@@ -74,9 +81,13 @@ Für unsere Master-Kurse musst du ein aufbauendes Bachelor-Studium absolviert ha
 In keinem Fall ist dein Notenschnitt von Bedeutung, es gibt auch keine Quoten oder eine Begrenzung der Studierendenzahlen: Sofern du die geforderten Dokumente fristgerecht einreichst, wirst du zum Studium zugelassen.
 '''
 
-en.q = ""
+en.q = "Are there any requirements to get admitted?"
 en.a = '''
+None of our Bachelor studies have any special requirements. As with all Bachelor studies, you have to prove that you are on the same level as an Austrian after high school (Matura, [enrollment eligibility exam](https://www.jku.at/en/degree-programs/students/university-enrollment-eligibility-examination/), language certificates, etc.) - see this [JKU page](https://www.jku.at/en/degree-programs/prospective-students/register-to-enroll/bachelors-degree-diploma-degree/) and our [Internationals FAQ](../../internationals/en/) for more.
 
+For our Master studies, you need to have done a suitable Bachelor study beforehand - you can find more information on this [JKU page](https://www.jku.at/en/degree-programs/prospective-students/register-to-enroll/masters-degree-programs/) and some more questions about the topic in your respective Master's section in the FAQ.
+
+JKU never cares about your grade average etc, there are no quotas and no limits to the number of students that can register for our studies: If you submit the required documents in time, you will be accepted.
 '''
 
 [[sections.subsections.questions]]
@@ -86,9 +97,9 @@ de.a = '''
 Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) findest du den vorgeschlagenen Studienplan. Es ist ratsam, sich für alle empfohlenen LVAs eines Semesters anzumelden. Wenn es dir zuviel wird, kannst du während des Semesters noch [Fächer aufhören](#wie-kann-ich-eine-lva-aufhoeren). Der Studienplan ist aber nur eine Empfehlung, du kannst ihn (mit [Einschränkungen](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere)) nach deinen Bedürfnissen abändern.
 '''
 
-en.q = ""
+en.q = "Which courses should I take?"
 en.a = '''
-
+On the last page of your [Curriculum](https://studienhandbuch.jku.at/index.php?lang=en), you will find the suggested study plan. It is advisable to register for all recommended courses. If it becomes too much for you, you can still drop subjects during the semester. Note that this study plan is only a recommendation, and that you can adjust it to your needs (with some caveats).
 '''
 
 [[sections.subsections.questions]]
@@ -115,9 +126,28 @@ Weitere LVA-Arten, welche nicht in Informatik und AI Curricula enthalten sind: �
 Mehr Infos über sie findest du in _§§ 13f Satzung_.
 '''
 
-en.q = ""
+en.q = "What does \"VO\", \"UE\", etc. mean for courses?"
 en.a = '''
+##### Lectures (VO or VL)
 
+give an overview of a subject and its theoretical approaches and present different doctrinal opinions and methods. The contents are predominantly taught in a teacher-centred style. A lecture may never require attendance and is usually graded with a single exam at the end of the semester. Some lectures offer additional ways to get a grade (e.g. Minitests).
+
+##### Exercises (UE) and Practical Courses (PR)
+
+deepen the material of a lecture. The course instructor determines what must be achieved for a positive conclusion of the course: In most cases, there are regular exercises, but there can also be blackboard presentations, lab reports, or exercise tests. Compulsory attendance is determined by the lecturer.
+
+You always find more information in KUSSS in the [Study Guide](https://studienhandbuch.jku.at/index.php?lang=en) entry for the corresponding course.
+
+##### Seminars (SE)
+
+develop your scientific capabilities. They aim to teach the acquisition of in-depth specialist knowledge and competencies, as well as the discussion and reflection of scientific topics. In most cases, students choose a topic, write a seminar paper, and present it to the course participants at the end of the semester. A seminar usually has compulsory attendance.
+
+##### Combined courses (KV)
+
+are a combination of lecture and exercise. Whether attendance is compulsory, and how the grade is calculated is up to the course instructor.
+
+Other types of courses that are not included in the Computer Science or AI curricula: Exercise with lecture (UV), lecture with exercise (VU), basic course (GK), excursion (EX), conversational course (KO), proseminar (PS), language course (SK), interdisciplinary project (IP), individual artistic instruction (KE), group artistic instruction (KG)...
+You can find further information on them in _§§ 13f Satzung_.
 '''
 
 [[sections.subsections.questions]]
@@ -127,9 +157,9 @@ de.a = '''
 Wenn Anwesenheitspflicht besteht, sollte dies im KUSSS im [Studienhandbuch](https://studienhandbuch.jku.at/index.php)-Eintrag zur jeweiligen LVA unter “Beurteilungskriterien” aufgelistet sein.
 '''
 
-en.q = ""
+en.q = "How do I find out in advance if a course has compulsory attendance?"
 en.a = '''
-
+If attendance is compulsory, it should be listed in the KUSSS, specifically in the [Study Guide](https://studienhandbuch.jku.at/index.php?lang=en) entry of the respective course under ‘Criteria for evaluation’.
 '''
 
 [[sections.subsections.questions]]
@@ -142,9 +172,11 @@ Manche Kurse werden nach dem “first come, first served”-Prinzip zugeteilt, b
 Wir empfehlen dir also, schon vorher zu überlegen, zu welchen Kursen du dich anmelden möchtest. Bei manchen Kursen gibt es außerdem mehrere Zeitslots, also stell sicher, dass sie sich nicht überlappen. Das Kursangebot ist immer mindestens eine Woche vor Anmeldung verfügbar.
 '''
 
-en.q = ""
+en.q = "How do I register for courses?"
 en.a = '''
+You can register for courses during the registration period listed on the [JKU website](https://www.jku.at/en/degree-programs/students/dates-deadlines/). Be aware that some courses are assigned on a first come, first-served basis, while others don’t take timings into account. Check the [Class Allocation Guide](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/class-allocation/) to find out more and prioritise accordingly.
 
+We therefore recommend that you consider which courses you would like to register for before the registration period opens. For some courses, multiple time slots exist, so make sure to pick ones that don’t overlap. The course programme is always available at least one week before the registration period starts.
 '''
 
 [[sections.subsections.questions]]
@@ -154,9 +186,9 @@ de.a = '''
 Siehe dafür das KUSSS FAQ [hier](https://www.jku.at/studium/studierende/kusss/kusss-faq/).
 '''
 
-en.q = ""
+en.q = "How does KUSSS work?"
 en.a = '''
-
+Please consult the [KUSSS FAQ](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/) for technical questions.
 '''
 
 [[sections.subsections.questions]]
@@ -170,9 +202,13 @@ Bei Pflichtkursen hast du ein Anrecht auf einen Platz (§ 59 Abs. 4 UG), wenn di
 Die JKU hat außerdem eine [Reklamationsstelle](https://www.jku.at/studium/studierende/kusss/kusss-faq/reklamationsmanagement/) für solche Fälle, die sich notfalls darum kümmert, dass für dich noch ein Platz in einem Kurs geschaffen wird.
 '''
 
-en.q = ""
+en.q = "I didn't get into my class, what now?"
 en.a = '''
+Politely write an email to the course instructor and ask if there is still space for you. If not, make sure you go to the first session of the course you would like to attend. Let them know that you are not registered for the course yet. In this case, you may get a spot from one of the students who are not present.
 
+If the course is mandatory for your curriculum, the university must provide sufficient slots to avoid delaying your study progress (_§ 59 Abs. 4 UG_) - please get in touch with us in that case!
+
+For emergency cases, JKU has also created a [department](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/complaints-management/) that will try to get you into courses if necessary.
 '''
 
 [[sections.subsections.questions]]
@@ -185,9 +221,13 @@ Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst
 Wenn du nach dem vorgeschlagenen Studienplan studierst, sollte es zu keinen Überschneidungen kommen.
 '''
 
-en.q = ""
+en.q = "I have an overlap of courses, what now?"
 en.a = '''
+That depends on the course type. For lectures, attendance is not compulsory, i.e. you can skip them in favour of another course.
 
+If both courses have mandatory attendance and are offered in multiple time slots, try switching to another slot to remove the overlap: See the next question.
+
+If you study according to the suggested study plan, you are guaranteed to be able to study without overlaps.
 '''
 
 [[sections.subsections.questions]]
@@ -200,9 +240,13 @@ Die LVA-Leitung wird dir dann Bescheid geben, ob ein Wechsel möglich ist.
 Falls Wechseln nicht möglich ist, schau trotzdem zum ersten Termin deiner gewünschten Übungsgruppe und sag der LVA-Leitung, dass du in diese Gruppe wechseln möchtest. Oft kann eine Lösung gefunden werden.
 '''
 
-en.q = ""
+en.q = "How can I change exercise groups?"
 en.a = '''
+Write a polite email to the course instructors with your request. Don't forget the course number and your matriculation number!
 
+Your course instructor will let you know if a change is possible.
+
+If changing is not possible, still go to the first appointment of your desired exercise group and talk to the lecturer, explaining that you would like to change to this group. Often, a solution can be found.
 '''
 
 [[sections.subsections.questions]]
@@ -214,9 +258,11 @@ Es gibt kein zentrales Verzeichnis aller E-Mail-Adressen. Wenn du also eine Mail
 Beispiel: _Martina Seidl JKU_ bringt dir [diesen](https://www.jku.at/institut-fuer-symbolic-artificial-intelligence/team/martina-seidl/) ersten Treffer und hier findest du auch alle Informationen.
 '''
 
-en.q = ""
+en.q = "How do I find the email addresses of my course instructors?"
 en.a = '''
+Unfortunately, there is no central record of all email addresses. So if you are looking for an email address of a specific person, search online for their name + JKU. The first hit is usually the institute's website with all the information you need.
 
+Example: _Martina Seidl JKU_ leads you to [this](https://www.jku.at/en/institute-for-symbolic-artificial-intelligence/team/martina-seidl/) first result, where you will also find all the information.
 '''
 
 [[sections.subsections.questions]]
@@ -239,9 +285,22 @@ Deine kleine Checkliste vor dem Abschicken einer E-Mail sollte also sein:
 * höflich formuliert
 '''
 
-en.q = ""
+en.q = "How do I write an email to a lecturer?"
 en.a = '''
+First of all, be polite! Your chances of success are much higher if you are polite and respectful of your lecturer’s time.
 
+Always include the name of the course in case you have a question about a particular one. Also, add the course number (six digits with a dot in the middle - you can find it in the KUSSS).
+
+Always sign with your full name and matriculation number at the end.
+
+Ideally, also include your study code (SKZ): For the Bachelor of Computer Science this is 033/521, AI Bachelor 033/536, Master Computer Science 066/921 and for Master AI 066/993. All SKZs can be found [here](https://www.jku.at/fileadmin/gruppen/381/ZUS/Zulassung/SKZ_aktuell_2020W.pdf).
+
+So your checklist before sending an email should be:
+
+* Course number + name
+* Your name + Matriculation number
+* Study code (SKZ)
+* Politely worded
 '''
 
 [[sections.subsections.questions]]
@@ -255,9 +314,13 @@ Es macht grundsätzlich Sinn, LVAs in der empfohlenen Reihenfolge zu absolvieren
 Melde dich gerne bei uns, wenn du Hilfe bei deinem Studienplan brauchst!
 '''
 
-en.q = ""
+en.q = "Is there anything to consider if I don’t study according to the recommended study plan?"
 en.a = '''
+Yes. Almost all courses in the technical and natural sciences are only offered annually, not every semester. Keep this in mind when you compile your own study plan. Also, make sure to finish StEOP as quickly as possible since it might limit you in your plans.
 
+It generally makes sense to complete courses in the recommended order. Often a dependency is quite obvious, for example in “Hands-on AI I” and “Hands-on AI II”. It is not checked whether you have already completed the previous course, but the knowledge is assumed. A rough guideline of which knowledge is required in which course can be found at the end of the [Computer Science Curriculum Guide](https://oeh.jku.at/en/study/technik-und-naturwissenschaften/informatik/resources), and [here](https://discord.com/channels/370458917073059841/379966639602401301/884847119670853652) on our [Discord server](https://discord.gg/wAek576) for AI.
+
+Feel free to contact us if you need help assembling your study plan!
 '''
 
 [[sections.subsections.questions]]
@@ -271,9 +334,13 @@ Aufgrund der starken inhaltlichen Nähe wird allerdings empfohlen, beide gleichz
 Bei manchen Fächern (etwa VL und UE Logic) können zudem durch einen Prüfungsantritt Noten für beide LVAs erlangt werden.
 '''
 
-en.q = ""
+en.q = "Do I need to attend Lecture and Exercise about a topic concurrently?"
 en.a = '''
+Subjects are often divided into two LVAs: A lecture for theoretical content, and an exercise for practical implementation. If there are two LVAs, they can always be completed separately and there is a separate grade for each subject.
 
+However, due to the proximity of content, it is recommended that you complete both at the same time - this not only saves you the effort of learning things twice, but the interweaving of theory and practice also helps with understanding.
+
+For some subjects (such as VL and UE Logic), you can also obtain grades for both courses by taking a single examination.
 '''
 
 [[sections.subsections.questions]]
@@ -287,9 +354,13 @@ Special Topics ermöglichen es den Instituten, aktuelle Trends in ihren Bereiche
 Die Bezeichnung von Special Topics besteht aus einem Haupttitel ("Special Topics:") und einem Untertitel, der den eigentlichen Inhalt der Lehrveranstaltung darstellt.
 '''
 
-en.q = ""
+en.q = "What are Special Topics?"
 en.a = '''
+Special Topics are courses that are not offered every year/semester because they are, as the name suggests, about a special topic, or have changing content.
 
+Special Topics enable institutes to cover current trends in their fields and to offer courses taught by guest lecturers. Courses in this category can be announced without being listed in the curriculum and there is no obligation to hold them regularly.
+
+The designation of Special Topics consists of a main title ("Special Topics:") and a subtitle that describes the actual content of the course.
 '''
 
 [[sections.subsections.questions]]
@@ -303,9 +374,15 @@ Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen S
 Wenn du ein Fach an einer anderen Universität absolvieren möchtest, lies dir die Regeln der jeweiligen Uni zu “Mitbelegung” durch.
 '''
 
-en.q = ""
+en.q = "What are Free Electives?"
 en.a = '''
+Every Austrian university degree program must include "Freie Studienleistungen" - they are intended to allow students to gain an insight into science beyond their subject area. You can therefore complete the ETCS provided for this purpose through any subject at any Austrian university, from language to pottery courses. It is of course also possible (although not necessarily the aim of the program) to use a computer science subject for the free credits.
 
+Many [voluntary work engagements](https://www.ulf-ooe.at/unsere-projekte/aktuelle-projekte-und-schwerpunkte/lev/lev-jku) (e.g. firefighters) also give "free ECTS" - you can exchange information on the best subjects in the `#free-electives` channel on our [Discord server](https://discord.gg/wAek576).
+
+If you are doing two degrees at the same time, you can also use subjects from one degree as free electives for the other (see also rules on credit transfer) - in short, you are completely free to choose your subjects.
+
+If you would like to take a subject at another university, read the rules of the respective university regarding "Mitbelegung".
 '''
 
 [[sections.subsections.questions]]
@@ -323,9 +400,17 @@ Die Anzahl an ECTS, die du im Semester machen kannst/sollst, ist natürlich von 
 Gerne beraten wir dich individuell dazu, schreib uns einfach eine E-Mail oder eine Nachricht auf Discord!
 '''
 
-en.q = ""
+en.q = "Can I work while studying? How many ECTS should I take?"
 en.a = '''
+In principle, studies are designed as full-time studies (30 ECTS). A credit point equates to ca. 25 hours of work, meaning that a normal semester is already more than 40 hours of work each week.
 
+Since you can decide for yourself how many courses you want to take, we recommend doing less than 30 ECTS if you plan to work on the side: Of course, you have to take delays in your studies into account then, i.e. the recommended study time will no longer be possible.
+
+In the Bachelor's programme, the official recommendation therefore suggests you should start working no earlier than the 5th semester, though we do of course know that this is not possible for everyone financially. If you are struggling to afford your studies, check out our question on financial aid!
+
+Generally, the number of ECTS you can/should do in a semester depends on the number of hours you have available and your previous knowledge.
+
+We are happy to advise you on this: Drop us an email or a message on Discord!
 '''
 
 [[sections.subsections.questions]]
@@ -339,9 +424,13 @@ Falls du das Studium primär für den Titel absolvierst, bereits entsprechende V
 Mach dir aber bitte bewusst, dass du damit nicht nur soziale Einbuße hast, sondern auch inhaltlich vermutlich nicht so viel mitnehmen wirst - viele Lernprozesse passieren schließlich auch außerhalb der Kurse bei Gesprächen mit deinen Kommiliton:innen und Professor:innen.
 '''
 
-en.q = ""
+en.q = "Can I do more than 30 ECTS in a semester?"
 en.a = '''
+As mentioned above, you are free to do more than the recommended 30 ECTS per semester, but it probably won’t be fun.
 
+If you are primarily studying to get a degree, already have the relevant previous education and are prepared to have very little free time, you can of course shorten the duration of your studies by taking a higher number of ECTS per semester. If you plan on doing so, please take our question about individual study planning into account - we are happy to advise you individually.
+
+However, please be aware that you will not only lose out on the social side but also probably won’t benefit from your study academically as much - after all, many learning processes also happen outside of the courses during discussions with your fellow students and professors.
 '''
 
 [[sections.subsections.questions]]
@@ -353,9 +442,11 @@ Ja, Kurse können für mehrere Studien verwendet werden, mit einigen Einschränk
 Wenn der Kurs in den beiden Studiengängen nicht exakt gleich ist, kann trotzdem eine Anrechnung möglich sein. Sieh dir für Informatik [diese Seite](https://cs.jku.at/teaching/stuko/credittransfer/) an und kontaktiere für AI [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at).
 '''
 
-en.q = ""
+en.q = "Can I use a course for two different degrees? Can I accredit a similar course?"
 en.a = '''
+Yes, courses can be used for multiple degrees, with some restrictions. Notably, the degrees may not depend on each other: If you used the course to get a degree (e.g. BSc Informatik), and this degree is a requirement to do another study (e.g. MSc Computer Science), you cannot use the course in this study. Similar restrictions might be in place for pre-study programs.
 
+If the course is not exactly identical between programmes, accreditation might still be possible. For more details, individual solutions, and the crediting itself, please see [this page](https://cs.jku.at/teaching/stuko/credittransfer/) for CS and contact [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) for AI.
 '''
 
 [[sections.subsections.questions]]
@@ -365,9 +456,9 @@ de.a = '''
 Falls es dir mal nicht möglich ist, für ein oder zwei Semester zu studieren, du aber nicht vorhast, das Studium abzubrechen, kannst du dich beurlauben lassen. Dies ist maximal zwei Semester hintereinander möglich. Gründe für Beurlaubung und Formulare findest du [hier](https://www.jku.at/studium/studierende/beurlaubung/).
 '''
 
-en.q = ""
+en.q = "I cannot complete any courses in the next semester, what should I do?"
 en.a = '''
-
+If it is impossible for you to study for one or two semesters, but you do not intend to drop out, you can take a leave of absence. This is possible for a maximum of two semesters in a row. Reasons for a leave of absence and forms can be found [here](https://www.jku.at/en/degree-programs/students/leave-of-absence/).
 '''
 
 [[sections.subsections.questions]]
@@ -383,9 +474,15 @@ Für manche Förderungen (etwa die Studienbeihilfe) hast du nur ein Toleranzseme
 Beachte im Bachelor die [Mindeststudienleistung](#was-ist-die-mindeststudienleistung).
 '''
 
-en.q = ""
+en.q = "How long am I allowed to take for my studies? When do I have to start paying money?"
 en.a = '''
+There is no maximum study duration, but studying comes with a cost. Every semester you have to pay the ÖH fee (around 25€).
 
+Depending on your citizenship, you will also need to pay tuition fees: EU and EEA citizens are exempted from tuition fees during the minimum period of study + 2 tolerance semesters (e.g. in our Bachelor’s that would be 8 semesters). You can find more information about this [here](https://www.jku.at/en/degree-programs/students/start-your-studies/pay-austrian-student-union-fees-and-tuition/).
+
+Note that for some financial aids (e.g. Studienbeihilfe), the amount of tolerance semesters before funding is cut is lower.
+
+During the Bachelor’s, keep Mindeststudienleistung in mind.
 '''
 
 [[sections.subsections.questions]]
@@ -400,9 +497,13 @@ Bei Übungen, KVs oder Praktika gibt es oft einen festgelegten Modus, der meist 
 Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber [mehrere Versuche](#wie-viele-antritte-habe-ich-bei-lvas).
 '''
 
-en.q = ""
+en.q = "How can I drop a course?"
 en.a = '''
+For most courses, you can deregister up until the first meeting in KUSSS. If that deadline has passed and you no longer want to take a course, it depends on the type of course. In the case of lectures, you simply do not sign up for the examination. This will not “cost” you any attempts and you can simply take the course at a later time.
 
+For exercises or practicals, there is either a certain mode (e.g. after two exercises have been handed in, you get a grade) or you politely write an email to the lecturer asking whether they can deregister you from the course.
+
+If this is not possible, and you do not continue the course, you will receive a negative grade. No worries though, you do have several attempts to pass.
 '''
 
 [[sections.subsections.questions]]
@@ -416,9 +517,13 @@ Zusätzlich gibt es auch viele [weitere staatliche Unterstützungsangebote](http
 Bitte wende dich bei Fragen an unsere Expert:innen im [ÖH JKU Soziareferat](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
 '''
 
-en.q = ""
+en.q = "Is there Financial Aid?"
 en.a = '''
+The Student Union has several grants and support services, they can be found [here](https://oeh.jku.at/en/oeh-jku/departments/social-department).
 
+Additionally, there are also multiple [governmental grants](https://www.stipendium.at/english), e.g. for students working on the side.
+
+Please refer to our experts at the [ÖH JKU Sozialreferat](https://oeh.jku.at/sozialreferat) for questions.
 '''
 
 [[sections.subsections.questions]]
@@ -442,9 +547,22 @@ Wenn du einen neuen Laptop suchst, gibt es oft auch spezielle Angebote für Stud
 Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
 '''
 
-en.q = ""
+en.q = "Do I need a laptop and what specs should it have?"
 en.a = '''
+In principle, there are PCs at the university, for example in the library, which you can use. However, because almost all submissions are made electronically, there is regular homework on the PC, etc., a laptop is highly recommended.
 
+Almost any laptop with Windows, macOS or Linux will do; it doesn't have to be anything fancy or have any particular features. We generally advise against Chromebooks, Android tablets and iPads as main work devices because not all recommended programs are compatible with them.
+
+In some rare cases, programs might require a virtual machine to run on a specific operating system, but this will be the case for all host systems.
+
+For ideal working conditions, we recommend a device with at least 8GB RAM, an SSD, a 1920x1080 screen and a battery life of at least 2 hours: not every room has a power socket.
+Furthermore, a lightweight laptop is great: you'll be carrying it around a lot.
+
+If you are looking for a new laptop, there are often special offers for students online, for example at [edustore](https://www.edustore.at/) and [u:book](https://ubook.at/) - but be sure to compare prices. You can usually find devices with the specifications above for less than €400 making use of [comparison portals](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+
+Note that JKU also supplies you with a variety of free [software](https://help.jku.at/im/de/software/software-fuer-studierende).
+
+Of course you can further optimise your device for complex AI operations etc. (the internet is happy to help with guides), but this is not necessary for your studies.
 '''
 
 [[sections.subsections.questions]]
@@ -458,15 +576,19 @@ Für Präsentationen gibt es ein eigenes Template, das du ebenfalls auf [GitHub]
 Weitere Templates und Richtlinien für deine Thesis findest du auf der [JKU-Website](https://www.jku.at/studium/studierende/abschlussarbeiten/).
 '''
 
-en.q = ""
+en.q = "Are there templates for presentations, theses and reports?"
 en.a = '''
+The Institute for Networks and Security has created LaTeX templates that can be used for seminars, technical reports and most importantly, for your thesis. You can always find an up-to-date version on [GitHub](https://github.com/michaelroland/jku-templates-report-latex).
 
+Presentations have their own template that can also be downloaded from [GitHub](https://github.com/michaelroland/jku-templates-presentation-latex).
+
+Additional templates and guidelines for your thesis can be found on the [JKU Website](https://www.jku.at/en/degree-programs/students/theses-and-dissertations/).
 '''
 
 [[sections.subsections]]
 
 de.title = "Prüfungen"
-en.title = ""
+en.title = "Exams"
 
 [[sections.subsections.questions]]
 
@@ -479,9 +601,14 @@ Für Übungen, Kurse und Seminare gilt die Anmeldung zur Lehrveranstaltung berei
 Du kannst dich zu Lehrveranstaltungsprüfungen für Vorlesungen und Kurse bis zum Ende des zweiten auf die Abhaltung folgenden Semesters anmelden, dann musst du dich erneut vorab bei der LVA selbst anmelden. (§ 27 Satzung)
 '''
 
-en.q = ""
+en.q = "How do I register for exams?"
 en.a = '''
+To take part in lecture exams, you are required to register via [KUSSS](https://kusss.jku.at/kusss/szexaminationlist.action?search=true&searchType=mylvas) in time.
+Simply follow the link above and search for the respective course. If you can’t find any exams, see below for more.
 
+For exercises, courses and seminars, registration for a course also counts as registration and admission for the course examination. Make sure to check if your course instructor wants any additional sign ups, however.
+
+You can register for course examinations for lectures and combined courses until the end of the second semester following the course, then you should re-register to the main LVA. (§ 27 Satzung)
 '''
 
 [[sections.subsections.questions]]
@@ -495,9 +622,13 @@ Falls du diese Frist verpasst hast, kannst du versuchen, dich per Mail an die LV
 Schreibst du eine Klausur nicht, zu der du angemeldet warst, kostet dich das keinen Klausur-Antritt: Es kann keine Leistung bewertet werden, wenn du keine erbracht hast. Lehrende können dich in manchen Fällen aber für den nächsten Klausur-Antritt blockieren und so deinen Studienfortschritt verzögern. Das passiert zwar selten, in der Regel ist es aber allgemein keine gute Idee, Leute zu verärgern, die deine Klausur bewerten - meld dich bitte ab!
 '''
 
-en.q = ""
+en.q = "I have registered for an exam, but can’t participate. What now?"
 en.a = '''
+You are usually able to deregister from an exam until a few days before it takes place. Details can be found on KUSSS and [my.jku.at](https://my.jku.at) at the respective exam page.
 
+If you missed this deadline, try deregistering via email to your lecturer.
+
+If you don’t participate in an exam you are registered for, you will not lose an attempt: You can’t be graded for something you didn’t do. In some cases, your lecturer can however block you for your next attempt, thus delaying your study progress. This usually doesn’t happen, but it’s generally not a good idea to annoy the person who is grading your exam - save yourself the trouble and deregister in time.
 '''
 
 [[sections.subsections.questions]]
@@ -511,9 +642,14 @@ Besonders bei kleineren LVAs legen manche Profs den Prüfungstermin mit den Stud
 
 '''
 
-en.q = ""
+en.q = "How many exam dates are there for a subject, and why are they not all entered when I register?"
 en.a = '''
+You are entitled to three exam dates per semester for each **lecture** (VL/VO), even in semesters where the LVA is not offered (_§ 76 Abs. 3 UG and § 33 Abs. 2 Satzung_).
+However, usually only two are planned at the beginning of a semester. If you need another one, politely ask the lecturer whether another date is offered, or whether you can take an oral exam. If this is not possible, please contact us ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) or [ai@oeh.jku.at](mailto:ai@oeh.jku.at)) and we will ensure that another attempt is offered.
 
+Examination dates are usually entered as [Examinations on KUSSS](https://kusss.jku.at/kusss/szexaminationlist.action?search=true&searchType=mylvas), or as a note in the course’s dates.
+If no dates have been entered, please let us know: We’ll get in touch with the course instructors to make sure they are fixed at the beginning of the semester.
+Please keep in mind that some professors arrange the exam date(s) of small courses together with the students at the beginning of the semester to find a date suitable for all.
 '''
 
 [[sections.subsections.questions]]
@@ -527,9 +663,13 @@ Handelt es sich um ein Pflichtfach, musst du das Fach wiederholen. Ist es eine V
 Negative Noten scheinen nicht auf deinem finalen Zeugnis auf.
 '''
 
-en.q = ""
+en.q = "What happens if I fail a subject?"
 en.a = '''
+For each LVA, you have several attempts. Either there are follow-up exams, or you repeat the whole course the next time it is offered (you might need to re-register for it).
 
+If it is a compulsory subject, you have to repeat the subject. If it is a specialization or a course from a pool of your choice, it is your decision whether you want to repeat the course.
+
+Negative grades will not show up on your final diploma.
 '''
 
 [[sections.subsections.questions]]
@@ -544,9 +684,15 @@ Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalt
 Die letzte Prüfung eines Studienabschnitts darf ein weiteres Mal wiederholt werden (_§ 77 Abs. 2 UG_).
 '''
 
-en.q = ""
+en.q = "How many attempts do I have for courses?"
 en.a = '''
+Students may repeat failed examinations taken for the StEOP three times (= four attempts).
+For all other examinations, students may re-sit them up to four times (= five attempts) - this is a special rule of JKU, see _§ 53 Abs. 2 Satzung_.
+All examination attempts in the same subject, for all studies at the same university count.
 
+After repeating an examination for the third time, the examination will then be conducted by a committee - see What is an examination by committee (“Kommissionelle Prüfung”)? for more.
+
+The last exam of a degree can be repeated one more time (see _§ 77 Abs. 2 UG_).
 '''
 
 [[sections.subsections.questions]]
@@ -563,9 +709,16 @@ Du solltest also wenn möglich versuchen, es gar nicht so weit kommen zu lassen:
 4. Du wartest auf eine Studienplanänderung: Manchmal ändern sich LVAs (etwa durch Umbenennung) und erhalten eine neue Kursnummer. In diesem Fall werden oft auch deine Antritte resettet, die LVA wird also wie ein neuer Kurs behandelt. Frag sicherheitshalber beim Prüfungs- und Anerkennungsservice nach, ob so eine Änderung erfolgt ist.
 '''
 
-en.q = ""
+en.q = "What happens if I use up all attempts?"
 en.a = '''
+If you use up your last attempt in a mandatory subject, you will be automatically exmatriculated. From then on, you will no longer be able to enrol in a degree program at JKU that includes this subject as a compulsory subject (§ 63 Abs. 7 UG).
 
+If possible, you should therefore try not to let it get that far: In any case, please contact us in advance so that we can look for a solution together. The following options are available:
+
+1. You ask the LVA instructor whether there are other options for taking the exam.
+2. You take a similar subject from a different study at JKU and have it transferred - see e.g. these lists of equivalent courses.
+3. You take the subject at another university and have it recognized at JKU: However, this is easier said than done - you can generally only take subjects at other universities if they are not already offered at JKU (§ 63 Abs. 9 UG). The subject must therefore be different enough for co-enrollment, but similar enough for credit transfer - this topic must therefore always be discussed with your study coordinator. This limitation does not apply to a semester abroad.
+4.You wait for a change in the curriculum: Sometimes LVAs change (for example due to renaming) and are given a new course number. In this case, your attempts are often reset, so the course is treated as a new course. To be on the safe side, ask the Examination and Recognition Service whether such a change has been made.
 '''
 
 [[sections.subsections.questions]]
@@ -579,9 +732,13 @@ Wenn du eine positiv bewertete LVA wiederholst, wird der ursprüngliche Antritt 
 Es empfiehlt sich, vorab Kontakt zu deinen Profs aufzunehmen und ihnen deine Situation zu schildern, manchmal finden sich alternative Lösungen.
 '''
 
-en.q = ""
+en.q = "Can I retake a course I passed?"
 en.a = '''
+Positively graded courses of all course types can be repeated once, and the retake has to happen within one year. In other words, the grade of the retake has to be submitted with a date within 12 months of the original.
 
+Retaking a positively graded course will automatically void the previous attempt, meaning that it is completely removed from the records: If you fail the retake, you will have to redo it until you pass. The voided positive attempt does not count towards your number of taken attempts. See _§ 77 Abs. 1 UG_.
+
+It is recommended to get in touch with your Prof beforehand and discuss your situation, sometimes alternative solutions can be found.
 '''
 
 [[sections.subsections.questions]]
@@ -591,9 +748,11 @@ de.a = '''
 Lehrende sind verpflichtet, dir spätestens vier Wochen nach der letzten erbrachten Leistung in einer LVA eine Note auszustellen - bei Vorlesungen ist das die Klausur, bei Übungen meist die letzte Einheit (_§ 34 Abs. 2 Satzung_). Falls das nicht der Fall ist, frag bitte freundlich bei der LVA-Leitung nach, oder wende dich an uns.
 '''
 
-en.q = ""
+en.q = "How long may it take until I receive my grades?"
 en.a = '''
+Course instructors must grade your LVA within four weeks of your last gradable work (_§ 34 Abs. 2 Satzung_) - this is usually the exam for a lecture and the last exercise date for exercises.
 
+If this is not the case, please kindly ask the person in charge of the course or contact us.
 '''
 
 [[sections.subsections.questions]]
@@ -607,9 +766,13 @@ Für offene Fragen ist auch eine “elektronische Einsichtnahme” online mögli
 Vgl. _§ 79 Abs. 5 UG_.
 '''
 
-en.q = ""
+en.q = "May I see the reason for my grade / my graded exam?"
 en.a = '''
+Within 6 months after receiving a grade, you can request to see the assessment documents with your course instructor - in the case of a lecture exam, this is the graded written exam or, in the case of an oral exam, a record of the questions you were asked.
 
+You are always allowed to make a "memory record" of the lecture exam and share it with others, open questions (i.e. not multiple choice) and your answers may also be photographed or otherwise copied.
+
+For open questions, "electronic inspection" online is also possible (_§ 79 Abs. 5 UG_).
 '''
 
 [[sections.subsections.questions]]
@@ -623,9 +786,13 @@ Wenn du das Gefühl hast, ungerecht behandelt zu werden, kannst du für weitere 
 Du kannst außerdem beantragen, dass du beim nächsten Mal von einer anderen dafür fachlich geeigneten Person deiner Wahl geprüft wirst (_§ 59 Abs. 13 UG_).
 '''
 
-en.q = ""
+en.q = "Can I appeal my grade?"
 en.a = '''
+No, there is no right of appeal against assessments. Only negative grades can be overturned in case of "serious deficiencies" (e.g. if the exam time is significantly shorter than announced), in which case your negative entry becomes null and void. Please contact us immediately if you believe that such a deficiency exists: An appeal must happen within four weeks after the grade has been announced (_§ 79 Abs. 1 UG_).
 
+If you feel that you have been treated unfairly, you can request an examination by committee for future attempts.
+
+You can also request that you be examined by another person of your choice who is qualified to do so (_§ 59 Abs. 13 UG_).
 '''
 
 [[sections.subsections.questions]]
@@ -641,9 +808,16 @@ Ab der dritten Wiederholung einer Vorlesungsklausur ist diese verpflichtend komm
 Melde dich in jedem Fall vorab bei deiner LVA-Leitung, um Details zu klären!
 '''
 
-en.q = ""
+en.q = "What is an examination by committee (“Kommissionelle Prüfung”)?"
 en.a = '''
+In an examination by committee, the grade is no longer decided by a single person. This method should ensure that you are not treated unfairly.
 
+In the case of lecture exams, your exam is checked by several people; in the case of exercises and the like, an attempt is made to concentrate your continuous performance on one moment and to check that in a committee.
+
+From the third repetition of a lecture exam onwards, it is obligatory to have it graded by a committee, but you can also request the procedure earlier (_§ 77 Abs. 3 UG_).
+Regardless of the course type, at least the last repetition must be held as an examination by committee (_§ 35 Abs. 3 Satzung_).
+
+In any case, contact the course instructor in advance to clarify the details!
 '''
 
 [[sections.subsections.questions]]
@@ -655,9 +829,11 @@ Wichtige Dokumente zum Download findest du im KUSSS links unter “Meine Daten�
 Ein Zeugnis wie in der Schule gibt es nicht. Man kann sich jedoch jederzeit seine Noten als PDF ausdrucken, das heißt auf der Universität “Studienerfolg”.
 '''
 
-en.q = ""
+en.q = "Where can I find the confirmation of registration or my grades certificate?"
 en.a = '''
+You can find important documents to download in KUSSS on the left under "My settings" in the "Documents" tab. There you will find the confirmation of registration, study record sheet and transcript of records in the respective tab.
 
+There is no certificate like at school. However, you can print out your grades as a PDF at any time, which is called "Transcript of Records" at the university.
 '''
 
 [[sections.subsections.questions]]
@@ -673,15 +849,22 @@ Nicht alle Fachnoten werden für diese Berechnung verwendet, so sind zum Beispie
 Wenn du Informatik oder Computer Science studierst, kannst du auch unseren [automatischen Rechner](https://oeh.jku.at/cs/resources) nutzen, um deine Fachnoten zu ermitteln.
 '''
 
-en.q = ""
+en.q = "How do I calculate my grade average? How can I pass “with distinction”?"
 en.a = '''
+Your curriculum consists of different subjects which in turn contain multiple courses (LVAs) each. Your grade for each subject is the average grade of all of its courses, weighted for ECTS (_§ 34 Abs. 4 Satzung_).
 
+Your diploma will list these grades for all of your subjects.
+You finish your degree with distinction if no subject grade is worse than a 2 and at least half of all subjects grade are 1s (§ 34 Abs. 5a Satzung).
+
+Not all subject grades are used for this calculation, your “Free Electives” are e.g. irrelevant for your distinction, as are your “Master’s Thesis” grade and your grades for the “Master’s Thesis Seminars”. Refer to your curriculum for more.
+
+Students of BSc Informatik and MSc Computer Science can also use our [automatic calculator](https://oeh.jku.at/cs/resources) to help with determining their grades.
 '''
 
 [[sections.subsections]]
 
 de.title = "Studienvertretung (ÖH)"
-en.title = ""
+en.title = "Student Union"
 
 [[sections.subsections.questions]]
 
@@ -708,9 +891,27 @@ Die BV koordiniert die verschiedenen Universitäten und kommentiert Gesetzesentw
 
 '''
 
-en.q = ""
+en.q = "How is the Student Union (ÖH) structured?"
 en.a = '''
+The Austrian Student Union (ÖH) is divided into different levels:
 
+##### Study Representation (ÖH StV AI + StV Informatik)
+
+Your study representatives are your direct contact points for issues concerning your study - in your case, your representatives are StV AI and StV Informatik respectively.
+For more on our work, see What are StV Informatik and StV AI about?
+
+##### Faculty Representation (ÖH TNF)
+
+ÖH TNF is the faculty representation of all students in engineering and natural sciences. All Study Representations from the faculty (including StV AI and StV CS) send members to ÖH TNF. There, we coordinate the work of the individual StVs: Many of our biggest events (e.g. the [JKU Games](https://games.oeh.jku.at)) are co-organised that way, and we also work together on many other projects (our study guides for example). You can find out more about ÖH TNF on its [website](https://oeh.jku.at/tnf).
+
+##### University Representation (ÖH JKU / UV)
+
+ÖH JKU coordinates the different faculties and takes care of university-wide matters, it might for example comment on building plans and broader policies. ÖH JKU also has sub-departments (“Referate”) for some topics, such as a department for social services (financial aid, grants, ...), a department for migration (visas, supplementary exams, …) and a department for legal questions.
+An overview of the departments of ÖH JKU can be found [here](https://oeh.jku.at/en/oeh-jku/departments).
+
+##### Federal Representation (ÖH BV)
+
+ÖH BV coordinates the different universities and comments on laws and governmental decisions on a national level. An explanation of how the Austrian National Union of Students works in general can be found [here](https://www.oeh.ac.at/en/about-us).
 '''
 
 [[sections.subsections.questions]]
@@ -725,9 +926,14 @@ Auf unseren Websites findest du weitere Infos zu unserer Arbeit: Siehe [Informat
 Infos zu unseren aktuellen Projekten findest du auch auf unserem [Dashboard](https://docs.google.com/spreadsheets/d/1zDA9RtYCeS_W9kqg-fvT_ZM88MHDR_vEhD6qcAP12aM/edit#gid=1576615211).
 '''
 
-en.q = ""
+en.q = "What are StV AI and StV Informatik about?"
 en.a = '''
+The study representatives are your first point of contact if you have problems with courses or course instructors, or if you have questions about your studies. We are students just like you and do this job voluntarily.
 
+We have three core tasks: representing, networking, and advising. We represent you when there are problems or concerns with institute staff, and sit in committees that organise your study. We host events so you can get to know your colleagues. And we advise you on all university-specific topics, e.g. in the form of this FAQ.
+
+You can also find more information about our work on our website respectively: [CS](https://oeh.jku.at/cs), [AI](https://oeh.jku.at/ai).
+To always know exactly what your StV is doing, you can also check our [project dashboard](https://docs.google.com/spreadsheets/d/1zDA9RtYCeS_W9kqg-fvT_ZM88MHDR_vEhD6qcAP12aM/edit#gid=1576615211).
 '''
 
 [[sections.subsections.questions]]
@@ -743,9 +949,16 @@ Die Mitarbeiter:innen der Studienvertretungen in der Technisch-Naturwissenschaft
 Natürlich arbeiten wir aber mit der Universitätsvertretung zusammen und kooperieren dafür auch manchmal mit einzelnen Fraktionen, wenn sie unsere Bemühungen unterstützen.
 '''
 
-en.q = ""
+en.q = "Do the StVs AI or Informatik belong to a university party?"
 en.a = '''
+Every two years, all levels of the Student Union run for election - usually around May in odd years.
+In the election of the university and federal representation, political parties (“Fraktionen”) are elected, whereas the study representation is an election of individual candidates.
 
+All members of the Student Unions in the Faculty of Engineering & Natural Sciences (TNF) are independent: To become active in the Student Union for CS or AI, you may not be a member of a university party.
+
+We believe that this rule helps us work a lot more efficiently since we don’t need to constantly fight for your vote in pointless PR stunts.
+
+Naturally, some projects require that we work with the university-wide representation, and we sometimes also cooperate with individual parties if they support our efforts.
 '''
 
 [[sections.subsections.questions]]
@@ -755,9 +968,9 @@ de.a = '''
 Die ÖH arbeitet in vielen verschiedenen Bereichen und freut sich immer über ambitionierte Unterstützung. Wenn du deiner Studienvertretung beitreten möchtest, wendest du dich am besten an ihren Vorsitz oder schreib eine E-Mail an [ai@oeh.jku.at](mailto:ai@oeh.jku.at) bzw. [informatik@oeh.jku.at](mailto:informatik@oeh.jku.at). Die StV Informatik hat außerdem ihre [Onboarding-Prozedur](https://oeh.jku.at/cs/join) veröffentlicht, damit du weißt, wie du dir den Beitritt vorstellen kannst.
 '''
 
-en.q = ""
+en.q = "How can I join the ÖH?"
 en.a = '''
-
+ÖH has many different departments and is always happy for your support. If you want to join your Student Union, get in touch with its head or contact us via email at [ai@oeh.jku.at](mailto:ai@oeh.jku.at) or [informatik@oeh.jku.at](mailto:informatik@oeh.jku.at). StV Informatik has also published its [Onboarding Procedure](https://oeh.jku.at/cs/join) to give you an idea of how joining will work.
 '''
 
 [[sections.subsections.questions]]
@@ -767,9 +980,9 @@ de.a = '''
 Am Ende jedes Semesters finden LVA-Evaluierungen statt. Diese findest du im KUSSS bei “Meine LVAs”. Bei einer Evaluierung kannst du anonym dein Feedback abgeben und so mithelfen, die Lehre stetig zu verbessern. Als Studienvertretung können auch wir diese Information nutzen, um mit konkreten Zahlen für Änderungen einzutreten, wir sind also auf deine Mithilfe angewiesen. Um dir das Evaluieren etwas schmackhafter zu machen, veranstalten wir deswegen auch jedes Semester einen “Eval-Day”, wo du in entspannter Atmosphäre bei Drinks und Snacks mit deinen Kolleg:innen gemeinsam deine LVAs evaluieren kannst.
 '''
 
-en.q = ""
+en.q = "What is a course evaluation?"
 en.a = '''
-
+Course evaluations take place at the end of each semester. You can find them in KUSSS at "My courses". During the evaluation period, you can anonymously give your feedback, thus helping to continuously improve courses. As Student Unions we can then use this concrete data to more strongly fight for changes. We would like to motivate you to take advantage of this opportunity, which is why we organise an "Eval Day" every semester. There you can evaluate your courses together with your colleagues in a relaxed atmosphere with drinks and snacks.
 '''
 
 [[sections.subsections.questions]]
@@ -781,9 +994,11 @@ Wir veranstalten laufend Events, bei denen man sich vernetzen kann. Beschreibung
 Am [Discord-Server](https://discord.gg/wAek576) und über den [Instagram-Account](https://www.instagram.com/oehtnf/) der ÖH TNF informieren wir auch über unsere aktuellen Events.
 '''
 
-en.q = ""
+en.q = "How do I get to know my fellow students?"
 en.a = '''
+The Student Unions for Computer Science and AI regularly organise events to help you get to know your fellow students. Descriptions to all of our bigger events can be found on our websites for [CS](https://oeh.jku.at/cs/events) and [AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence/events). There, you’ll also find live calendars to always stay up to date.
 
+You will also always be reminded about events on the [Discord-Server](https://discord.gg/wAek576), as well as on the [ÖH TNF Instagram account](https://www.instagram.com/oehtnf/).
 '''
 
 [[sections.subsections.questions]]
@@ -795,9 +1010,11 @@ Durch deinen ÖH-Beitrag sind alle Studierenden automatisch unfall- und haftpfli
 Für mehr Infos und die vertraglichen Details, besuch [diese Hilfeseite](https://www.oeh.ac.at/service/oeh-versicherung/).
 '''
 
-en.q = ""
+en.q = "How does the ÖH Insurance work?"
 en.a = '''
+Using parts of your ÖH fee, all students are automatically insured for accidents and damages: If you get hurt at uni or destroy something, you are taken care of and will not have to pay any deductibles. This insurance is very broad and also covers your student dorms, uni excursions, ÖH events or your trip to the next supermarket. Note that ÖH insurance is not health insurance however.
 
+For more information and all contract details, please refer to [this help page](https://www.oeh.ac.at/en/service/oeh-insurance/).
 '''
 
 [[sections.subsections.questions]]
@@ -807,20 +1024,20 @@ de.a = '''
 Alle StVs an der JKU haben eine Subpage auf der [ÖH JKU Website](https://oeh.jku.at/studium) und sind für die Inhalte darauf selbst verantwortlich. Viele der technisch-naturwissenschaftlichen StVs haben auch eigene Discord-Server: Du findest alle Kontaktdaten [hier](https://oeh.jku.at/tnf/contacts).
 '''
 
-en.q = ""
+en.q = "Where can I find information on other studies? Do other StVs also have a Discord server?"
 en.a = '''
-
+All StVs at JKU have a subpage on the [ÖH JKU website](https://oeh.jku.at/studium) and are responsible for their content. Many of the StVs for [technical subjects](https://oeh.jku.at/tnf) also use Discord: You can find contact details for all of them [here](https://oeh.jku.at/tnf/contacts).
 '''
 
 [[sections]]
 
 de.title = "Bacholor"
-en.title = ""
+en.title = "Bachelor"
 
 [[sections.subsections]]
 
 de.title = "Bachelor AI & INF"
-en.title = ""
+en.title = "Bachelor AI & CS"
 
 [[sections.subsections.questions]]
 
@@ -840,9 +1057,19 @@ Manchmal kann es passieren, dass noch nicht alle deine Noten des letzten Semeste
 Weitere Infos findest du im JKU FAQ zum Thema [hier](https://www.jku.at/studium/studierende/studieneingangs-und-orientierungsphase/).
 '''
 
-en.q = ""
+en.q = "What is the StEOP & how does it work?"
 en.a = '''
+The StEOP (Studies Introduction and Orientation Phase) comprises compulsory courses that you have to complete at the beginning of your Bachelor studies before you can complete other courses. As long as you have not completed the StEOP, you can only receive a grade for selected courses from the first few semesters (referred to as “Additional courses/exams that could be completed before having passed the StEOP” in KUSSS).
 
+To complete the StEOP, you need to receive passing grades on at least 9 ECTS worth of courses from several options. The pool of eligible courses and more detailed information can be found in the [curriculum](https://studienhandbuch.jku.at), [KUSSS](https://kusss.jku.at/kusss/steopinfo.action) also shows you the current status of your StEOP (if you are signed in).
+
+For an in-depth explanation of the system and our recommendations, check out the “[Studienleitfaden for Computer Science](https://oeh.jku.at/cs/resources)” and the “[Study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)”!
+
+It is sometimes possible to do courses that are not included in the pool before you have completed the StEOP - if you are planning to sign up for such courses, please get in touch with your teachers beforehand and ask them to postpone grading you until you have formally finished the StEOP. KUSSS will also warn you about this on sign-up.
+
+Sometimes, not all of your grades from the last semester are finalised yet when sign-up for the next semester starts. In this case, KUSSS might also warn you that StEOP has not been completed yet - you can safely ignore this warning if you know that you have already passed the courses necessary to complete StEOP.
+
+For further information see JKU’s FAQs on the topic [here](https://www.jku.at/en/degree-programs/students/studies-introduction-and-orientation-phase-steop/).
 '''
 
 [[sections.subsections.questions]]
@@ -854,9 +1081,11 @@ Es gibt kein Zeitlimit für den Abschluss der StEOP. Es gibt allerdings zu Begin
 Wir empfehlen dir, die StEOP so schnell wie möglich abzuschließen, um von den zusätzlichen Klausur-Antritten und dem flexibleren Kursplan zu profitieren.
 '''
 
-en.q = ""
+en.q = "How long may I take to finish the StEOP?"
 en.a = '''
+There is no time limit to finish the StEOP. At the beginning of your studies, there is however a minimum amount of credits (“Mindeststudienleistung”) you have to do. Since your choice of courses is very restricted during StEOP, you will most likely finish your StEOP courses when attempting to reach Mindeststudienleistung.
 
+Generally, we advise you to complete StEOP as quickly as possible to benefit from additional exam attempts and a more flexible study plan.
 '''
 
 [[sections.subsections.questions]]
@@ -870,9 +1099,13 @@ Die ECTS für das Erreichen der Mindeststudienleistung nach vier Semestern könn
 Mehr Infos zu Ausnahmen, Konsequenzen bei Nichterfüllung, etc. findest du [hier](https://www.jku.at/studium/studierende/mindeststudienleistung/).
 '''
 
-en.q = ""
+en.q = "What is the minimum number of credits (“Mindeststudienleistung)?"
 en.a = '''
+In Bachelor's and diploma degree programmes you are required to complete a total of at least 16 ECTS in the first four semesters in each degree programme to which admission is granted.
 
+The ECTS for achieving the minimum study performance after four semesters have to be completed by October 31st in the winter term and by March 31st in the summer term (_§ 59a UG_).
+
+More information on exceptions, consequences of non-compliance, etc. can be found here.
 '''
 
 [[sections.subsections.questions]]
@@ -882,9 +1115,9 @@ de.a = '''
 Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar. Für genauere Infos für jeweils Informatik und AI, sieh bitte im entsprechenden FAQ-Kapitel für [Informatik](#wie-und-was-kann-ich-mir-im-informatik-bachelor-von-der-schule-anrechnen-lassen) und [AI](#wie-und-was-kann-ich-mir-im-ai-bachelor-von-der-schule-anrechnen-lassen) an. Wir haben dort Links mit Anrechnungstabellen bereitgestellt.
 '''
 
-en.q = ""
+en.q = "How can I get credit for something I did in school?"
 en.a = '''
-
+For recognition, you will need to submit a recognition request via the [AUWEA](https://anerkennung.jku.at/anerkennung/student/) tool which includes your school report (see more [here](https://www.jku.at/en/degree-programs/students/credit-transfer-and-examination-recognition/)). The recognition can only be applied for after the start of the degree programme. For more detailed information, see the corresponding FAQ chapters for Computer Science and AI. We have provided links with credit tables there.
 '''
 
 [[sections.subsections.questions]]
@@ -900,9 +1133,15 @@ Wenn du bereits Vorkenntnisse im Programmieren hast, ist der Einstieg bei z.B. S
 In unserem “[Studienleitfaden für Informatik](https://oeh.jku.at/cs/resources)” und dem “[Study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)” findest du eine Liste von Kursen, die wir beim Sommerstart basierend auf deinen Vorkenntnissen empfehlen. Manchmal kann es aber sein, dass auch Kurse aus dem Wintersemester (z.B. Softwareentwicklung 1) zusätzlich im Sommer angeboten werden, um dir den Einstieg zu erleichtern.
 '''
 
-en.q = ""
+en.q = "I would like to start in the summer semester, how do I go about it?"
 en.a = '''
+In general, we do not recommend starting your studies in the summer semester. (Special case for Computer Science HTLs for Computer Science studies. See the FAQ question “I attended a Computer Science school and would like to study Computer Science. How can I start with credits in the summer semester?”).
 
+However, if you are only able to start your studies in the summer semester, this is, of course, possible. We suggest that you complete the recommended subjects from the scheduled 2nd semester and follow our advice for an individual study plan.
+
+If you already have previous knowledge of programming, it is no problem to start with e.g. Softwareentwicklung 2 (CS) or Programming in Python II (AI). However, if you have never programmed before, you should first take Softwareentwicklung 1 (CS) or Programming in Python I (AI) and postpone its successor for later. In principle, it is up to you to arrange your timetable and which courses you take and when. However, it is advisable not to completely disregard the recommended semester plan.
+
+Our “[Studienleitfaden for Computer Science](https://oeh.jku.at/cs/resources)” and the “[Study guide for AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)” contain a list of courses that should be taken when starting in summer. Note that some courses of the winter semester (e.g. Softwareentwicklung 1) might occasionally be offered during summer as well to help with your plans.
 '''
 
 [[sections.subsections.questions]]
@@ -915,9 +1154,12 @@ Anders formuliert: Du sparst dir ca. ein Drittel der Zeit für ein Studium.
 Gleichzeitig führt ein duales Studium aber zu einer sehr [großen Workload](#kann-ich-mehr-als-30-ects-pro-semester-machen) mit vielen potenziell überlappenden Kursen, oder zu einem [individuellen Studienplan](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere) mit längerer Studiendauer für beide Studiengänge.
 '''
 
-en.q = ""
+en.q = "Can I do a dual study of BSc AI and CS?"
 en.a = '''
+While it is of course possible to study both degrees at the same time, they have a lot less overlap than you might think. Courses that occur in both degrees can be used in both degrees without accreditation (ca. 40 ECTS), and there are some courses that are similar enough for automatic accreditation (published [here](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf), ca. 16 ECTS). Additionally, “Free Electives” (9 ECTS) can also be accredited automatically.
+In other words, you “save” about a third of the time of one study.
 
+On the other hand, doing both studies simultaneously will either result in a hefty workload with many potential course overlaps or an individual study plan for a prolonged study for each degree.
 '''
 
 [[sections.subsections.questions]]
@@ -929,9 +1171,11 @@ Es ist nicht möglich, Kurse sowohl für den Bachelor- als auch für den Master-
 Falls du einen Pflichtkurs aus dem Master im Bachelor eingereicht hast (etwa als Teil deiner Freien Studienleistung), musst du im Master einen alternativen Kurs absolvieren. Bitte sprich dafür mit deinem Studienpräses oder frag uns um Hilfe.
 '''
 
-en.q = ""
+en.q = "Can I use courses from my Bachelor’s degree in my Master’s?"
 en.a = '''
+Courses may not count towards both your Bachelor’s and Master’s. In other words, while you may already take some Master’s courses during your Bachelor’s degree, you should not submit them for your Bachelor’s diploma if you plan on using them in the Master’s. Courses you have not submitted for your BSc can then simply be used towards your MSc.
 
+If you submitted a compulsory course from the MSc in your BSc (e.g. as part of your Free Electives), an alternative course must be taken in the MSc instead. Please talk to your study Präses for potential options or ask us for help.
 '''
 
 [[sections.subsections.questions]]
@@ -947,9 +1191,15 @@ Um eine Bachelorarbeit zu finden, gibt es prinzipiell drei verschiedene Wege:
 Die ÖH hilft dir dabei, eine Betreuungsperson und ein Thema zu finden: Wir veranstalten jedes Jahr einen Bachelor-Info-Abend. Mehr dazu hier: [AI](#was-ist-der-ai-bachelorinfoabend), [Informatik](#was-ist-der-informatik-bachelorinfoabend).
 '''
 
-en.q = ""
+en.q = "How do I find a bachelor's thesis?"
 en.a = '''
+There are three different ways to find a Bachelor's thesis:
 
+* You approach a suitable institute/professor with your own topic or
+* you ask an institute/supervisor what topics are offered. Most institutes have some work advertised on their website. You can get an idea there. Or
+* you can write a thesis at a company. However, you always need a supervisor at JKU. This means that you apply for a job at a company and look for a suitable supervisor at JKU. Some institutes will demand payment from the company for supervising a thesis, your supervisor will tell you the rest of the procedure.
+
+The ÖH helps you to connect to potential supervisors and find your topic by organising Bachelor Info Events. See more here: AI, CS.
 '''
 
 [[sections.subsections.questions]]
@@ -961,9 +1211,11 @@ Alle detaillierten Infos dazu findet man auf der [JKU-Website](https://www.jku.a
 Um das Bachelorstudium abzuschließen, musst du zuerst alle vorgegebenen Fächer positiv abschließen, genug ECTS für Vertiefung und freie Studienleistungen gesammelt haben. Hast du das alles erfüllt, musst du den Prüfungsraster (welchen man auch auf der Website findet) ausgefüllt und unterschrieben an [pruefung-tn@jku.at](mailto:pruefung-tn@jku.at) senden.
 '''
 
-en.q = ""
+en.q = "How do I complete my Bachelor's degree?"
 en.a = '''
+All detailed information can be found on the [JKU website](https://www.jku.at/en/degree-programs/students/degree-completion/).
 
+To complete the Bachelor's programme, you first have to pass all mandatory subjects and you must have collected enough ECTS for specialization and free study credits. Once you have fulfilled all these requirements, you have to fill in and sign the examination roster (which can also be found on the website) and send it to [pruefung-tn@jku.at](mailto:pruefung-tn@jku.at).
 '''
 
 [[sections.subsections.questions]]
@@ -976,15 +1228,18 @@ Wenn der automatische Weg nicht klappt, lade dir den [Prüfungsraster](https://w
 Wenn du im KUSSS eingeloggt bist klicke links auf den Reiter "Ausfüllhilfe Prüfungsraster", dort kann man sich ein PDF herunterladen, welches ein wenig hilft den Prüfungsraster auszufüllen. ACHTUNG: Diese Ausfüllhilfe hat doppelte Zuweisungen und es kann auch sein, dass manche Kurse falsch zugeordnet sind oder gar nicht vorhanden sind. Falls so etwas der Fall ist, richte dich nach der Notenauskunft im KUSSS. Auch kannst du im Kurskatalog (Reiter “LVA-Suche” - ganz oben “Meine Studienpläne” oder “Alle Studienpläne”) nachsehen, in welcher Kategorie welche LVAs sind.
 '''
 
-en.q = ""
+en.q = "How do I fill in the examination roster?"
 en.a = '''
+If no changes to the curriculum occurred during your study, you might be able to fill in your exam roaster automatically using [examroster.jku.at](https://examroster.jku.at/). The service is in a beta phase though, so please double-check its work and expect it to break.
 
+If the automatic way does not work, download the [examination roster](https://www.jku.at/en/degree-programs/students/degree-completion/) from the JKU website and follow the instructions there.
+If you are logged in to KUSSS click on the tab "Help Examination Rosters". On the left, you can download a PDF which helps you to fill in the examination roster. ATTENTION: This filling-in aid has duplicate assignments and it is also possible that some courses are assigned incorrectly or do not exist at all. If this is the case, please refer to the grade information in the KUSSS. You can also look in the course catalogue (tab "Course-Search" - at the top "My curricula" or "All curricula") to see which courses are in which category.
 '''
 
 [[sections.subsections]]
 
 de.title = "Bachelor AI spezifisch"
-en.title = ""
+en.title = "Bachelor AI specifics"
 
 [[sections.subsections.questions]]
 
@@ -995,9 +1250,11 @@ Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fäc
 Zur Anerkennung schreib eine Mail an den [Prüfungs- und Anerkennungsservice](https://www.jku.at/lehr-und-studienorganisation/pruefungs-und-anerkennungsservice/) der JKU mit deinem Zeugnis. (Erst nach dem Start des Studiums möglich.)
 '''
 
-en.q = ""
+en.q = "How and what can I get credit for from school?"
 en.a = '''
+If you have attended a technical school (HTL in Austria), you can have subjects credited to you, depending on the HTL branch. [Here](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) you can find a table with the credit possibilities for AI.
 
+For recognition, write an email to the [Examination and Recognition Services](https://www.jku.at/en/teaching-and-studies-organization/examinations-and-recognition-services/) of JKU with your transcript. This is only possible after starting the degree programme.
 '''
 
 [[sections.subsections.questions]]
@@ -1007,9 +1264,9 @@ de.a = '''
 [Hier](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Informatik_and_Artificial_Intelligence_at_JKU.pdf) findest du eine Tabelle, was du dir vom Informatik-Bachelor auf AI anrechnen lassen kannst.
 '''
 
-en.q = ""
+en.q = "Which courses do I get credit for from Computer Science?"
 en.a = '''
-
+[Here](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Informatik_and_Artificial_Intelligence_at_JKU.pdf) you can find a table detailing what courses from BSc Informatik can be used in the AI bachelor's degree.
 '''
 
 [[sections.subsections.questions]]
@@ -1019,9 +1276,9 @@ de.a = '''
 [Hier](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Bioinformatics_and_Artificial_Intelligence_at_JKU.pdf) findest du eine Tabelle, was du dir von Bioinformatik auf AI anrechnen lassen kannst.
 '''
 
-en.q = ""
+en.q = "Which courses do I get credit for from Bioinformatics?"
 en.a = '''
-
+[Here](https://www.jku.at/fileadmin/gruppen/219/LIT_AI_Lehre/Credit_Transfer_between_the_Programs_Bioinformatics_and_Artificial_Intelligence_at_JKU.pdf) you can find a table explaining which Bioinformatics courses can be used in BSc AI.
 '''
 
 [[sections.subsections.questions]]
@@ -1035,9 +1292,14 @@ Alle Kurse finden in Linz statt, werden aber in Wien und Bregenz live gestreamt 
 Weitere Infos findest du [hier](https://www.jku.at/zentrum-fuer-fernstudien/fernstudium-jku/artificial-intelligence/).
 '''
 
-en.q = ""
+en.q = "I am not from Linz, how often do I have to be on-site?"
 en.a = '''
+You have to be in Linz once, namely when you officially enrol in the degree program.
 
+Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
+
+All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
 
 [[sections.subsections.questions]]
@@ -1047,21 +1309,21 @@ de.a = '''
 Nein, das Studium ist in Englisch. Wenn du in Linz wohnst, ist es natürlich hilfreich, ein wenig Deutsch zu können. Die jüngeren Leute können sehr wahrscheinlich Englisch, jedoch kann es bei älteren Generationen in Österreich sein, dass ihre Englischkenntnisse nicht sehr gut bis gar nicht vorhanden sind. Siehe das [International-FAQ](../../internationals/en/) für mehr.
 '''
 
-en.q = ""
+en.q = "Do I have to know German?"
 en.a = '''
-
+No, the programme is in English. If you live in Linz (or Bregenz), it is of course helpful to know a little German. The younger people probably know English, but older generations in Austria may not know English very well or may not be able to understand you at all. See the [International FAQ](../../internationals/en/) for more.
 '''
 
 [[sections.subsections.questions]]
 
-de.q = "Was sind “Seminars” und “Practical Work”"
+de.q = "Was sind “Seminars” und “Practical Work”?"
 de.a = '''
 Die LVA “Seminar in AI” (3 ECTS, 4. Semester - Sommersemester) und “Practical Work in AI” (7,5 ECTS, 5. Semester, Wintersemester) sind dazu da, um dich auf die Bachelorarbeit am Ende vom Studium vorzubereiten. Es gibt mehrere Gruppen mit verschiedenen Lehrenden, die diese LVA anbieten. Also kannst du dir das Fachgebiet (wie bei der Bachelorarbeit) aussuchen. Melde dich dazu einfach bei der passenden Lehrperson im KUSSS an.
 '''
 
-en.q = ""
+en.q = "What is “Seminars” and “Practical Work”?"
 en.a = '''
-
+The “Seminar in AI” (3 ECTS, 4th semester, Summer Semester) and the “Practical Work in AI” (7.5 ECTS, 5th semester, Winter Semester) have been designed to help students prepare to write the required Bachelor’s thesis (6th semester, Summer Semester); students can, however, switch their subject area again, if they wish to. Different institutes will offer the courses which students will see as different “group options” in KUSSS. The Bachelor's thesis itself will be formally supervised as part of the “Bachelor’s Thesis Seminar in AI” (9 ECTS credits, 6th semester, Summer Semester). This course is, however, offered during each semester, allowing students to complete their Bachelor’s degree during the Winter Semester as well.
 '''
 
 [[sections.subsections.questions]]
@@ -1073,9 +1335,11 @@ Du kannst dein Wissen in verschiedenen Bereichen vertiefen. Die Bereiche sind �
 Zusätzlich solltest du bei den Specialization-Kursen beachten, dass du keinen Kurs doppelt für ein Bachelorstudium und ein darauf aufbauendes Masterstudium nutzen kannst. Wenn du vorhast, an der JKU den AI-Master zu belegen, solltest du darauf achten keine Pflichtkurse oder Track-Kurse aus dem Master für die Area of Specialization zu verwenden.
 '''
 
-en.q = ""
+en.q = "What is an “Area of Specialization”?"
 en.a = '''
+You can freely choose Area of Specialization courses from the list that is available in the course catalogue, which can be found [here](https://studienhandbuch.jku.at/uk033536?lang=en). The section headlines “Computer and Data Science”, “Mathematics”, “Mechatronics”, “Live Sciences”, “Special Topics”, and “Miscellaneous” as listed in the course catalogue are only for clarity and you do not need to decide on one.
 
+Furthermore, another thing you should consider when choosing your Area of Specialization courses is, that once you have used the ECTS points for getting your Bachelor’s Degree, you won’t be able to use this course for finishing another degree after. This basically means, that, should you want to do JKU’s AI Master’s Degree after your Bachelor’s, you should refrain from choosing core courses from the Master’s Curriculum as Area of Specialization courses in the Bachelor’s.
 '''
 
 [[sections.subsections.questions]]
@@ -1085,9 +1349,9 @@ de.a = '''
 Viele Kurse aus dem Specialization-Pool werden nur als Präsenzkurse in Linz angeboten. Wenn du Schwierigkeiten hast, Kurse zu finden die online angeboten werden kannst du für die Area of Specialization auch Kurse von der TU Wien anrechnen lassen (lass dir das für die geplanten Kurse vorher per E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) bestätigen).
 '''
 
-en.q = ""
+en.q = "I’m in Vienna/not in Linz and have trouble finding suitable “Area of Specialization” courses. What should I do?"
 en.a = '''
-
+Many courses out of the Area of Specialization pool are only offered in German or only on-site in Linz. This leads to complications for some students. TU Vienna offers courses that can be accredited on a per-case basis (write an email to [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) in advance to make sure the courses you selected work out) as part of the Area of Specialization.
 '''
 
 [[sections.subsections.questions]]
@@ -1099,9 +1363,11 @@ In _§ 7 Abs. 2_ des AI-Curriculum steht: “_The Bachelor’s program in Artifi
 Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
 '''
 
-en.q = ""
+en.q = "Is there a Bachelor's examination?"
 en.a = '''
+In § 7 Abs. 2 AI-Curriculum it says: “_The Bachelor’s program in Artificial Intelligence is concluded by a Bachelor’s Examination. The Bachelor’s Examination consists of the successful completion of mandatory subjects [...]. In order to graduate, students must also receive a passing grade for their Bachelor’s thesis as well as for the free electives examinations._”
 
+This means that there is no Bachelor's examination per se, but the completion of all the scheduled courses is the Bachelor's examination. Some institutes may require a presentation of the Bachelor's thesis internally at the institute to share the knowledge gained from the thesis with colleagues.
 '''
 
 [[sections.subsections.questions]]
@@ -1111,9 +1377,9 @@ de.a = '''
 Jedes Jahr wird von der Studienvertretung ein Bachelor-Infoabend veranstaltet. Wir erklären dir, wie man den Bachelor abschließt, wie man eine Bachelorarbeit findet und die Institute stellen sich mit ihren Bachelorarbeitsthemen vor. Die Videos des letzten Events findest du [hier](https://informatik.jku.at/students/aibachelorinfoabend2024/) (Stand 2024).
 '''
 
-en.q = ""
+en.q = "What is the AI Bachelor Info Evening?"
 en.a = '''
-
+Every year, the StV organises a Bachelor information evening. We explain how to complete the Bachelor's degree, how to find a Bachelor's thesis and the institutes introduce themselves and their Bachelor's thesis topics. The recordings of our last event can be found [here](https://informatik.jku.at/students/aibachelorinfoabend2024/) (Last updated: 2024).
 '''
 
 [[sections.subsections.questions]]
@@ -1123,15 +1389,16 @@ de.a = '''
 Wenn du allgemeine Fragen über das AI Studium und die Anmeldung hast, wende dich bitte an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) (Linz), [ai-wien@jku.at](mailto:ai-wien@jku.at) (Vienna) oder [bregenz@fernstudien.at](mailto:bregenz@fernstudien.at) (Bregenz). Auch wir stehen dir gerne für Fragen über das AI Studium zur Verfügung. Kontaktiere uns via Mail [ai@oeh.jku.at](mailto:ai@oeh.jku.at)  oder auf unserem [Discord-Server](https://discord.gg/wAek576).
 '''
 
-en.q = ""
+en.q = "I have further questions. Who can I contact?"
 en.a = '''
-
+General questions regarding the AI program and its administration should be addressed to [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) (Linz), [ai-wien@jku.at](mailto:ai-wien@jku.at) (Vienna), or [bregenz@fernstudien.at](mailto:bregenz@fernstudien.at) (Bregenz)
+We are also happy to answer any questions you may have about the AI programme. Contact us via email [ai@oeh.jku.at](mailto:ai@oeh.jku.at) or on our [Discord-Server](https://discord.gg/wAek576).
 '''
 
 [[sections.subsections]]
 
 de.title = "Bachelor INF spezifisch"
-en.title = ""
+en.title = "Bachelor CS specifics"
 
 [[sections.subsections.questions]]
 
@@ -1146,9 +1413,13 @@ Die Anerkennung kann erst nach Studienstart passieren, muss aber in den ersten b
 Mehr Infos zur Anrechnung findest du Informatik-spezifisch [hier](https://cs.jku.at/teaching/stuko/credittransfer/) und allgemein [hier](https://www.jku.at/studium/studierende/anerkennung-von-pruefungen/).
 '''
 
-en.q = ""
+en.q = "How and what can I get credit for from school?"
 en.a = '''
+For some schools, there are tables for subjects that can be credited: [Table for HAKs](https://informatik.jku.at/teaching/stuko/news/hak.html), [Table for HTLs](https://informatik.jku.at/teaching/stuko/news/htl.html). It is sometimes also possible to accredit courses that aren’t in these tables.
 
+Accreditation is only possible after the start of the degree programme, but it should be done as quickly as possible.
+
+You can find more information about CS [here](https://cs.jku.at/teaching/stuko/credittransfer/) and more generally [here](https://www.jku.at/en/degree-programs/students/credit-transfer-and-examination-recognition/).
 '''
 
 [[sections.subsections.questions]]
@@ -1158,9 +1429,9 @@ de.a = '''
 Wenn du eine Informatik-HTL besucht hast, kannst du dir genug LVAs anrechnen lassen, um die restlichen Fächer so zu legen, dass du dir ein ganzes Semester sparst. [Hier](https://informatik.jku.at/teaching/stuko/news/misc/Sonderstundenplan_HTLs.pdf) findest du mehr Informationen darüber.
 '''
 
-en.q = ""
+en.q = "I attended a Computer Science HTL and would like to study Computer Science. How can I start with credits in the summer semester?"
 en.a = '''
-
+If you have attended a Computer Science school (Informatik-HTL in Austria for example), you can get enough courses accredited that the remaining ones can be arranged in such a way that you can save a whole semester. You can find more information about this [here](https://informatik.jku.at/teaching/stuko/news/misc/Sonderstundenplan_HTLs.pdf) (only in German).
 '''
 
 [[sections.subsections.questions]]
@@ -1172,9 +1443,11 @@ Im 5. und 6. Semester im Bachelor Informatik sind Vertiefungen vorgesehen, hierb
 Achte aber darauf, dass du zumindest eine Vertiefung mit dem LVA-Typ SE (Seminar) abschließt ([Vertiefung](https://studienhandbuch.jku.at/169484) oder [Special Topic](https://studienhandbuch.jku.at/169499)) - das ist verpflichtend.
 '''
 
-en.q = ""
+en.q = "What do I have to bear in mind when taking specialization subjects in the Bachelor's degree?"
 en.a = '''
+Usually in the 5th and 6th semesters of the Bachelor of Computer Science, you take specialization courses (General Electives). These are mostly subjects from the Master of Computer Science, which has a Major Subject to choose (take a look at our FAQ question: Major Subject and Complementary Subject, what is that?). No compulsory course from a Major Subject is included in the specialization pool in the Bachelor's degree, meaning that (contrary to a common myth) you cannot block a desired major unless you really try.
 
+You have to do one course of the type SE (seminar) as part of your electives however (either pick one from the [General Electives](https://studienhandbuch.jku.at/169484), or a [Special Topics seminar](https://studienhandbuch.jku.at/169499)).
 '''
 
 [[sections.subsections.questions]]
@@ -1184,9 +1457,9 @@ de.a = '''
 Ja, man braucht mindestens eine LVA vom Typ SE (siehe [oben](#was-muss-ich-bei-vertiefungsfaechern-im-bachelor-beachten)) und ja, man kann ein Seminar mehrmals belegen und ECTS bekommen. Bei Seminaren handelt es sich um LVAs mit “wechselndem Inhalt” (im KUSSS als “NICHT INHALTSGLEICH” und “ANTRITTSZÄHLUNG AUS” markiert).
 '''
 
-en.q = ""
+en.q = "Can I take the same seminar more than once? Do I need one for my Bachelor's degree?"
 en.a = '''
-
+Yes, you need at least one course of the type SE (which is then counted in the pool "specializations") and yes, you can take a seminar several times and get ECTS because they are courses with changing content (marked in KUSSS as “NON CONTENT-IDENTICAL” and “REPETITIONS COUNT OFF”).
 '''
 
 [[sections.subsections.questions]]
@@ -1198,9 +1471,9 @@ In _§ 7 Abs. 2_ des Informatik-Curriculums steht: “_Das Bachelorstudium Infor
 Das bedeutet, es gibt keine Bachelorprüfung an sich, sondern die Absolvierung aller vorgesehenen LVAs ist die Bachelorprüfung. Manche Institute verlangen eine Präsentation der Bachelorarbeit intern im Institut, um die erlangten Erkenntnisse aus der Arbeit mit den Kolleginnen und Kollegen zu teilen.
 '''
 
-en.q = ""
+en.q = "Is there a Bachelor's examination?"
 en.a = '''
-
+According to _§ 7 Abs. 2 Informatik-Curriculum_, there is no Bachelor's examination per se, but the completion of all courses is the Bachelor's examination. Some institutes may require a presentation of the Bachelor's thesis internally at the institute to share the knowledge gained from the thesis with colleagues.
 '''
 
 [[sections.subsections.questions]]
@@ -1210,20 +1483,20 @@ de.a = '''
 Jedes Jahr wird von der Studienvertretung ein Bachelor-Infoabend veranstaltet. Wir erklären dir, wie man den Bachelor abschließt, wie man eine Bachelorarbeit findet und die Institute stellen sich mit ihren Bachelorarbeitsthemen vor. Die Videos des letzten Events findest du [hier](https://oeh.jku.at/cs/bsc).
 '''
 
-en.q = ""
+en.q = "What is the Informatik Bachelor Info Evening?"
 en.a = '''
-
+Every year, the StV organises a Bachelor information evening. We explain how to complete the Bachelor's degree, how to find a Bachelor's thesis and the institutes introduce themselves and their Bachelor's thesis topics. The recordings of our last event can be found [here](https://oeh.jku.at/cs/bsc).
 '''
 
 [[sections]]
 
 de.title = "Master"
-en.title = ""
+en.title = "Master"
 
 [[sections.subsections]]
 
 de.title = "Master AI & CS"
-en.title = ""
+en.title = "Master AI & CS"
 
 [[sections.subsections.questions]]
 
@@ -1236,9 +1509,13 @@ Es gibt drei verschieden Möglichkeiten eine Masterarbeit zu finden:
 3. Man kann bei einer Firma eine Abschlussarbeit schreiben. Man braucht dafür aber immer eine Betreuungsperson auf der JKU. Das heißt, du bewirbst dich für eine Arbeit bei einer Firma und suchst dir auf der JKU eine fachlich passende Betreuungsperson. Manche Institute verlangen eine Bezahlung durch die Firma für ihre Betreuung. Den weiteren Ablauf wird dir dann deine Betreuungsperson mitteilen.
 '''
 
-en.q = ""
+en.q = "How do I find a Master's thesis, can I also do it with a company?"
 en.a = '''
+There are three different ways to find a Master's thesis:
 
+1. You approach a suitable institute/professor with your own topic or
+2. you ask an institute/supervisor what topics are offered. Most institutes have some work advertised on their website. You can get an idea there, or
+3. you can write a thesis at a company. However, you always need a supervisor at JKU. This means that you apply for a thesis at a company and look for a suitable supervisor at JKU. Some institutes will demand payment from the company for supervising a thesis. Your supervisor will tell you the rest of the procedure.
 '''
 
 [[sections.subsections.questions]]
@@ -1250,9 +1527,11 @@ Nein, es ist nicht verpflichtend, die Masterarbeit in Latex zu verfassen, es mus
 Es wird regelmäßig ein Latex Kurs angeboten, der für freie Studienleistung verwendet werden kann. (“Wissenschaftliches Schreiben und Layouten anhand von LaTeX 1”)
 '''
 
-en.q = ""
+en.q = "Is it compulsory to write the Master's thesis in LaTeX?"
 en.a = '''
+No, it is not obligatory to write the Master's thesis in latex, only the cover sheet must comply with the JKU guidelines (see [here](https://www.jku.at/en/degree-programs/students/theses-and-dissertations/) for templates) and it must be saved in PDF/A (see [here](https://www.jku.at/en/degree-programs/students/theses-and-dissertations/) under submission). However, you should talk to your supervisor about whether there are already internal templates or additional requirements.
 
+Sometimes, a latex course is offered, which can be used as a free elective. (“Wissenschaftliches Schreiben und Layouten anhand von LaTeX 1”)
 '''
 
 [[sections.subsections.questions]]
@@ -1264,9 +1543,11 @@ Den Inhalt der Masterprüfung (also den Prüfungsteil von Major und Complementar
 Diese Prüfung kann man wie jede andere Prüfung mehrmals wiederholen.
 '''
 
-en.q = ""
+en.q = "What is the content of the Master's examination? Can you repeat the exam?"
 en.a = '''
+The content of the Master's examination (i.e. the examination part of the Major and Complementary Subject in CS; Machine Learning and Perception and Elective Track in AI) is formulated with the respective chosen examiner. This should be content from courses taken with the respective examiner.
 
+This exam can be repeated several times, just like any other exam.
 '''
 
 [[sections.subsections.questions]]
@@ -1278,9 +1559,11 @@ Die Masterarbeit kann das gesamte Jahr über abgegeben werden. Zwischen der Abga
 Eine genauere Übersicht findest du [hier](https://informatik.jku.at/teaching/master/process_thesis.pdf).
 '''
 
-en.q = ""
+en.q = "What are the deadlines and dates before the Master's examination?"
 en.a = '''
+The Master's thesis can be submitted throughout the year. There must be at least four weeks between the submission of the thesis and the final Master's examination.
 
+You can find a more detailed overview [here](https://informatik.jku.at/teaching/master/process_thesis.pdf).
 '''
 
 [[sections.subsections.questions]]
@@ -1294,15 +1577,19 @@ Wenn du dein Studium bis spätestens 31.10. bzw. 31.03. abschließt, musst du di
 Mehr Infos zum Abschluss findest du [hier](https://www.jku.at/studium/studierende/abschluesse/).
 '''
 
-en.q = ""
+en.q = "When do I officially finish the Master's?"
 en.a = '''
+Only when the grade of your commissional final examination has been finalised, your Master’s is formally completed. Until then you need to retain your status as a student and thus need to continue paying your tuition.
 
+If you complete your studies by 31.10 or 31.03, you do not need to pay tuition for the new semester. If you are unsure if you can finish in time, we recommend you pay tuition and then [reclaim](https://zulassung.jku.at/datenabfrage/studienbeitrag) it. For more on the process, see JKU’s help page [here](https://www.jku.at/en/degree-programs/students/start-your-studies/pay-austrian-student-union-fees-and-tuition/).
+
+More information about finishing your study can be found [here](https://www.jku.at/en/degree-programs/students/degree-completion/).
 '''
 
 [[sections.subsections]]
 
 de.title = "Master AI spezifisch"
-en.title = ""
+en.title = "Master AI specifics"
 
 [[sections.subsections.questions]]
 
@@ -1313,9 +1600,11 @@ Wenn du den Bachelor in Bioinformatics, Elektronik und Informationstechnik, Info
 Wenn du keinen Bachelor in den oben genannten Fächern hast, kann man trotzdem zum AI Master zugelassen werden. Du musst dafür je nach Background bis zu 40 ECTS nachholen. Für genauere Informationen wende dich bitte an den [Zulassungsservice](https://www.jku.at/lehr-und-studienorganisation/zulassungsservice/).
 '''
 
-en.q = ""
+en.q = "I did not do my Bachelor's degree in AI. Can I still enrol in the AI Master's and do I have to catch up on something?"
 en.a = '''
+If you have completed a Bachelor's degree in Bioinformatics, Electronics and Information Technology, Computer Science, Mechatronics, NawiTec, Statistics and Data Science, Technical Mathematics, Technical Physics or Business Informatics (at JKU, or a comparable degree at another university), you can do the AI Master's degree, but you must complete the lectures "Machine Learning: Supervised Techniques" (536MLPEMSTV19, VL, 3 ECTS) and "Machine Learning: Unsupervised Techniques" (536MLPEMUTV19, VL, 3 ECTS) until the end of the 2nd semester. You can take these in the Area of Specialization or the Free Electives.
 
+If you do not have a Bachelor's degree in the above-mentioned subjects, you can still be admitted to the AI Master's programme, but you have to catch up on up to 40 ECTS in the first two semesters. For more detailed information, please contact the [Admissions Office](https://www.jku.at/en/teaching-and-studies-organization/admissions-office/).
 '''
 
 [[sections.subsections.questions]]
@@ -1325,9 +1614,9 @@ de.a = '''
 Bitte schreibe eine E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) und teile ihnen dein Anliegen mit.
 '''
 
-en.q = ""
+en.q = "Who can I contact if I want to have courses from other studies available in the Area of Specialization?"
 en.a = '''
-
+Please write an e-mail to [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) and share your concerns with them.
 '''
 
 [[sections.subsections.questions]]
@@ -1337,15 +1626,33 @@ de.a = '''
 Im Rahmen der Masterprüfung musst du drei Mitglieder für die Kommission vorschlagen. (Bitte Frage deine gewünschten Mitglieder im Vorhinein.) Das erste Mitglied darf nicht deine Masterarbeit betreuen und übernimmt den Vorsitz. Die zweite Person wird dich über den Bereich “Machine Learning and Perception” prüfen und die dritte Person über deinen Elective Track.
 '''
 
-en.q = ""
+en.q = "How does it work with the examiners for the Master's examination?"
 en.a = '''
+As part of the oral examination, the student will be asked to create a 3-member examination committee consisting of a committee head (member 1) and two additional members (members 2 and 3). The first committee member may not be a thesis supervisor and will preside over the oral defence. The second committee member will examine the subject area of “Machine Learning and Perception”. The third committee member will examine the selected elective track. The thesis supervisor should also be a member of the committee. Whereas two committee members may be from the same institute, all of the committee members should not be from the same institute.
+'''
 
+[[sections.subsections.questions]]
+
+# TODO: translate to German or delete
+de.q = "Ich bin nicht aus Linz, wie oft muss ich vor Ort sein?"
+de.a = '''
+Diese Frage wurde noch nicht übersetzt.
+'''
+
+en.q = "I am not from Linz, how often do I have to be on-site?"
+en.a = '''
+You have to be in Linz once, namely when you officially enrol in the degree program.
+
+Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
+
+All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
 
 [[sections.subsections]]
 
 de.title = "Master CS Spezifisch"
-en.title = ""
+en.title = "Master CS specifics"
 
 [[sections.subsections.questions]]
 
@@ -1358,9 +1665,13 @@ Es gibt sechs verschiedene Majors (Computational Engineering, Data Science, Inte
 Für das Complementary Subject muss man insgesamt 27 ECTS aus beliebigen anderen Majors und dem General Electives Pool absolvieren. Diese 27 ECTS kann man sich “zusammenbauen”, wie man möchte. Eine Liste der Kurse findest du [hier](https://www.kusss.jku.at/kusss/coursecatalogue-get-currbranches-or-segments.action?set.listsubjects-overview.treeView.expandAll=true&curId=289) im KUSSS.
 '''
 
-en.q = ""
+en.q = "Major Subject and Complementary Subject, what is that?"
 en.a = '''
+To complete your Master’s in Computer Science, you need to complete all courses of a Major Subject. You do not need to choose this Major beforehand, you only officially select it when handing in your examination roster. We recommend choosing a Major at the start of the study and completing all of its courses as quickly as possible.
 
+There are six different majors (Computational Engineering, Data Science, Intelligent Information Systems, Networks and Security, Pervasive Computing and Software Engineering). A more detailed description of the different majors can be found in the [Curriculum](https://studienhandbuch.jku.at/texte/921_6_MS_ComputerScience.pdf) starting on page 3. If you want to know your courses for your major, you can either take a look [here](https://www.kusss.jku.at/kusss/coursecatalogue-get-currbranches-or-segments.action?set.listsubjects-overview.treeView.expandAll=true&curId=289) in KUSSS or in the [Curriculum Guide](https://informatik.jku.at/teaching/curricula/CS_Master_Guide.pdf) starting on page 6.
+
+For the Complementary Subject, you have to take 27 ECTS from across the other majors and the General Electives Pool. You can combine these 27 ECTS freely. You can find a list [here](https://www.kusss.jku.at/kusss/coursecatalogue-get-currbranches-or-segments.action?set.listsubjects-overview.treeView.expandAll=true&curId=289) in KUSSS.
 '''
 
 [[sections.subsections.questions]]
@@ -1370,9 +1681,9 @@ de.a = '''
 [Hier](https://informatik.jku.at/teaching/curricula/CS_Master_Guide.pdf) ist der Curriculums Guide zu finden.
 '''
 
-en.q = ""
+en.q = "Where can I find the Curriculum Guide?"
 en.a = '''
-
+You can find the Curriculum Guide [here](https://informatik.jku.at/teaching/curricula/CS_Master_Guide.pdf).
 '''
 
 [[sections.subsections.questions]]
@@ -1384,9 +1695,11 @@ Das sind zwei Seminare, die man während des Schreibprozesses der Masterarbeit m
 Man muss sich für die Seminare im KUSSS anmelden.
 '''
 
-en.q = ""
+en.q = "What are the Master's Thesis seminars in the 3rd and 4th semester?"
 en.a = '''
+These are two seminars that you do during the writing process of the Master's thesis: They should make sure that you are awarded credits during your work on the thesis. The content of these seminars depends on your thesis supervisor, please talk to them before registering.
 
+You have to register for the seminars in KUSSS.
 '''
 
 [[sections.subsections.questions]]
@@ -1398,9 +1711,11 @@ Für deinen Master musst du in deinem gewählten Major Subject ein Seminar (3 EC
 Das Project und/oder Seminar können auch im Zuge deiner Masterarbeit gemacht werden: Du kannst also in dem Project und/oder Seminar ein ähnliches Thema wählen und somit schon Vorarbeit leisten, die du dann auch für die Master Thesis verwenden kannst. Sprich hierfür bitte mit deiner Betreuerin oder deinem Betreuer.
 '''
 
-en.q = ""
+en.q = "What is the Major Subject Seminar and Project in the 3rd semester?"
 en.a = '''
+For your Master's degree, you have to take a seminar (3 ECTS) and a project (7.5 ECTS) in your chosen major subject. You have to register for this in KUSSS. For example, if you have chosen the major Data Science, you have to register for the courses "PR Project in Data Science" and "SE Seminar in Data Science".
 
+The project and seminar can also be done about the same topic as your Master's thesis. This means that you can choose a similar topic in the project or seminar and thus already do some preliminary work, but this is not a must. Please talk to your supervisor about this.
 '''
 
 [[sections.subsections.questions]]
@@ -1409,12 +1724,14 @@ de.q = "Wie funktioniert das mit den Prüfenden bei der Masterprüfung?"
 de.a = '''
 Für die Masterprüfung braucht man drei Prüfende. Es ist deine eigene Verantwortung, Prüfpersonen für die verschiedenen Teile deiner Prüfung zu finden. Bei der Prüfung gibt es je einen Teil zu: Masterarbeit, Major Subject, Complementary Subject.
 
-Für genauere Einschränkungen siehe [hier](http://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf).
+Für genauere Einschränkungen siehe [hier](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf).
 '''
 
-en.q = ""
+en.q = "How do I find examiners for the Master's examination?"
 en.a = '''
+You need three examiners for the Master's examination. It is up to you to find an examiner for each part of your exam. In the examination, there is one part each for the Master's thesis, major subject, and complementary subject.
 
+For more detailed restrictions see [here](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf).
 '''
 
 [[sections.subsections.questions]]
@@ -1428,15 +1745,25 @@ Hier gibt es einige weitere Ressourcen, die dir vielleicht helfen:
 * [Du hast alles positiv abgeschlossen? Dann gelangst du durch folgende Schritte zu deinem Abschlusszeugnis.](https://www.jku.at/studium/studierende/abschluesse/)
 * [Abschlussarbeit, Prüfungsraster, Akademische Feier. Hier findest du alle Informationen, die wichtig sind, um dein Studium erfolgreich abzuschließen.](https://www.jku.at/studium/studierende/studienabschluss/)
 * [Hier findest du hilfreiche Informationen zum Verfassen und Einreichen deiner Bachelor-, Master-, Diplomarbeit oder Dissertation.](https://www.jku.at/studium/studierende/abschlussarbeiten/)
-* [Allgemeines Computer Science Master](http://informatik.jku.at/teaching/master/)
-* [Current Information for the CS Master](http://informatik.jku.at/teaching/)
-* [The final steps to earn your Master’s Degree in Computer Science](http://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
-* [Master's Thesis Process](http://informatik.jku.at/teaching/master/process_thesis.pdf)
+* [Allgemeines Computer Science Master](https://informatik.jku.at/teaching/master/)
+* [Current Information for the CS Master](https://informatik.jku.at/teaching/)
+* [The final steps to earn your Master’s Degree in Computer Science](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
+* [Master's Thesis Process](https://informatik.jku.at/teaching/master/process_thesis.pdf)
 '''
 
-en.q = ""
+en.q = "Helpful documents and links about completing your degree"
 en.a = '''
+Still unsure about the whole procedure? Check out recordings of our last MSc Information Event [here](https://oeh.jku.at/cs/msc)!
 
+Here are some other useful resources that might help:
+
+* [Have you successfully completed the requirements as outlined in your degree program? Follow these steps to get your well-earned diploma!](https://www.jku.at/en/degree-programs/students/degree-completion/)
+* [Final thesis, examination roster, academic conferral. Find out everything you need to know in order to successfully complete your studies.](https://www.jku.at/en/degree-programs/students/graduation/)
+* [Helpful information to write and submit your Bachelor's, Diploma degree/Master's thesis, or dissertation is available here!](https://www.jku.at/en/degree-programs/students/theses-and-dissertations/)
+* [General Information about Computer Science Master](https://informatik.jku.at/teaching/master/)
+* [Current Information for the CS Master](https://informatik.jku.at/teaching/)
+* [The final steps to earn your Master’s Degree in Computer Science](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
+* [Master's Thesis Process](https://informatik.jku.at/teaching/master/process_thesis.pdf)
 '''
 
 [[sections.subsections.questions]]
@@ -1448,7 +1775,9 @@ Viele unserer MSc-Studis arbeiten neben dem Studium, und wir versuchen, dem gere
 Manche Kurse werden online abgehalten oder bieten Videos an (insbesondere, wenn sie auch im AI-Master angeboten werden). Unser Studium ist aber für Präsenzunterricht ausgelegt, und viele unserer Kurse fordern diesen auch ein. In den meisten Fällen ist es darum nicht möglich, das Studium vollständig remote zu studieren.
 '''
 
-en.q = ""
+en.q = "Can I work during the MSc study, can I study remotely?"
 en.a = '''
+Many of our MSc students work on the side, and we try to accommodate that: We try to have courses with mandatory presence of the same major track on the same day, and often evening slots are offered. Our curriculum is a full-time study, however, and you will struggle to balance it next to a full workload - see our more general advice.
 
+Some courses also offer remote meetings and recordings (especially if they are shared with the AI track). Still, the study is designed for on-site participation, and many of our courses require physical presence. In most cases, it is therefore not feasible to fully study remotely.
 '''
