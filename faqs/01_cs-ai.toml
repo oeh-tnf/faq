@@ -83,7 +83,7 @@ en.a = '''
 
 de.q = "Welche Fächer soll ich machen?"
 de.a = '''
-Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) findest du den vorgeschlagenen Studienplan. Es ist ratsam, sich für alle empfohlenen LVAs eines Semesters anzumelden. Wenn es dir zuviel wird, kannst du während des Semesters noch Fächer aufhören. Der Studienplan ist aber nur eine Empfehlung, du kannst ihn (mit Einschränkungen) nach deinen Bedürfnissen abändern.
+Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) findest du den vorgeschlagenen Studienplan. Es ist ratsam, sich für alle empfohlenen LVAs eines Semesters anzumelden. Wenn es dir zuviel wird, kannst du während des Semesters noch [Fächer aufhören](#wie-kann-ich-eine-lva-aufhoeren). Der Studienplan ist aber nur eine Empfehlung, du kannst ihn (mit [Einschränkungen](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere)) nach deinen Bedürfnissen abändern.
 '''
 
 en.q = ""
@@ -181,7 +181,7 @@ de.q = "Ich habe eine Überschneidung von Kursen, was nun?"
 de.a = '''
 Das kommt auf die Art der LVA an. Bei einer Vorlesung besteht keine Anwesenheitspflicht, das heißt, du musst nicht hingehen und kannst die andere LVA besuchen.
 
-Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe die nächste Frage.
+Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe [die nächste Frage](#wie-kann-ich-meine-bungsgruppe-wechseln).
 Wenn du nach dem vorgeschlagenen Studienplan studierst, sollte es zu keinen Überschneidungen kommen.
 '''
 
@@ -194,7 +194,7 @@ en.a = '''
 
 de.q = "Wie kann ich meine Übungsgruppe wechseln?"
 de.a = '''
-Schreib eine höfliche Mail mit deinem Anliegen an die LVA-Leitung. Vergiss die LVA-Nummer und deine Matrikelnummer nicht!
+Schreib eine [höfliche Mail](#wie-schreibe-ich-eine-mail-an-lvaleiterinnen) mit deinem Anliegen an die LVA-Leitung. Vergiss die LVA-Nummer und deine Matrikelnummer nicht!
 
 Die LVA-Leitung wird dir dann Bescheid geben, ob ein Wechsel möglich ist.
 Falls Wechseln nicht möglich ist, schau trotzdem zum ersten Termin deiner gewünschten Übungsgruppe und sag der LVA-Leitung, dass du in diese Gruppe wechseln möchtest. Oft kann eine Lösung gefunden werden.
@@ -248,7 +248,7 @@ en.a = '''
 
 de.q = "Gibt es etwas zu beachten, wenn ich nicht nach empfohlenem Studienplan studiere?"
 de.a = '''
-Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die StEOP baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
+Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die [StEOP](#was-ist-die-steop--wie-funktioniert-sie) baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
 
 Es macht grundsätzlich Sinn, LVAs in der empfohlenen Reihenfolge zu absolvieren: Oft ist eine Abhängigkeit auch recht ersichtlich, zum Beispiel bei “Hands-on AI I” und “Hands-on AI II”. Es wird nicht überprüft, ob du die vorangegangene LVA schon abgeschlossen hast, aber das Wissen wird vorausgesetzt. Eine grobe Richtlinie, in welcher LVA welches Wissen vorausgesetzt wird, findest du am Ende des [Informatik Curriculum Guides](https://oeh.jku.at/cs/resources) und für AI [hier](https://discord.com/channels/370458917073059841/379966639602401301/884847119670853652) auf unserem [Discord-Server](https://discord.gg/wAek576).
 
@@ -299,7 +299,7 @@ de.a = '''
 Jedes österreichische Uni-Studium muss “Freie Studienleistungen” beinhalten - sie sollen Studierenden die Möglichkeit geben, auch über ihr Fachgebiet hinaus Einblicke in die Wissenschaft zu erhalten. Die dafür vorgesehenen ECTS kannst du darum durch beliebige Fächer an einer beliebigen österreichischen Universität absolvieren, vom Sprach- bis zum Töpferkurs. Es ist natürlich auch möglich (wenngleich nicht unbedingt Ziel der Maßnahme), ein Informatik-Fach für die freien Studienleistungen zu nutzen.
 Viele [ehrenamtliche Dienste](https://www.jku.at/rektorat/vizerektorat-fuer-lehre-und-studierende/anrechnung-ehrenamtlicher-taetigkeit/) geben ebenfalls “Freie ECTS” - auf unserem [Discord-Server](https://discord.gg/wAek576) kannst du dich im `#free-electives` channel zu den besten Fächern austauschen.
 
-Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch Regeln zur Anrechnung) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
+Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch [Regeln zur Anrechnung](#kann-ich-einen-kurs-fuer-mehrere-studiengaenge-nutzen-kann-ich-mir-einen-aehnlichen-kurs-anrechnen-)) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
 Wenn du ein Fach an einer anderen Universität absolvieren möchtest, lies dir die Regeln der jeweiligen Uni zu “Mitbelegung” durch.
 '''
 
@@ -317,7 +317,7 @@ Die Studien sind prinzipiell als Vollzeitstudium (30 ECTS pro Semester) ausgeleg
 Da man auf der Universität selbst entscheiden kann, wie viele Kurse man belegt, empfiehlt es sich darum, bei Arbeit neben dem Studium weniger als 30 ECTS zu machen: Man muss dann natürlich mit Verzögerungen in der Studienzeit rechnen, die empfohlene Studiendauer wird sich so also nicht mehr ausgehen.
 
 
-Im Bachelor wird darum empfohlen, erst frühestens ab dem 5. Semester zu arbeiten - uns ist aber selbstverständlich klar, dass das nicht für alle finanziell möglich ist: Wenn du Probleme hast, dir das Studium leisten zu können, sieh dir die Frage zur finanziellen Unterstützung an.
+Im Bachelor wird darum empfohlen, erst frühestens ab dem 5. Semester zu arbeiten - uns ist aber selbstverständlich klar, dass das nicht für alle finanziell möglich ist: Wenn du Probleme hast, dir das Studium leisten zu können, sieh dir die [Frage zur finanziellen Unterstützung](#gibt-es-finanzielle-unterstuetzung) an.
 
 Die Anzahl an ECTS, die du im Semester machen kannst/sollst, ist natürlich von deiner freien Zeit und deinen Vorkenntnissen abhängig.
 Gerne beraten wir dich individuell dazu, schreib uns einfach eine E-Mail oder eine Nachricht auf Discord!
@@ -332,9 +332,9 @@ en.a = '''
 
 de.q = "Kann ich mehr als 30 ECTS pro Semester machen?"
 de.a = '''
-Wie oben schon erwähnt, steht es dir grundsätzlich frei, auch mehr als die empfohlenen 30 ECTS pro Semester zu absolvieren, angenehm ist es aber sicher nicht.
+Wie [oben](#kann-ich-neben-dem-studium-arbeiten-wie-viele-ects-soll-ich-machen) schon erwähnt, steht es dir grundsätzlich frei, auch mehr als die empfohlenen 30 ECTS pro Semester zu absolvieren, angenehm ist es aber sicher nicht.
 
-Falls du das Studium primär für den Titel absolvierst, bereits entsprechende Vorbildung hast und bereit bist, sehr wenig Freizeit zu haben, kannst du deine Studiendauer durch eine höhere ECTS-Zahl pro Semester aber natürlich verkürzen. Natürlich musst du dann unsere Frage zu einer individuellen Studienplanung berücksichtigen - wir beraten dich gerne individuell.
+Falls du das Studium primär für den Titel absolvierst, bereits entsprechende Vorbildung hast und bereit bist, sehr wenig Freizeit zu haben, kannst du deine Studiendauer durch eine höhere ECTS-Zahl pro Semester aber natürlich verkürzen. Natürlich musst du dann unsere Frage zu einer [individuellen Studienplanung](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere) berücksichtigen - wir beraten dich gerne individuell.
 
 Mach dir aber bitte bewusst, dass du damit nicht nur soziale Einbuße hast, sondern auch inhaltlich vermutlich nicht so viel mitnehmen wirst - viele Lernprozesse passieren schließlich auch außerhalb der Kurse bei Gesprächen mit deinen Kommiliton:innen und Professor:innen.
 '''
@@ -346,7 +346,7 @@ en.a = '''
 
 [[sections.subsections.questions]]
 
-de.q = "Kann ich einen Kurs für mehrere Studiengänge nutzen? Kann ich mir einen ähnlichen Kurs anrechnen? "
+de.q = "Kann ich einen Kurs für mehrere Studiengänge nutzen? Kann ich mir einen ähnlichen Kurs anrechnen?"
 de.a = '''
 Ja, Kurse können für mehrere Studien verwendet werden, mit einigen Einschränkung. Insbesondere dürfen die beiden Studiengänge nicht voneinander abhängen: Wenn du den Kurs für einen Abschluss verwendet hast (z.B.: BSc Informatik), und dieser Titel dann Voraussetzungen für den zweiten Studiengang (z.B.: MSc Computer Science) ist, kannst du den Kurs darin nicht verwenden. Ähnliche Einschränkungen gelten auch für Vorstudienlehrgänge.
 
@@ -380,7 +380,7 @@ Je nach Staatsbürgerschaft musst du zudem Studiengebühren zahlen: EU- bzw. EWR
 
 Für manche Förderungen (etwa die Studienbeihilfe) hast du nur ein Toleranzsemester, bevor die Unterstützung eingestellt wird.
 
-Beachte im Bachelor die Mindeststudienleistung.
+Beachte im Bachelor die [Mindeststudienleistung](#was-ist-die-mindeststudienleistung).
 '''
 
 en.q = ""
@@ -397,7 +397,7 @@ Bei Vorlesungen meldest du dich einfach nicht zur Prüfung an, das kostet dich k
 
 Bei Übungen, KVs oder Praktika gibt es oft einen festgelegten Modus, der meist in der ersten Übungseinheit erklärt wird (z.B. "Nach zwei abgegeben Hausübungen bekommt man eine Note”), rechtlich gesehen kannst du aber ab der ersten erbrachten Leistung beurteilt werden. Willst du den Kurs beenden, schreib eine höfliche Mail an die LVA-Leitung, ob sie dich vom Kurs abmelden kann.
 
-Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber mehrere Versuche.
+Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber [mehrere Versuche](#wie-viele-antritte-habe-ich-bei-lvas).
 '''
 
 en.q = ""
@@ -472,7 +472,7 @@ en.title = ""
 
 de.q = "Wie melde ich mich zu Prüfungen an?"
 de.a = '''
-Für Vorlesungsprüfungen musst du dich rechtzeitig via [KUSSS](https://kusss.jku.at/kusss/szsearchexam.action?search=true&searchType=mylvas) anmelden, um teilnehmen zu dürfen. Folge einfach dem Link oben und such nach dem entsprechenden Kurs. Kannst du keine Prüfung finden, siehe unten.
+Für Vorlesungsprüfungen musst du dich rechtzeitig via [KUSSS](https://kusss.jku.at/kusss/szsearchexam.action?search=true&searchType=mylvas) anmelden, um teilnehmen zu dürfen. Folge einfach dem Link oben und such nach dem entsprechenden Kurs. Kannst du keine Prüfung finden, siehe [unten](#wie-viele-klausurtermine-gibt-es-fuer-vorlesungen-und-warum-sind-bei-der-anmeldung-noch-nicht-alle-eingetragen).
 
 Für Übungen, Kurse und Seminare gilt die Anmeldung zur Lehrveranstaltung bereits als Anmeldung und Zulassung zur Lehrveranstaltungsprüfung. Schau sicherheitshalber trotzdem nach, ob sich deine LVA-Leitung eine zusätzliche Anmeldung wünscht.
 
@@ -536,10 +536,10 @@ en.a = '''
 
 de.q = "Wie viele Antritte habe ich bei LVAs?"
 de.a = '''
-Negativ beurteilte Prüfungen der Studieneingangs- und Orientierungsphase (StEOP) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
+Negativ beurteilte Prüfungen der [Studieneingangs- und Orientierungsphase (StEOP)](#was-ist-die-steop--wie-funktioniert-sie) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
 Es zählen alle Prüfungsantritte für dasselbe Prüfungsfach in allen facheinschlägigen Studien an derselben Universität.
 
-Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalten - siehe “Was ist eine kommissionelle Prüfung?” für mehr Infos.
+Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalten - siehe “[Was ist eine kommissionelle Prüfung?](#was-ist-eine-kommissionelle-pruefung)” für mehr Infos.
 
 Die letzte Prüfung eines Studienabschnitts darf ein weiteres Mal wiederholt werden (_§ 77 Abs. 2 UG_).
 '''
@@ -586,7 +586,7 @@ en.a = '''
 
 [[sections.subsections.questions]]
 
-de.q = "Wie lange darf es dauern, bis ich meine Noten bekomme? "
+de.q = "Wie lange darf es dauern, bis ich meine Noten bekomme?"
 de.a = '''
 Lehrende sind verpflichtet, dir spätestens vier Wochen nach der letzten erbrachten Leistung in einer LVA eine Note auszustellen - bei Vorlesungen ist das die Klausur, bei Übungen meist die letzte Einheit (_§ 34 Abs. 2 Satzung_). Falls das nicht der Fall ist, frag bitte freundlich bei der LVA-Leitung nach, oder wende dich an uns.
 '''
@@ -618,7 +618,7 @@ de.q = "Kann ich gegen meine Note Einspruch erheben?"
 de.a = '''
 Nein, gegen Beurteilungen ist kein Rechtsmittel zulässig. Nur negative Noten können bei “schweren Mängeln” (etwa wenn die Klausurzeit signifikant kürzer ist als angekündigt) aufgehoben werden, in dem Fall wird dein negativer Antritt nichtig. Bitte melde dich unverzüglich bei uns, wenn du glaubst, dass ein solcher Mangel vorliegt: Ein Einspruch muss innerhalb von vier Wochen nach der Notenverkündung passieren (_§ 79 Abs. 1 UG_).
 
-Wenn du das Gefühl hast, ungerecht behandelt zu werden, kannst du für weitere Antritte eine kommissionelle Prüfung beantragen.
+Wenn du das Gefühl hast, ungerecht behandelt zu werden, kannst du für weitere Antritte eine [kommissionelle Prüfung](#was-ist-eine-kommissionelle-pruefung) beantragen.
 
 Du kannst außerdem beantragen, dass du beim nächsten Mal von einer anderen dafür fachlich geeigneten Person deiner Wahl geprüft wirst (_§ 59 Abs. 13 UG_).
 '''
@@ -692,7 +692,7 @@ Die Österreichischen Hochschüler_innenschaft ist in verschiedene Levels strukt
 
 ##### Studienvertretung (ÖH StV AI + StV Informatik)
 
-Deine Studienvertretung ist dein direkter Kontaktpunkt bei Problemen und Fragen zum Studium - in deinem Fall sind deine Vertreter:innen die StV AI und die StV Informatik. Für mehr zu unserer Arbeit, siehe Was machen die Studienvertretungen (StVs)?.
+Deine Studienvertretung ist dein direkter Kontaktpunkt bei Problemen und Fragen zum Studium - in deinem Fall sind deine Vertreter:innen die StV AI und die StV Informatik. Für mehr zu unserer Arbeit, siehe [Was machen die Studienvertretungen (StVs)](#was-machen-die-studienvertretungen-stvs-fuer-informatik-und-ai)?.
 
 ##### Fakultätsvertretung (ÖH TNF)
 
@@ -752,7 +752,7 @@ en.a = '''
 
 de.q = "Wie kann ich der ÖH beitreten?"
 de.a = '''
-Die ÖH arbeitet in vielen verschiedenen Bereichen und freut sich immer über ambitionierte Unterstützung. Wenn du deiner Studienvertretung beitreten möchtest, wendest du dich am besten an ihren Vorsitz oder schreib eine E-Mail an [ai@oeh.jku.at](mailto:ai@oeh.jku.at) bzw. [informatik@oeh.jku.at](mailto:informatik@oeh.jku.at). Die StV Informatik hat außerdem ihre Onboarding-Prozedur veröffentlicht, damit du weißt, wie du dir den Beitritt vorstellen kannst.
+Die ÖH arbeitet in vielen verschiedenen Bereichen und freut sich immer über ambitionierte Unterstützung. Wenn du deiner Studienvertretung beitreten möchtest, wendest du dich am besten an ihren Vorsitz oder schreib eine E-Mail an [ai@oeh.jku.at](mailto:ai@oeh.jku.at) bzw. [informatik@oeh.jku.at](mailto:informatik@oeh.jku.at). Die StV Informatik hat außerdem ihre [Onboarding-Prozedur](https://oeh.jku.at/cs/join) veröffentlicht, damit du weißt, wie du dir den Beitritt vorstellen kannst.
 '''
 
 en.q = ""
@@ -849,7 +849,7 @@ en.a = '''
 
 de.q = "Wie lange darf ich zum Abschluss der StEOP brauchen?"
 de.a = '''
-Es gibt kein Zeitlimit für den Abschluss der StEOP. Es gibt allerdings zu Beginn deines Studiums eine Mindestanzahl an ECTS (“Mindeststudienleistung”), die du schaffen musst. Weil deine Wahlfreiheit bei Kursen während der StEOP stark eingeschränkt ist, schließt du sie in der Regel ab, wenn du die Mindeststudienleistung erfüllst.
+Es gibt kein Zeitlimit für den Abschluss der StEOP. Es gibt allerdings zu Beginn deines Studiums eine [Mindestanzahl an ECTS](#was-ist-die-mindeststudienleistung) (“Mindeststudienleistung”), die du schaffen musst. Weil deine Wahlfreiheit bei Kursen während der StEOP stark eingeschränkt ist, schließt du sie in der Regel ab, wenn du die Mindeststudienleistung erfüllst.
 
 Wir empfehlen dir, die StEOP so schnell wie möglich abzuschließen, um von den zusätzlichen Klausur-Antritten und dem flexibleren Kursplan zu profitieren.
 '''
@@ -879,7 +879,7 @@ en.a = '''
 
 de.q = "Wie kann ich mir etwas von der Schule anrechnen lassen?"
 de.a = '''
-Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar. Für genauere Infos für jeweils Informatik und AI, sieh bitte im entsprechenden FAQ-Kapitel für Informatik und AI an. Wir haben dort Links mit Anrechnungstabellen bereitgestellt.
+Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar. Für genauere Infos für jeweils Informatik und AI, sieh bitte im entsprechenden FAQ-Kapitel für [Informatik](#wie-und-was-kann-ich-mir-im-informatik-bachelor-von-der-schule-anrechnen-lassen) und [AI](#wie-und-was-kann-ich-mir-im-ai-bachelor-von-der-schule-anrechnen-lassen) an. Wir haben dort Links mit Anrechnungstabellen bereitgestellt.
 '''
 
 en.q = ""
@@ -891,9 +891,9 @@ en.a = '''
 
 de.q = "Ich würde gerne im Sommersemester starten, wie gehe ich da vor?"
 de.a = '''
-Generell raten wir von einem Studienbeginn im Sommersemester eher ab. (Sonderform Informatik-Studium für Informatik-HTLs. Siehe dazu die FAQ-Frage “Ich habe eine Informatik-HTL besucht und möchte Informatik studieren, wie kann ich mit den Anrechnungen im Sommersemester beginnen?”).
+Generell raten wir von einem Studienbeginn im Sommersemester eher ab. (Sonderform Informatik-Studium für Informatik-HTLs. Siehe dazu die FAQ-Frage “[Ich habe eine Informatik-HTL besucht und möchte Informatik studieren, wie kann ich mit den Anrechnungen im Sommersemester beginnen?](#ich-habe-eine-informatikhtl-besucht-und-moechte-informatik-studieren-wie-kann-ich-mit-den-anrechnungen-im-sommersemester-beginnen)”).
 
-Solltest du jedoch erst im Sommersemester ins Studium einsteigen können, ist dies natürlich möglich. Wir empfehlen dir, die Fächer aus dem planmäßigen 2. Semester zu absolvieren und unserem Rat zur individuellen Studienplanung zu folgen.
+Solltest du jedoch erst im Sommersemester ins Studium einsteigen können, ist dies natürlich möglich. Wir empfehlen dir, die Fächer aus dem planmäßigen 2. Semester zu absolvieren und unserem Rat zur [individuellen Studienplanung](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere) zu folgen.
 
 Wenn du bereits Vorkenntnisse im Programmieren hast, ist der Einstieg bei z.B. Softwareentwicklung 2 (INF) oder Programming in Python II (AI) kein Problem. Hast du aber noch nie programmiert, solltest du vorher Softwareentwicklung 1 bzw. Programming in Python I belegen und den darauf aufbauenden Kurs verschieben. Prinzipiell ist die Gestaltung der Stundenpläne bzw. die Einteilung, welche Kurse du wann machst, ganz dir überlassen. Es empfiehlt sich allerdings, den empfohlenen Semesterplan nicht ganz außer Acht zu lassen.
 
@@ -909,10 +909,10 @@ en.a = '''
 
 de.q = "Kann ich den BSc AI und Informatik dual studieren?"
 de.a = '''
-Es ist zwar möglich, beide Studiengänge parallel zu studieren, sie überschneiden sich aber weniger, als du vielleicht denkst. Kurse, die in beiden Studien vorkommen, können ohne Verfahren angerechnet werden (ca. 40 ECTS). Es gibt außerdem einige Kurse, die ähnlich genug für eine automatische Anrechnung sind ([hier](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf) veröffentlicht, ca. 16 ECTS). Dazu kommen noch die Freien Studienleistungen, die automatisiert angerechnet werden können.
+Es ist zwar möglich, beide Studiengänge parallel zu studieren, sie überschneiden sich aber weniger, als du vielleicht denkst. Kurse, die in beiden Studien vorkommen, können [ohne Verfahren angerechnet](#kann-ich-einen-kurs-fuer-mehrere-studiengaenge-nutzen-kann-ich-mir-einen-aehnlichen-kurs-anrechnen) werden (ca. 40 ECTS). Es gibt außerdem einige Kurse, die ähnlich genug für eine automatische Anrechnung sind ([hier](https://cs.jku.at/teaching/stuko/credittransfer/Anrechnungen_ArtificialIntelligence.pdf) veröffentlicht, ca. 16 ECTS). Dazu kommen noch die Freien Studienleistungen, die automatisiert angerechnet werden können.
 Anders formuliert: Du sparst dir ca. ein Drittel der Zeit für ein Studium.
 
-Gleichzeitig führt ein duales Studium aber zu einer sehr großen Workload mit vielen potenziell überlappenden Kursen, oder zu einem individuellen Studienplan mit längerer Studiendauer für beide Studiengänge.
+Gleichzeitig führt ein duales Studium aber zu einer sehr [großen Workload](#kann-ich-mehr-als-30-ects-pro-semester-machen) mit vielen potenziell überlappenden Kursen, oder zu einem [individuellen Studienplan](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere) mit längerer Studiendauer für beide Studiengänge.
 '''
 
 en.q = ""
@@ -944,7 +944,7 @@ Um eine Bachelorarbeit zu finden, gibt es prinzipiell drei verschiedene Wege:
 * Man fragt bei einem Institut/einer Betreuungsperson nach, was für Themen angeboten werden. Die meisten Institute haben einige Arbeiten auf der Website ausgeschrieben. Dort kann man sich ein Bild machen.
 * Man kann bei einer Firma eine Abschlussarbeit schreiben. Man braucht dafür aber immer eine Betreuungsperson auf der JKU. Das heißt, du bewirbst dich für eine Arbeit bei einer Firma und suchst dir an der JKU eine passende Betreuungsperson. Manche Institute verlangen in diesem Fall Geld von der Firma für die Betreuung deiner Arbeit. Deine Betreuungsperson erklärt dir den Rest der Prozedur.
 
-Die ÖH hilft dir dabei, eine Betreuungsperson und ein Thema zu finden: Wir veranstalten jedes Jahr einen Bachelor-Info-Abend. Mehr dazu hier: AI, Informatik.
+Die ÖH hilft dir dabei, eine Betreuungsperson und ein Thema zu finden: Wir veranstalten jedes Jahr einen Bachelor-Info-Abend. Mehr dazu hier: [AI](#was-ist-der-ai-bachelorinfoabend), [Informatik](#was-ist-der-informatik-bachelorinfoabend).
 '''
 
 en.q = ""
@@ -989,20 +989,6 @@ en.title = ""
 [[sections.subsections.questions]]
 
 de.q = "Wie und was kann ich mir im AI Bachelor von der Schule anrechnen lassen?"
-de.a = '''
-Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fächer anrechnen lassen. [Hier](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) findest du eine Tabelle mit den Anrechnungsmöglichkeiten für AI.
-
-Zur Anerkennung schreib eine Mail an den [Prüfungs- und Anerkennungsservice](https://www.jku.at/lehr-und-studienorganisation/pruefungs-und-anerkennungsservice/) der JKU mit deinem Zeugnis. (Erst nach dem Start des Studiums möglich.)
-'''
-
-en.q = ""
-en.a = '''
-
-'''
-
-[[sections.subsections.questions]]
-
-de.q = "Wie und was kann ich mir von der Schule anrechnen lassen?"
 de.a = '''
 Wenn du eine HTL besucht hast, kannst du dir je nach HTL-Zweig verschiedene Fächer anrechnen lassen. [Hier](https://docs.google.com/spreadsheets/d/1iYPxAbFqygdOPOq6VNJfh-0Mq-Babmlerh3Qwi8fUls/edit#gid=0) findest du eine Tabelle mit den Anrechnungsmöglichkeiten für AI.
 
@@ -1181,7 +1167,7 @@ en.a = '''
 
 de.q = "Was muss ich bei Vertiefungsfächern im Bachelor beachten?"
 de.a = '''
-Im 5. und 6. Semester im Bachelor Informatik sind Vertiefungen vorgesehen, hierbei handelt es sich meist um Fächer aus dem Master Computer Science. Im Master gibt es ein sogenanntes Major Subject (schau dir dazu gern unsere FAQ-Frage an: Major Subject und Complementary Subject, was ist das?). Keine Pflicht-LVA aus einem Major ist im Vertiefungspool des Bachelors enthalten - anders als oft geglaubt kann man sich den Wunsch-Major also nicht “verbauen”, außer man strengt sich wirklich an.
+Im 5. und 6. Semester im Bachelor Informatik sind Vertiefungen vorgesehen, hierbei handelt es sich meist um Fächer aus dem Master Computer Science. Im Master gibt es ein sogenanntes Major Subject (schau dir dazu gern unsere FAQ-Frage an: [Major Subject und Complementary Subject, was ist das?](#major-subject-und-complementary-subject-was-ist-das)). Keine Pflicht-LVA aus einem Major ist im Vertiefungspool des Bachelors enthalten - anders als oft geglaubt kann man sich den Wunsch-Major also nicht “verbauen”, außer man [strengt sich wirklich an](#kann-ich-kurse-aus-dem-bachelor-in-meinem-master-verwenden).
 
 Achte aber darauf, dass du zumindest eine Vertiefung mit dem LVA-Typ SE (Seminar) abschließt ([Vertiefung](https://studienhandbuch.jku.at/169484) oder [Special Topic](https://studienhandbuch.jku.at/169499)) - das ist verpflichtend.
 '''
@@ -1195,7 +1181,7 @@ en.a = '''
 
 de.q = "Kann ich dasselbe Seminar mehrmals belegen? Brauche ich eines für meinen Bachelorabschluss?"
 de.a = '''
-Ja, man braucht mindestens eine LVA vom Typ SE (siehe oben) und ja, man kann ein Seminar mehrmals belegen und ECTS bekommen. Bei Seminaren handelt es sich um LVAs mit “wechselndem Inhalt” (im KUSSS als “NICHT INHALTSGLEICH” und “ANTRITTSZÄHLUNG AUS” markiert).
+Ja, man braucht mindestens eine LVA vom Typ SE (siehe [oben](#was-muss-ich-bei-vertiefungsfaechern-im-bachelor-beachten)) und ja, man kann ein Seminar mehrmals belegen und ECTS bekommen. Bei Seminaren handelt es sich um LVAs mit “wechselndem Inhalt” (im KUSSS als “NICHT INHALTSGLEICH” und “ANTRITTSZÄHLUNG AUS” markiert).
 '''
 
 en.q = ""
