@@ -1,9 +1,15 @@
+## Features
+
+* Built from structured data with Markdown for markup
+* German and English version are linked together
+* Output has RDFa markup as a [schema.org FAQPage](https://schema.org/FAQPage)
+
 ## Build Requirements
 
 * [Pandoc](https://pandoc.org/)
 * [yj](https://github.com/sclevine/yj)
 
-# How do I contribute?
+## How do I contribute?
 
 The content is all in the `faqs/` directory.
 
