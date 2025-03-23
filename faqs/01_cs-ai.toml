@@ -5,7 +5,7 @@ de.title = "FAQ: Informatik & AI Studium"
 en.title = "FAQ: CS & AI Study"
 
 de.intro = '''
-Als Studienvertretungen für Informatik und AI erhalten wir oft Fragen zu unseren Studien. Dieses FAQ soll dabei helfen, die meisten davon zu beantworten. Für Fragen spezifisch von internationalen Studierende gibt es [hier](https://oeh-tnf.github.io/faq/internationals/en/) ein eigenes FAQ. 
+Als Studienvertretungen für Informatik und AI erhalten wir oft Fragen zu unseren Studien. Dieses FAQ soll dabei helfen, die meisten davon zu beantworten. Für Fragen spezifisch von internationalen Studierende gibt es [hier](../../internationals/en/) ein eigenes FAQ.
 
 Für eine aufbereitete Sammlung von wichtigen Informationen zum Studienstart empfiehlt sich auch ein Blick in unsere **Leitfäden**. Du findest den Leitfaden für Informatik [hier](https://oeh.jku.at/cs/resources) und den Study Guide für AI [hier](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 
@@ -16,7 +16,7 @@ Wir referenzieren im FAQ manchmal auch bestehende **Gesetze**, damit du dich sel
 [Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) und [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
 '''
 en.intro = '''
-As student representatives for Computer Science and AI, we frequently receive questions about our studies. This FAQ should help answer most of them. Questions specific to International Students are answered in a separate FAQ [here](https://oeh-tnf.github.io/faq/internationals/en/).
+As student representatives for Computer Science and AI, we frequently receive questions about our studies. This FAQ should help answer most of them. Questions specific to International Students are answered in a separate FAQ [here](../../internationals/en/).
 
 We have also created a more in-depth study guide that should help you with the start of your study. You can find the guide for Computer Science [here](https://oeh.jku.at/cs/resources) and the one for AI [here](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 
