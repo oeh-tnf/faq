@@ -1,37 +1,29 @@
 logo.src = "informatik_ai.png"
 logo.href = "https://oeh.jku.at/cs/"
 
-de.title = "Informatik & AI Studium FAQ"
-en.title = "CS & AI Study FAQ"
+de.title = "FAQ: Informatik & AI Studium"
+en.title = "FAQ: CS & AI Study"
 
 de.intro = '''
-Als Studienvertretungen für Informatik und AI werden wir oft mit Fragen zu unseren Studien kontaktiert. Dieses FAQ sollte dabei helfen, die meisten davon zu beantworten.
+Als Studienvertretungen für Informatik und AI erhalten wir oft Fragen zu unseren Studien. Dieses FAQ soll dabei helfen, die meisten davon zu beantworten. Für Fragen spezifisch von internationalen Studierende gibt es [hier](../../internationals/en/) ein eigenes FAQ.
 
-Das FAQ besteht aus drei Teilen: Fragen, die alle betreffen, dann Fragen zum Bachelorstudium, und zuletzt Fragen zum Master.
-Am Ende des Dokuments findest du außerdem einen Link zu unserem Discord FAQ & Guide und zu unserem Internationals FAQ.
+Für eine aufbereitete Sammlung von wichtigen Informationen zum Studienstart empfiehlt sich auch ein Blick in unsere **Leitfäden**. Du findest den Leitfaden für Informatik [hier](https://oeh.jku.at/cs/resources) und den Study Guide für AI [hier](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 
-Für eine Sammlung von wichtigen Informationen zum Studienstart empfiehlt sich auch ein Blick in unseren Leitfaden. Du findest den Leitfaden für Informatik [hier](https://oeh.jku.at/cs/resources) bzw. den Study Guide für [AI](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569) hier!
+Wenn du weitere **Fragen oder Feedback** hast, kannst du dich jederzeit an uns wenden. Entweder per Mail ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) und [ai@oeh.jku.at](mailto:ai@oeh.jku.at)), oder via Discord. Falls du noch nicht auf unserem Discord Server für Informatik & AI bist, tritt über diesen Link bei: <https://discord.gg/wAek576>.
+Wir haben uns bei der Ausarbeitung dieses FAQs große Mühe gegeben, es können sich aber natürlich Fehler eingeschlichen haben. Bitte melde dich bei uns (oder erstell gleich einen [Pull Request](https://github.com/oeh-tnf/faq)), solltest du welche finden, und behandle das FAQ als Erstauskunft - wende dich bei komplexeren Problemen direkt an uns.
 
-Wenn du weitere Fragen oder Feedback hast, kannst du dich jederzeit an uns wenden. Entweder per Mail ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) und [ai@oeh.jku.at](mailto:ai@oeh.jku.at) ), oder via Discord. Falls du noch nicht auf unserem Discord Server für Informatik & AI bist, tritt gerne über diesen Link bei: <https://discord.gg/wAek576>.
-
-Das FAQ wird stetig erweitert, den Stand der letzten Bearbeitung findest du unten. Wir haben uns bei der Beantwortung große Mühe gegeben, es können sich aber natürlich Fehler eingeschlichen haben. Bitte melde dich bei uns, solltest du welche finden, und behandle das FAQ als Erstauskunft - wende dich bei komplexeren Problemen direkt an uns.
-
-Wir referenzieren im FAQ manchmal auch bestehende Gesetze, damit du dich selbst weiter informieren kannst. Die Deutung von Gesetzestexten ist aber nicht immer ganz einfach, hol dir also gerne Unterstützung von uns. Wir verwenden primär die folgenden beiden Quellen und ihre gängigen Abkürzungen:
+Wir referenzieren im FAQ manchmal auch bestehende **Gesetze**, damit du dich selbst weiter informieren kannst. Die Deutung von Gesetzestexten ist aber nicht immer ganz einfach, hol dir also gerne Unterstützung von uns. Wir verwenden primär die folgenden beiden Quellen und ihre gängigen Abkürzungen:
 [Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) und [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
 '''
 en.intro = '''
-As student representatives for Computer Science and AI, we are frequently contacted with questions about our studies. This FAQ should help answer most of them.
-
-This FAQ is divided into three sections: General questions, questions about the Bachelor and then ones concerning the Master's studies.
-At the end of the document, you will also find the link to our Discord FAQ & Guide, and to our Internationals FAQ.
+As student representatives for Computer Science and AI, we frequently receive questions about our studies. This FAQ should help answer most of them. Questions specific to International Students are answered in a separate FAQ [here](../../internationals/en/).
 
 We have also created a more in-depth study guide that should help you with the start of your study. You can find the guide for Computer Science [here](https://oeh.jku.at/cs/resources) and the one for AI [here](https://oeh.jku.at/studium/technik-und-naturwissenschaften/artificial-intelligence#c1569)!
 
-If you have any further questions or feedback, do not hesitate to contact us. Either via email ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) and [ai@oeh.jku.at](mailto:ai@oeh.jku.at)) or via Discord. If you are not yet on our Discord server for Computer Science & AI, join by following this link: <https://discord.gg/wAek576>.
+If you have any further **questions or feedback**, do not hesitate to contact us. Either via email ([informatik@oeh.jku.at](mailto:informatik@oeh.jku.at) and [ai@oeh.jku.at](mailto:ai@oeh.jku.at)) or via Discord. If you are not yet on our Discord server for Computer Science & AI, join by following this link: <https://discord.gg/wAek576>.
+We have taken great care in creating this FAQ, but of course, errors may occur. Please contact us if you find any (or create a [Pull Request](https://github.com/oeh-tnf/faq)), and treat the FAQ as initial information - contact us directly for solutions to more complex problems.
 
-The FAQ is constantly being updated. You can find the date it was last modified below. We have taken great care in answering the questions, but of course, errors may occur. Please contact us if you find any, and treat the FAQ as initial information - contact us directly for solutions to more complex problems.
-
-Finally, we will sometimes provide law references to aid you in finding further information yourself. Law texts are usually in German and a bit hard to interpret, however, so feel free to ask for assistance. We will mostly refer to two texts of law and will use the common shorthand abbreviation when doing so:
+Finally, we will sometimes provide **law references** to aid you in finding further information yourself. Law texts are usually in German and a bit hard to interpret, however, so feel free to ask for assistance. We will mostly refer to two texts of law and will use the common shorthand abbreviation when doing so:
 [Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) and [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
 '''
 
@@ -42,12 +34,12 @@ en.title = "General"
 
 [[sections.subsections]]
 
-de.title = "Anmeldung und Studienplanung"
+de.title = "Anmeldung // Studienplanung"
 en.title = "Registration // Planning your Studies"
 
 [[sections.subsections.questions]]
 
-de.q = "Was sollte ich für den Anfang wissen?"
+de.q = "Was soll ich für den Anfang wissen?"
 de.a = '''
 Wir empfehlen dir immer, zum ersten Termin deiner LVAs zu gehen. Oft wird dort viel Organisatorisches besprochen, das für den restlichen Kurs wichtig ist. Bei LVAs mit Anwesenheitspflicht kann es außerdem sein, dass dein Platz an eine Person auf der Warteliste gegeben wird, wenn du zum ersten Termin nicht erscheinst.
 
