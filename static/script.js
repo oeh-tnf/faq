@@ -86,4 +86,32 @@ window.addEventListener("load", () => {
     });
 
     document.querySelector("body header").insertBefore(cycleColorsButton, document.querySelector("body header a.lang-button"));
+    
+    /******************************
+     * CLICK ON HEADING DOES COPY *
+     ******************************/
+    
+    const copyLinkHandler = async (e) => {
+        e.preventDefault();
+        await navigator.clipboard.writeText(e.target.href);
+        const tooltip = document.createElement("div");
+        tooltip.ariaRole = "tooltip";
+        tooltip.textContent = "link copied";
+        tooltip.classList.add("tooltip");
+        tooltip.style.setProperty("position", "fixed");
+        tooltip.style.setProperty("left", (e.clientX + 20) + "px");
+        tooltip.style.setProperty("top", e.clientY + "px");
+        document.body.appendChild(tooltip);
+        setTimeout(() => tooltip.remove(), 500);
+    };
+    
+    for (const link of document.querySelectorAll("article > h2 > a")) {
+        link.addEventListener("click", copyLinkHandler);
+    }
+    for (const link of document.querySelectorAll("article > h3 > a")) {
+        link.addEventListener("click", copyLinkHandler);
+    }
+    for (const link of document.querySelectorAll("article > h4 > a")) {
+        link.addEventListener("click", copyLinkHandler);
+    }
 });

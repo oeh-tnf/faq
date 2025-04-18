@@ -105,6 +105,8 @@
   --color-token-background-accent: #edf4fa;
   --color-token-background-accent-light: #c9deef;
 
+  --color-bg-tooltip: var(--color-token-background-accent-light);
+  --color-fg-tootlip: var(--color-token-accent);
   --color-bg-site: var(--color-token-background);
   --color-fg-site: var(--color-token-accent-dark);
   --color-fg-site-hover: var(--color-token-accent-alternate);
@@ -166,6 +168,13 @@
 /********************
  * NON-LAYOUT STUFF *
  ********************/
+
+.tooltip {
+  background-color: var(--color-bg-tooltip);
+  color: var(--color-fg-tooltip);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
 
 body {
   font-family: Outfit, sans-serif;
