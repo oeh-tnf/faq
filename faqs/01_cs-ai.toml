@@ -499,6 +499,36 @@ If this is not possible, and you do not continue the course, you will receive a 
 
 [[sections.subsections.questions]]
 
+de.q = "Wohin kann ich mich bei psychischen Problemen wenden?"
+de.a = '''
+Ein Studium ist mit viel Stress und Druck verbunden: Deine psychische Gesundheit ist wichtiger als Noten. Wenn es dir nicht gut geht, gibt es einige Ressourcen, die dir helfen können.
+
+- **[Psychologische Studierendenberatung](https://www.studierendenberatung.at/standorte/linz/ueberblick)**: Diese Beratungsstelle sitzt direkt an der JKU und kann dir mit studienbezogenen Problemen helfen, ist aber auch Ansprechpartner bei persönlichen Problemen.
+- **[ÖH Helpline](https://www.oeh.ac.at/helpline): Die ÖH Bundesvertretung bietet eine niederschwellige, kostenlose psychosoziale Beratung an. Du kannst telefonisch mit Expert*innen reden oder online einen Termin vereinbaren und eine Erstberatung in Präsenz buchen.
+- **[Oberösterreichische Krisenhilfe](https://www.krisenhilfeooe.at)**: Die Krisenhilfe ist 24/7 telefonisch und via Chat verfügbar, wenn sich du oder ein*e Freund*in in einer psychischen Krise befinden.
+- **[Notrufnummern für Frauen](https://www.frauenreferat-ooe.at/439.htm)**: Das Frauenreferat OÖ bietet hier eine Liste an Ressourcen an, an die sich vor allem Frauen in Krisensituationen wenden können.
+- **[Männernotruf](https://maennernotruf.at)**: Der Männerrotnuf ist 24/7 und kostenfrei für Männer verfügbar, die mit persönlichen Krisen konfrontiert sind.
+
+Wenn du aufgrund von psychischen Problemen Therapie in Anspruch nimmst, unterstützt dich die ÖH finanziell durch den **[ÖH JKU Mental Health Fond](https://oeh.jku.at/en/oeh-jku/departments/social-department#c2273)**.
+Du kannst außerdem [dein Studium pausieren](#ich-kann-im-naechsten-semester-keine-lvas-abschliessen-was-soll-ich-tun) und deine ECTS-Load reduzieren. Unser Lehrenden sind in der Regel sehr verständnisvoll, wenn du aufgrund von psychischen Problemen einen Kurs nicht abschließen kannst, vieles lässt sich im direkten Gespräch lösen.
+'''
+
+en.q = "Are there resources for Mental Health?"
+en.a = '''
+Studying comes with stress and a lot of pressure to perform: Your Mental Health is more important than any grade. If you don't feel well, here are several resources that can help you out.
+
+- **[Psychologische Studierendenberatung](https://www.studierendenberatung.at/standorte/linz/ueberblick)** [German only]: The psychological counseling service is located at JKU and can help with study-related issues, but it is also a general point of contact for personal problems as well.
+- **[ÖH Helpline](https://www.oeh.ac.at/en/helpline)** [German and English]: The federal student representation is providing free counseling. You can either talk to a professional over the phone or make an inquiry online to get a consultation in person.
+- **[Upper Austrian Crisis Helpline](https://www.krisenhilfeooe.at)** [German only]: The government of Upper Austria has a service available to call or chat 24/7 if you or your friend is in any psychological crisis.
+- **[Helplines for Women](https://www.frauenreferat-ooe.at/439.htm)** [some in English]: The Department for Women of the government of Upper Austria is providing a list of resources specifically aimed at women who find themselves in a crisis situation.
+- **[Helpline for Men](https://maennernotruf.at)** [only in German]: The Männernotruf can be called for free 24/7 for men who experience abuse or other personal problems.
+
+If you take therapy sessions, ÖH also covers parts of your costs via the **[ÖH JKU Mental Health Fond](https://oeh.jku.at/oeh-jku/referate/sozialreferat#c2273)**.
+You can also [pause your study](#i-cannot-complete-any-courses-in-the-next-semester-what-should-i-do) and reduce your ECTS load. Our teacher are usually very understanding if you need to drop a course for mental health reasons - much can be resolved in a chat.
+'''
+
+[[sections.subsections.questions]]
+
 de.q = "Gibt es finanzielle Unterstützung?"
 de.a = '''
 Die ÖH hat einige Angebote, die dir die Finanzierung deines Studiums erleichtern können. Eine Liste findest du [hier](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
