@@ -4,9 +4,9 @@ logo.href = "https://oeh.jku.at/cs/"
 en.title = "FAQ: Internationals"
 
 en.intro = '''
-This document should serve as a collection of Frequently Asked Questions by Internationals studying (or planning to start studying) Computer Science or AI.
+This document should serve as a collection of **Frequently Asked Questions by Internationals** studying (or planning to start studying) Computer Science or AI.
 
-Below you will find a list of questions and their answers. If you don’t find an answer to your question, check out some of the resources listed here. The JKU and the voluntary student union (ÖH) offer a lot of support for students so don’t despair, we’ll get this sorted out!
+Below you will find a list of questions and their answers. If you don’t find an answer to your question, check out some of the resources listed here. JKU and the voluntary student union (ÖH) offer a lot of support for students so don’t despair, we’ll get this sorted out!
 
 ## Questions about your Study
 
@@ -23,15 +23,15 @@ While we know a lot about our studies, we are not trained on more general topics
 **[JKU International Welcome Center](https://www.jku.at/en/degree-programs/international-students/international-students/):** This JKU office can provide you with many answers regarding organisational matters (such as visas, residence permits etc.) - they also have some great resources on their website so be sure to check them out.
 You can also contact them via [Facebook](https://www.facebook.com/groups/447118703087585/) where you will find their [FAQ](https://www.facebook.com/groups/447118703087585/learning_content) which was partly implemented here, too - look into it as well.
 
-**[ÖH JKU ReMI](https://oeh.jku.at/abschnitte/remi-referat-f%C3%BCr-migration-und-integration):** The student union’s office for migration and integration is our contact point for all students coming to the JKU to pursue a degree. It offers guidance in several languages and can assist you with topics such as visas, tuition fees, supplementary exams etc.
+**[ÖH JKU ReMI](https://oeh.jku.at/abschnitte/remi-referat-f%C3%BCr-migration-und-integration):** The student union’s office for migration and integration is our contact point for all students coming to JKU to pursue a degree. It offers guidance in several languages and can assist you with topics such as visas, tuition fees, supplementary exams etc.
 
-**[ÖH JKU ReFI](https://oeh.jku.at/abschnitte/refi-esn):** The student union’s office for international exchange students focuses on people coming to the JKU for their exchange semesters. They organise events and will help you get settled here.
+**[ÖH JKU ReFI](https://oeh.jku.at/abschnitte/refi-esn):** The student union’s office for international exchange students focuses on people coming to JKU for their exchange semesters. They organise events and will help you get settled here.
 
 **[ÖH BV Office for Foreign Students](https://www.oeh.ac.at/en/departments/department-for-foreign-students/):** The national student union offers free legal counselling for international students. If you are fighting a visa case or similar, they might be a good resource to contact. Since they are responsible for all of Austria, their knowledge of JKU-specific circumstances is of course less extensive than the other offices.
 
 **[JKU Examination and Recognition Service](https://www.jku.at/en/teaching-and-studies-organization/examinations-and-recognition-services/):** This JKU office is responsible for accrediting courses, so if you have already studied something else before coming here, they can help you transfer your credits to your new studies.
 
-**[ÖH JKU Sozialreferat](https://oeh.jku.at/sozialreferat):** The ÖH Sozialreferat is a student union’s office that provides support on social issues such as inclusion and studying with a child. They also offer financial aid to JKU students according to a set of criteria and depending on the students’ personal situations.
+**[ÖH JKU Sozialreferat](https://oeh.jku.at/sozialreferat):** ÖH Sozialreferat is a student union’s office that provides support on social issues such as inclusion and studying with a child. They also offer financial aid to JKU students according to a set of criteria and depending on the students’ personal situations.
 
 If you want to connect with some fellow students and ask about their experiences, head over to our **Discord Server** by using this link: [https://discord.gg/wAek576](https://discord.gg/wAek576) - the channel #international-topics has many AI and CS students who are in a similar situation as you are and are happy to give advice.
 
@@ -53,7 +53,7 @@ If you decide to enrol for a different study than Computer Science or AI, take c
 
 en.q = "Do I have to enrol in person?"
 en.a = '''
-Yes. The JKU requires international students to show up in person at least once to prove your identity. See the enrollment procedure for more details.
+Yes. JKU requires international students to show up in person at least once to prove your identity. See the enrollment procedure for more details.
 
 If you have been admitted to JKU but cannot make it to the university in person in time for the semester, you most likely will have to re-apply for the next semester. In this case, the admission process will most likely be a lot faster (since all checks have already been performed), unless the regulatory framework has changed drastically in the meantime.
 '''
@@ -74,7 +74,7 @@ While the university community has no problems speaking English and will readily
 
 en.q = "How long does it take to get accepted?"
 en.a = '''
-Depending on your nationality and situation, it can take quite some time (i.e. months) to receive your admission letter. Apply as soon as the application period opens and make sure to follow the JKU’s admission guide as closely as possible to avoid delays when documents are missing etc.; also, make sure to regularly check your mailbox for updates.
+Depending on your nationality and situation, it can take quite some time (i.e. months) to receive your admission letter. Apply as soon as the application period opens and make sure to follow JKU’s admission guide as closely as possible to avoid delays when documents are missing etc.; also, make sure to regularly check your mailbox for updates.
 '''
 
 [[questions]]
@@ -88,9 +88,11 @@ When you apply for a study, there are two kinds of conditional admissions you ca
 
 en.q = "What are supplementary exams?"
 en.a = '''
-While our studies generally don’t have any entrance requirements (e.g. grade average etc.), you have to be on the same level as Austrian students who got a high school diploma (“Matura”). During the enrollment process, the JKU will determine if your previous school has the same level as the Matura in all relevant subjects for your studies. As a rule of thumb, countries listed [here](https://www.bmbwf.gv.at/en/Topics/Higher-education---universities/Recognition-of-qualifications/University-entrance-qualification.html) are usually considered to be equivalent. If your previous school education was less than 12 years, it will most likely not be deemed equivalent.
+While our studies generally don’t have any entrance requirements (e.g. grade average etc.), you have to be on the same level as Austrian students who got a high school diploma (“Matura”). During the enrollment process, JKU will determine if your previous school has the same level as the Matura. 
 
-If you are not from a country on that list, the JKU’s admission office might decide that you need to prove your level by doing one or more supplementary exams (“Ergänzungsprüfung”) - this frequently needs to be done in Maths and Physics, but could also sometimes be in History.
+As a rule of thumb, countries listed [here](https://web.archive.org/web/20241221233010/https://www.bmbwf.gv.at/en/Topics/Higher-education---universities/Recognition-of-qualifications/University-entrance-qualification.html) are usually considered to be equivalent. If your previous school education was less than 12 years, it will most likely not be deemed equivalent.
+
+If you are not from a country on that list, JKU’s admission office might decide that you need to prove your level by doing up to four supplementary exams (“Ergänzungsprüfung”) - they frequently needs to be done in Maths and Physics, but could also sometimes be in History. This is because when equivalence is determined and you have done your exams, this usually means you can later pursue *any* degree at JKU, not just CS or AI.
 
 You can find out more about them on this [JKU website](https://www.jku.at/en/degree-programs/students/supplementary-examinations-and-pre-study-program/supplementary-examinations-subject-areas/).
 
@@ -101,7 +103,7 @@ While doing the supplementary exams, you will be considered a non-degree-seeking
 
 en.q = "How do I get a Residence Permit if I need to do supplementary exams?"
 en.a = '''
-Starting with the Summer Semester 2024, your admission letter will sometimes ask you to do additional exams as part of a **Vorstudienlehrgang**. You can then take the preparatory courses for your required subjects in person in Linz and do the supplementary exam as part of the course.
+Your admission letter will sometimes ask you to do additional exams as part of a **Vorstudienlehrgang**. You can then take the preparatory courses for your required subjects in person in Linz and do the supplementary exam as part of the course.
 
 If you do not want to pay for courses and instead decide to prepare for them on your own, this is also an option (except for German, which always has to be taken as a course). Some exams can be taken online, others can only be taken in person. If you want to take the exam online, please contact the examiner for your subject (see the [JKU website](https://www.jku.at/en/degree-programs/students/supplementary-examinations-and-pre-study-program/supplementary-examinations-subject-areas/)) in writing and explain your situation. You will most likely still need to visit JKU in person to complete your registration to the pre-study program.
 
@@ -114,11 +116,11 @@ In both cases, your supplementary exams will award you ECTS. These ECTS count to
 
 en.q = "I need to complete a list of courses to be admitted?"
 en.a = '''
-If you apply for a Master's at the JKU and have done your Bachelor's study at a different university, or if you did your Bachelor's in a related field, the JKU frequently asks you to do some additional courses during your Master's to get the same background as JKU Bachelor alumni. These courses are usually from the Bachelor curriculum and depend on your background.
+If you apply for a Master's at JKU and have done your Bachelor's study at a different university, or if you did your Bachelor's in a related field, JKU frequently asks you to do some additional courses during your Master's to get the same background as JKU Bachelor alumni. These courses are usually from the Bachelor curriculum and depend on your background.
 
 If you are doing a Master in Computer Science, this can mean that you are asked to participate in courses from the German Informatik Bachelor. We have talked to the Study Committee about this issue and are still working on a way to resolve this, but for now, please contact your professors and kindly ask for English supplementary material / an English exam - usually, this should not be an issue. Please contact us (your student union) otherwise.
 
-Sometimes, you will be asked to complete courses within the first year of your studies. Especially if you are starting in the summer term, you might struggle to complete all of the required courses in that period, since some are only offered once per year and require knowledge you can only acquire in the winter semester. We are working with the study committee to reduce the courses you need to take, but until then, the examination office has told us that the legal one-year-requirement to complete the courses is generally not checked (i.e. you can take until the end of your study to complete them). We cannot guarantee that this system is going to stay like that forever, so we advise you to try and complete the courses as quickly as possible.
+Sometimes, you will be asked to **complete courses within the first year of your studies**. Especially if you are starting in the summer term, you might struggle to complete all of the required courses in that period, since some are only offered once per year and require knowledge you can only acquire in the winter semester. We are working with the study committee to reduce the courses you need to take, but until then, the examination office has told us that the legal one-year-requirement to complete the courses is generally not checked (i.e. you can take until the end of your study to complete them). We cannot guarantee that this system is going to stay like that forever, so we advise you to try and complete the courses as quickly as possible.
 '''
 
 [[questions]]
@@ -162,14 +164,14 @@ Fortunately, many Profs are lenient and may still allow you to join their course
 
 Generally, joining 1-2 weeks late will not be a big issue (but will entail writing several emails), everything longer than that will most likely result in missing out on some courses which will prolong your study duration.
 
-If you are studying a subject with distance learning offers (such as the AI Bachelor), we recommend contacting your Profs asap if you will realistically not be officially registered with the JKU by the start of the semester (but will be soon after): Some might offer you access to the course material and online lectures, allowing you to follow along.
+If you are studying a subject with distance learning offers (such as the AI Bachelor), we recommend contacting your Profs asap if you will realistically not be officially registered with JKU by the start of the semester (but will be soon after): Some might offer you access to the course material and online lectures, allowing you to follow along.
 '''
 
 [[questions]]
 
 en.q = "Are there German Language courses?"
 en.a = '''
-The JKU offers two kinds of German Language Courses: Courses as part of your Vorstudienlehrgang (pre-study-program), and so-called “Fast Track” courses.
+JKU offers two kinds of German Language Courses: Courses as part of your Vorstudienlehrgang (pre-study-program), and so-called “Fast Track” courses.
 You can find their offer [here](https://www.jku.at/en/center-for-business-languages-and-intercultural-communication/teaching/courses/german-as-a-foreign-language/), prices can be found [here](https://www.jku.at/en/center-for-business-languages-and-intercultural-communication/teaching/course-fees/).
 
 ### Vorstudienlehrgang
@@ -178,7 +180,7 @@ Courses as part of your pre-study program are quite intense ways of learning Ger
 
 ### Degree Courses
 
-All other courses (usually referred to as “Fast Track” on KUSSS) are less intense, and they also usually award fewer ECTS than the pre-study courses. Credits you earn here can be used as “Free Electives” in your main study. While courses do cost money, this money is refunded if you fulfil some requirements - for more information, check out the [page of the JKU](https://www.jku.at/en/zentrum-fuer-fachsprachen-und-interkulturelle-kommunikation/lehre/reimbursement-of-fees/).
+All other courses (usually referred to as “Fast Track” on KUSSS) are less intense, and they also usually award fewer ECTS than the pre-study courses. Credits you earn here can be used as “Free Electives” in your main study. While courses do cost money, this money is refunded if you fulfil some requirements - for more information, check out the [page of JKU](https://www.jku.at/en/zentrum-fuer-fachsprachen-und-interkulturelle-kommunikation/lehre/reimbursement-of-fees/).
 
 ### Offers by ÖH JKU
 
@@ -217,5 +219,5 @@ While not all of these factors are the same for students at JKU, this should giv
 
 en.q = "How do I get a visa and insurance? Can I work in Austria?"
 en.a = '''
-The JKU has a [detailed guide](https://www.jku.at/en/degree-programs/international-students/international-students/organizational-matters-for-international-students/) for all organisational matters for international students about travelling to and living in Linz. The International Welcome Center also gives a lot more information in their Facebook [FAQ](https://www.facebook.com/groups/447118703087585/learning_content)!
+JKU has a [detailed guide](https://www.jku.at/en/degree-programs/international-students/international-students/organizational-matters-for-international-students/) for all organisational matters for international students about travelling to and living in Linz. The International Welcome Center also gives a lot more information in their Facebook [FAQ](https://www.facebook.com/groups/447118703087585/learning_content)!
 '''
