@@ -105,8 +105,8 @@ en.q = "How do I prepare for the supplementary exams?"
 en.a = '''
 There are exam questions from previous years on our [Discord Server](https://discord.com/invite/wAek576) under the following channels:
 - `#supplementary-exam-history`
-- supplementary-exam-math
-- supplementary-exam-physics
+- `#supplementary-exam-math`
+- `#supplementary-exam-physics`
 
 Be aware that you need to bring a (scientific) calculator and a formula sheet to the supplementary exams!
 '''
