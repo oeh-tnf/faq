@@ -101,6 +101,19 @@ While doing the supplementary exams, you will be considered a non-degree-seeking
 
 [[questions]]
 
+en.q = "How do I prepare for the supplementary exams?"
+en.a = '''
+There are exam questions from previous years on our [Discord Server](https://discord.com/invite/wAek576) under the following channels:
+- `#supplementary-exam-history`
+- `#supplementary-exam-math`
+- `#supplementary-exam-physics`
+
+Be aware that you need to bring a (scientific) calculator and a formula sheet to the supplementary exams!
+'''
+
+
+[[questions]]
+
 en.q = "How do I get a Residence Permit if I need to do supplementary exams?"
 en.a = '''
 Your admission letter will sometimes ask you to do additional exams as part of a **Vorstudienlehrgang**. You can then take the preparatory courses for your required subjects in person in Linz and do the supplementary exam as part of the course.
