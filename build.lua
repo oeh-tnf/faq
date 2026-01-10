@@ -33,6 +33,10 @@ function renderMarkup (markdown)
     return pandoc.write(pandoc.read(markdown), "html")
 end
 
+function renderText (markdown)
+    return pandoc.write(pandoc.read(markdown), "plain")
+end
+
 function escapeText (text)
     text = string.gsub(text, "<", "&lt;")
     text = string.gsub(text, "&", "&amp;")
@@ -89,10 +93,16 @@ end
 for _,faq in pairs(faqs) do
     if faq.de then
         faq.de.title = escapeText(faq.de.title)
+        if not faq.de.description then
+            faq.de.description = renderText(string.gmatch(faq.de.intro, "[^\n]+")())
+        end
         faq.de.intro = renderMarkup(faq.de.intro)
     end
     if faq.en then
         faq.en.title = escapeText(faq.en.title)
+        if not faq.en.description then
+            faq.en.description = string.gmatch(faq.en.intro, "[^\n]+")()
+        end
         faq.en.intro = renderMarkup(faq.en.intro)
     end
     processQuestions(faq.questions)
