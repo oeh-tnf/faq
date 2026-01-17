@@ -698,9 +698,11 @@ Negative grades will not show up on your final diploma.
 de.q = "Wie viele Antritte habe ich bei LVAs?"
 de.a = '''
 Negativ beurteilte Prüfungen der [Studieneingangs- und Orientierungsphase (StEOP)](#was-ist-die-steop-wie-funktioniert-sie) dürfen während der StEOP nur dreimal wiederholt werden (= vier Antritte). Alle anderen negativ beurteilten Prüfungen können viermal wiederholt werden (= fünf Antritte) - das ist eine Sonderregel der JKU, vgl. _§ 53 Abs. 2 Satzung_.
-Es zählen alle Prüfungsantritte für dasselbe Prüfungsfach in allen facheinschlägigen Studien an derselben Universität.
+Es zählen alle Prüfungsantritte für dasselbe Prüfungsfach in allen Studien an derselben Universität.
 
-Ab der dritten Wiederholung einer Klausur ist diese “kommissionell” abzuhalten - siehe “[Was ist eine kommissionelle Prüfung?](#was-ist-eine-kommissionelle-pruefung)” für mehr Infos.
+Prüfungen unterscheiden sich nach [Lehrveranstaltungstyp](#was-heisst-vo-ue-etc-bei-lvas). Bei einer Vorlesung zählt dabei jeder besuchte Klausurtermin als Antritt, bei Übungen gibt es nur einen kontinuierlichen Antritt pro Semester, der sich aus Übungszetteln, Tests und Co. zusammensetzt: Werden also etwa bei Übungen mehrere Übungstests angeboten, handelt es sich trotzdem nur um einen gemeinsamen Antritt. Kurse werden in der Regel wie Übungen behandelt. Pro Antritt bekommst du eine Note im KUSSS.
+
+Ab der dritten Wiederholung einer Vorlesungsklausur ist diese “kommissionell” abzuhalten - siehe “[Was ist eine kommissionelle Prüfung?](#was-ist-eine-kommissionelle-pruefung)” für mehr Infos.
 
 Die letzte Prüfung eines Studienabschnitts darf ein weiteres Mal wiederholt werden (_§ 77 Abs. 2 UG_).
 '''
@@ -711,7 +713,9 @@ Students may repeat failed examinations taken for the [StEOP](#what-is-the-steop
 For all other examinations, students may re-sit them up to four times (= five attempts) - this is a special rule of JKU, see _§ 53 Abs. 2 Satzung_.
 All examination attempts in the same subject, for all studies at the same university count.
 
-After repeating an examination for the third time, the examination will then be conducted by a committee - see [What is an examination by committee (“Kommissionelle Prüfung”)?](#what-is-an-examination-by-committee-kommissionelle-prufung) for more.
+Exam modes differ by [course type](#what-does-vo-ue-etc-mean-for-courses). For a Lecture, each exam date you take part in counts as an attempt. For Excercises, you only have one continuous attempt consisting of exercise sheets, tests etc.: If you take multiple tests, all of them are still part of the same single attempt. Combined Courses are usually treated like Execises. Each attempt will result in a grade on KUSSS.
+
+Your fourth and all following attempts at a Lecture examination must be conducted by a committee - see [What is an examination by committee (“Kommissionelle Prüfung”)?](#what-is-an-examination-by-committee-kommissionelle-prufung) for more.
 
 The last exam of a degree can be repeated one more time (see _§ 77 Abs. 2 UG_).
 '''
