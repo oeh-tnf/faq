@@ -6,7 +6,7 @@
 
 ## Build Requirements
 
-* [Pandoc](https://pandoc.org/)
+* [Pandoc](https://pandoc.org/) >= 3.0
 * [yj](https://github.com/sclevine/yj)
 
 ## How do I contribute?

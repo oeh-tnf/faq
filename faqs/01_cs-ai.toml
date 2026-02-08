@@ -1310,22 +1310,39 @@ en.a = '''
 
 de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
 de.a = '''
-Du musst mindestens einmal nach Linz kommen um dich zum Studium anzumelden. Ein paar Kurse bzw. Prüfungen erfordern Anwesenheit. Diese kannst du aber nicht nur in Linz, sondern auch Wien oder Bregenz absolvieren. Für Kurse gibt es auch immer mindestens eine Gruppe, die virtuell stattfindet.
+Du musst mindestens einmal in Linz persönlich erscheinen, konkret zu Beginn wenn du dich in den Studiengang inskribierst.
 
-Alle Kurse finden in Linz statt, werden aber in Wien und Bregenz live gestreamt und oder werden aufgezeichnet.
+Immer wenn eine Anwesenheitspflicht in Pflichtkursen besteht, z.B. in Übungen, sollte es mindestens eine Gruppe geben, welche die Online-Teilnahme ermöglicht. Für Klausuren erfordern viele Kurse physische Anwesenheit. Aktuell (2026) gibt es das Bestreben wieder mehr Klausuren physisch vor Ort abzuhalten, die Menge der Termine zu denen du persönlich erscheinen musst.
+**Klausuren können jederzeit während und nicht nur am Ende des Semesters stattfinden (z.B. Midterm exams)!**
 
-Weitere Infos findest du [hier](https://www.jku.at/zentrum-fuer-fernstudien/fernstudium-jku/artificial-intelligence/).
+Alle Klausuren von Pflichtkursen können in Linz, Bregenz oder Wien belegt werden.
+Bitte beachte, dass die Raumkapazität in Wien begrenzt ist und registriere dich rechtzeitig für deine Klausuren!
+
+Für die [Area of Specialization](#was-ist-area-of-specialization) und [Freien Studienleistungen](#was-sind-freie-studienleistungen) gilt das nicht, da diese Kurse aus anderen Curricula stammen
+und sich nicht notwendigerweise an die Konventionen aus dem AI-Studium halten.
+
 '''
 
-en.q = "I am not from Linz, how often do I have to be on-site for the AI Bachelor?"
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
 en.a = '''
-You have to be in Linz once, namely when you officially enrol in the degree program.
+You have to be in Linz at least once, namely when you officially enrol in the degree program.
 
-Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
+Whenever regular presence is required in mandatory courses, e.g. in exercises, there should be at least one group that
+allows virtual presence. For final exams, many courses will require on-site and in-person attendance.
+Currently (2026) there is an ongoing effort to conduct more exams in-person again, so the amount of on-site exams is likely going to increase in the future.
+**Exams can take place at any time during the semester (i.e., midterm exams), not only at the end of it!**
 
-All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+All mandatory course examinations can be taken in Linz, Bregenz, or Vienna.
+Please note that the examination rooms in Vienna have limited capacity, make sure to register for your exams early enough!
+
+For [Area of Specialization](#what-is-an-area-of-specialization) and [Free Electives](#what-are-free-electives), this is not necessarily the case because these courses originate
+from other study programmes and thus are not bound by the conventions in the AI programme.
+
+Almost all courses take place in Linz and will be live-streamed and/or recorded and made available for you.
 For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
+
+
 
 [[sections.subsections.questions]]
 
@@ -1634,6 +1651,42 @@ If you do not have a Bachelor's degree in the above-mentioned subjects, you can 
 
 [[sections.subsections.questions]]
 
+de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
+de.a = '''
+Du musst mindestens einmal in Linz persönlich erscheinen, konkret zu Beginn wenn du dich in den Studiengang inskribierst.
+
+Immer wenn eine Anwesenheitspflicht in Pflichtkursen besteht, z.B. in Übungen, sollte es mindestens eine Gruppe geben, welche die Online-Teilnahme ermöglicht. Für Klausuren erfordern viele Kurse physische Anwesenheit. Aktuell (2026) gibt es das Bestreben wieder mehr Klausuren physisch vor Ort abzuhalten, die Menge der Termine zu denen du persönlich erscheinen musst.
+**Klausuren können jederzeit während und nicht nur am Ende des Semesters stattfinden (z.B. Midterm exams)!**
+
+Alle Klausuren von Pflichtkursen können in Linz, Bregenz oder Wien belegt werden.
+Bitte beachte, dass die Raumkapazität in Wien begrenzt ist und registriere dich rechtzeitig für deine Klausuren!
+
+Für die [Area of Specialization](#was-ist-area-of-specialization) und [Freien Studienleistungen](#was-sind-freie-studienleistungen) gilt das nicht, da diese Kurse aus anderen Curricula stammen
+und sich nicht notwendigerweise an die Konventionen aus dem AI-Studium halten.
+
+'''
+
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
+en.a = '''
+You have to be in Linz at least once, namely when you officially enrol in the degree program.
+
+Whenever regular presence is required in mandatory courses, e.g. in exercises, there should be at least one group that allows virtual presence. For final exams, many courses will require on-site and in-person attendance.
+Currently (2026) there is an ongoing effort to conduct more exams in-person again, so the amount of on-site exams is likely going to increase in the future.
+**Exams can take place at any time during the semester (i.e., midterm exams), not only at the end of it!**
+
+All mandatory course examinations can be taken in Linz, Bregenz, or Vienna.
+Please note that the examination rooms in Vienna have limited capacity, make sure to register for your exams early enough!
+
+For [Area of Specialization](#what-is-an-area-of-specialization) and [Free Electives](#what-are-free-electives), this is not necessarily the case because these courses originate
+from other study programmes and thus are not bound by the conventions in the AI programme.
+
+Almost all courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
+'''
+
+
+[[sections.subsections.questions]]
+
 de.q = "Wen kann ich kontaktieren, wenn ich Kurse für Area of Specialization gezählt haben möchte, die aber nicht explizit in dieser Kategorie gelistet sind?"
 de.a = '''
 Bitte schreibe eine E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) und teile ihnen dein Anliegen mit.
@@ -1646,6 +1699,103 @@ Please write an e-mail to [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) an
 
 [[sections.subsections.questions]]
 
+de.q = "Ich habe den AI Master vor 2025 begonnen, was bedeuten die Curriculums-Änderungen für mich?"
+de.a = '''
+Ab dem Wintersemester 2025 wurden abhängig von deinem Elective Track neue Pflichtlehrveranstaltungen ins Curriculum aufgenommen, während andere Lehrveranstaltungen entfernt, in den ECTS reduziert oder die Area of Specialization verkleinert wurde.
+
+Konkret gab es folgende Änderungen:
+
+- Alle Tracks: VL+UE Deep Learning Geometric Techniques wurde als Pflichtfach hinzugefügt
+- Alle Tracks: AI and Law 2 wurde aus den Pflichtfächern entfernt und in die Area of Specialization verschoben
+- Alle Tracks: Master's thesis seminar wurde von 3 ECTS auf 1.5 ECTS reduziert
+- Life Science track: VL+UE Deep Learning for Medical Imaging wurde als elective track Fach hinzugefügt
+- (Track-spezifisch): Area of Specialization wurde reduziert
+
+Wenn du noch im alten Curriculum gestartet bist, musst du diese neuen Lehrveranstaltungen normalerweise nicht absolvieren, um dein Studium abzuschließen. Laut den Übergangsbestimmungen im Curriculum, konkret §11 Abs. (6), kannst du überschüssige Noten aus der Area of Specialization verwenden, um die neuen Lehrveranstaltungen abzudecken.
+
+**Damit das funktioniert, müssen die betreffenden Lehrveranstaltungen vor Oktober 2026 abgeschlossen worden sein.**
+Falls du diese Prüfungen nicht vor diesem Zeitpunkt abgelegt hast, musst du die neuen Pflichtlehrveranstaltungen absolvieren.
+
+_Beispiel 1_: Du hast AI & Law 2 sowie das alte Master's Thesis Seminar im Umfang von 3 ECTS abgeschlossen.
+
+- Du kannst dann 1.5 ECTS aus AI & Law 2 und die 1.5 „überschüssigen“ ECTS aus deinem Seminar für die VL von Deep Learning Geometric Techniques anrechnen lassen.
+- Für die UE kannst du überschüssige ECTS aus der Area of Specialization verwenden, die reduziert wurde.
+
+_Beispiel 2_: Du befindest dich in der Situation aus Beispiel 1 und studierst im Life Sciences Track.
+
+- Du hast die alte Area of Specialization im Umfang von insgesamt 12 ECTS abgeschlossen und bereits 1.5 ECTS verwendet, um wie in Beispiel 1 die UE von Deep Learning Geometric Techniques abzudecken.
+- Jetzt hast du noch 4.5 ECTS Überschuss in deiner Area of Specialization, die du für VL+UE Deep Learning for Medical Imaging verwenden kannst.
+
+Da diese Bestimmungen teilweise noch interpretationsbedürftig sind, solltest du sicherheitshalber vorher [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) kontaktieren, um zu bestätigen, dass deine individuelle Situation und dein Plan so akzeptiert werden.
+'''
+
+en.q = "I started the AI Master before 2025, what do the curricula changes mean for me?"
+en.a = '''
+Starting with winter semester 2025, depending on your elective subject, new mandatory courses were added to the curriculum, while other courses were removed, reducted in ECTS or the Area of Specialization was reduced.
+
+Specifically, the following changes took place:
+
+- All tracks: added VL+UE Deep Learning Geometric Techniques as mandatory subject
+- All tracks: removed AI and Law 2 from mandatory subjects and moved to Area of Specialization
+- All tracks: reduced Master's thesis seminar from 3 ECTS to 1.5 ECTS
+- Life Science track: added VL+UE Deep Learning for Medical Imaging as elective track subject
+- (track-specific): Area of Specialization reduced
+
+If you started in the previous curriculum, normally you don't have to comlete these new courses in order to finish your studies. According to the transitional provisions in the curriculum, namely, §11 Abs. (6), you can use leftover grades from the area of specialization to count for the new courses instead.
+
+**The courses in questions MUST have been completed before October 2026 for this to work.** If you have not taken these
+examinations earlier than that, you must take the new mandatory courses.
+
+_Example 1_: You have completed AI & Law 2 and the old Master's thesis seminar worth 3 ECTS.
+
+- You can use the 1.5 ECTS from AI & Law 2 and the 1.5 "excess" ECTS from your seminar for the VL of Geometric Techniques.
+- For the UE, you can use excess ECTS from the area of specialization that was reduced from the previous size.
+
+_Example 2_: You are in the situation of example 1, and are taking the Life Sciences track.
+
+- You have completed the old area of specialization totaling 12 ECTS and have followed example 1 and thus have already used 1.5 ECTS for covering the UE in Geometric Techniques
+- Now, you have 4.5 ECTS excess in your area of specialization left that you can use for covering VL+UE Deep Learning for Medical Imaging.
+
+As these provisions are still a bit up for interpretation, make sure to contact [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) beforehand to confirm that your individual situation and plan checks out.
+'''
+
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe den AI Master im Robotics-Track begonnen, der 2025 abgeschafft wurde. Was bedeutet das für mich?"
+de.a = '''
+Offiziell wirst du den Masterabschluss mit einem anderen Elective Track abschließen. Für dich gelten dieselben Kriterien wie in der Frage oben. Du kannst die Lehrveranstaltungen aus deinem alten Track, die du bereits absolviert hast, einfach für einen der anderen Tracks verwenden. Es wird empfohlen, dich am "AI and Simulations" track zu orientieren, weil dort die ECTS am besten übereinstimmen.
+
+**Damit das funktioniert, müssen die betreffenden Lehrveranstaltungen vor Oktober 2026 abgeschlossen worden sein.** Wenn du den alten Track nicht vollständig absolviert hast, musst du (je nach Fortschritt teilweise oder vollständig) auf einen anderen Track wechseln.
+
+_Beispiel_: Du hast alle 18 ECTS deines alten Tracks abgeschlossen, außerdem AI & Law 2 und das alte Master's Thesis seminar im Umfang von 3 ECTS.
+
+- Du kannst AI & Law 2 + 1.5 überschüssige ECTS aus deinem Seminar für die VL Deep Learning Geometric Techniques verwenden.
+- Du kannst 15 von deinen 18 ECTS aus dem elective Track verwenden, um den neuen elective track abzudecken.
+- Du kannst 1.5 ECTS aus deinem Track verwenden, um die UE Deep Learning Geometric Techniques abzudecken.
+- Du kannst 1.5 ECTS aus deinem Track verwenden, um deine Area of Specialization von 9 ECTS auf 10.5 ECTS aufzufüllen.
+
+Da diese Bestimmungen teilweise noch interpretationsbedürftig sind, solltest du sicherheitshalber vorher [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) kontaktieren, um zu bestätigen, dass deine individuelle Situation und dein Plan so akzeptiert werden.
+'''
+
+en.q = "I started the AI Master in the Robotics track that was abolished in 2025. What does that mean for me?"
+en.a = '''
+Officially, you will finish the Master with a different elective track. The same criteria of the question above apply to you. You can simply use the courses you completed for any of the other tracks. It is recommended to aim for the "AI and Simulations" track, because the ECTS align the best there.
+
+**The courses in questions MUST have been completed before October 2026 for this to work.** If you haven't fully completed the old track, you must (partially or fully, depending on progress) switch over to a different track.
+
+_Example_: You have completed all 18 ECTS of your old track, AI & Law 2 and the old Master's thesis seminar worth 3 ECTS.
+
+- You can use AI & Law 2 + 1.5 excess ECTS from your seminar for VL Geometric Techniques.
+- You can use 15 of your 18 ECTS from the elective track to cover the new elective track.
+- You can use 1.5 ECTS from your track to cover UE Deep Learning Geometric Techniques.
+- You can use 1.5 ECTS from your track to fill up your area of specialization from 9 ECTS to 10.5 ECTS
+
+As these provisions are still a bit up for interpretation, make sure to contact [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) beforehand to confirm that your individual situation and plan checks out.
+'''
+
+[[sections.subsections.questions]]
+
 de.q = "Wie funktioniert das mit den Prüfer*innen bei der Masterprüfung? Müssen sie mich unterrichtet haben?"
 de.a = '''
 Im Rahmen der Masterprüfung musst du drei Mitglieder für die Kommission vorschlagen. (Bitte Frage deine gewünschten Mitglieder im Vorhinein.) Das erste Mitglied darf nicht deine Masterarbeit betreuen und übernimmt den Vorsitz. Die zweite Person wird dich über den Bereich “Machine Learning and Perception” prüfen und die dritte Person über deinen Elective Track.
@@ -1654,24 +1804,6 @@ Im Rahmen der Masterprüfung musst du drei Mitglieder für die Kommission vorsch
 en.q = "How does it work with the examiners for the Master's examination?"
 en.a = '''
 As part of the oral examination, the student will be asked to create a 3-member examination committee consisting of a committee head (member 1) and two additional members (members 2 and 3). The first committee member may not be a thesis supervisor and will preside over the oral defence. The second committee member will examine the subject area of “Machine Learning and Perception”. The third committee member will examine the selected elective track. The thesis supervisor should also be a member of the committee. Whereas two committee members may be from the same institute, all of the committee members should not be from the same institute.
-'''
-
-[[sections.subsections.questions]]
-
-# TODO: translate to German or delete
-de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
-de.a = '''
-Diese Frage wurde noch nicht übersetzt.
-'''
-
-en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
-en.a = '''
-You have to be in Linz once, namely when you officially enrol in the degree program.
-
-Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
-
-All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
-For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
 
 [[sections.subsections]]
