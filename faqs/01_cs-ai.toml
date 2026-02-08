@@ -1310,22 +1310,39 @@ en.a = '''
 
 de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
 de.a = '''
-Du musst mindestens einmal nach Linz kommen um dich zum Studium anzumelden. Ein paar Kurse bzw. Prüfungen erfordern Anwesenheit. Diese kannst du aber nicht nur in Linz, sondern auch Wien oder Bregenz absolvieren. Für Kurse gibt es auch immer mindestens eine Gruppe, die virtuell stattfindet.
+Du musst mindestens einmal in Linz persönlich erscheinen, konkret zu Beginn wenn du dich in den Studiengang inskribierst.
 
-Alle Kurse finden in Linz statt, werden aber in Wien und Bregenz live gestreamt und oder werden aufgezeichnet.
+Immer wenn eine Anwesenheitspflicht in Pflichtkursen besteht, z.B. in Übungen, sollte es mindestens eine Gruppe geben, welche die Online-Teilnahme ermöglicht. Für Klausuren erfordern viele Kurse physische Anwesenheit. Aktuell (2026) gibt es das Bestreben wieder mehr Klausuren physisch vor Ort abzuhalten, die Menge der Termine zu denen du persönlich erscheinen musst.
+**Klausuren können jederzeit während und nicht nur am Ende des Semesters stattfinden (z.B. Midterm exams)!**
 
-Weitere Infos findest du [hier](https://www.jku.at/zentrum-fuer-fernstudien/fernstudium-jku/artificial-intelligence/).
+Alle Klausuren von Pflichtkursen können in Linz, Bregenz oder Wien belegt werden.
+Bitte beachte, dass die Raumkapazität in Wien begrenzt ist und registriere dich rechtzeitig für deine Klausuren!
+
+Für die [Area of Specialization](#was-ist-area-of-specialization) und [Freien Studienleistungen](#was-sind-freie-studienleistungen) gilt das nicht, da diese Kurse aus anderen Curricula stammen
+und sich nicht notwendigerweise an die Konventionen aus dem AI-Studium halten.
+
 '''
 
-en.q = "I am not from Linz, how often do I have to be on-site for the AI Bachelor?"
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
 en.a = '''
-You have to be in Linz once, namely when you officially enrol in the degree program.
+You have to be in Linz at least once, namely when you officially enrol in the degree program.
 
-Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
+Whenever regular presence is required in mandatory courses, e.g. in exercises, there should be at least one group that
+allows virtual presence. For final exams, many courses will require on-site and in-person attendance.
+Currently (2026) there is an ongoing effort to conduct more exams in-person again, so the amount of on-site exams is likely going to increase in the future.
+**Exams can take place at any time during the semester (i.e., midterm exams), not only at the end of it!**
 
-All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+All mandatory course examinations can be taken in Linz, Bregenz, or Vienna.
+Please note that the examination rooms in Vienna have limited capacity, make sure to register for your exams early enough!
+
+For [Area of Specialization](#what-is-an-area-of-specialization) and [Free Electives](#what-are-free-electives), this is not necessarily the case because these courses originate
+from other study programmes and thus are not bound by the conventions in the AI programme.
+
+Almost all courses take place in Linz and will be live-streamed and/or recorded and made available for you.
 For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
+
+
 
 [[sections.subsections.questions]]
 
@@ -1634,6 +1651,42 @@ If you do not have a Bachelor's degree in the above-mentioned subjects, you can 
 
 [[sections.subsections.questions]]
 
+de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
+de.a = '''
+Du musst mindestens einmal in Linz persönlich erscheinen, konkret zu Beginn wenn du dich in den Studiengang inskribierst.
+
+Immer wenn eine Anwesenheitspflicht in Pflichtkursen besteht, z.B. in Übungen, sollte es mindestens eine Gruppe geben, welche die Online-Teilnahme ermöglicht. Für Klausuren erfordern viele Kurse physische Anwesenheit. Aktuell (2026) gibt es das Bestreben wieder mehr Klausuren physisch vor Ort abzuhalten, die Menge der Termine zu denen du persönlich erscheinen musst.
+**Klausuren können jederzeit während und nicht nur am Ende des Semesters stattfinden (z.B. Midterm exams)!**
+
+Alle Klausuren von Pflichtkursen können in Linz, Bregenz oder Wien belegt werden.
+Bitte beachte, dass die Raumkapazität in Wien begrenzt ist und registriere dich rechtzeitig für deine Klausuren!
+
+Für die [Area of Specialization](#was-ist-area-of-specialization) und [Freien Studienleistungen](#was-sind-freie-studienleistungen) gilt das nicht, da diese Kurse aus anderen Curricula stammen
+und sich nicht notwendigerweise an die Konventionen aus dem AI-Studium halten.
+
+'''
+
+en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
+en.a = '''
+You have to be in Linz at least once, namely when you officially enrol in the degree program.
+
+Whenever regular presence is required in mandatory courses, e.g. in exercises, there should be at least one group that allows virtual presence. For final exams, many courses will require on-site and in-person attendance.
+Currently (2026) there is an ongoing effort to conduct more exams in-person again, so the amount of on-site exams is likely going to increase in the future.
+**Exams can take place at any time during the semester (i.e., midterm exams), not only at the end of it!**
+
+All mandatory course examinations can be taken in Linz, Bregenz, or Vienna.
+Please note that the examination rooms in Vienna have limited capacity, make sure to register for your exams early enough!
+
+For [Area of Specialization](#what-is-an-area-of-specialization) and [Free Electives](#what-are-free-electives), this is not necessarily the case because these courses originate
+from other study programmes and thus are not bound by the conventions in the AI programme.
+
+Almost all courses take place in Linz and will be live-streamed and/or recorded and made available for you.
+For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
+'''
+
+
+[[sections.subsections.questions]]
+
 de.q = "Wen kann ich kontaktieren, wenn ich Kurse für Area of Specialization gezählt haben möchte, die aber nicht explizit in dieser Kategorie gelistet sind?"
 de.a = '''
 Bitte schreibe eine E-Mail an [office@ai-lab.jku.at](mailto:office@ai-lab.jku.at) und teile ihnen dein Anliegen mit.
@@ -1654,24 +1707,6 @@ Im Rahmen der Masterprüfung musst du drei Mitglieder für die Kommission vorsch
 en.q = "How does it work with the examiners for the Master's examination?"
 en.a = '''
 As part of the oral examination, the student will be asked to create a 3-member examination committee consisting of a committee head (member 1) and two additional members (members 2 and 3). The first committee member may not be a thesis supervisor and will preside over the oral defence. The second committee member will examine the subject area of “Machine Learning and Perception”. The third committee member will examine the selected elective track. The thesis supervisor should also be a member of the committee. Whereas two committee members may be from the same institute, all of the committee members should not be from the same institute.
-'''
-
-[[sections.subsections.questions]]
-
-# TODO: translate to German or delete
-de.q = "Ich komme nicht aus Linz, wie oft muss ich für den AI Bachelor vor Ort sein?"
-de.a = '''
-Diese Frage wurde noch nicht übersetzt.
-'''
-
-en.q = "I am not from Linz, how often do I have to be on-site for the AI Master?"
-en.a = '''
-You have to be in Linz once, namely when you officially enrol in the degree program.
-
-Whenever presence is mandatory, e.g. in exercises, there should be at least one group that allows virtual presence. Some courses will require on-site and in-person attendance, either in Linz, Bregenz, or Vienna for examinations for example.
-
-All courses take place in Linz and will be live-streamed and/or recorded and made available for you.
-For further information, take a look [here](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/program-details/).
 '''
 
 [[sections.subsections]]
