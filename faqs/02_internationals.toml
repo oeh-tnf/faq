@@ -2,6 +2,7 @@ logo.src = "informatik_ai.png"
 logo.href = "https://oeh.jku.at/cs/"
 
 en.title = "FAQ: Internationals"
+en.banner = "faqs_internationals.webp"
 
 en.intro = '''
 This document should serve as a collection of **Frequently Asked Questions by Internationals** studying (or planning to start studying) Computer Science or AI.
