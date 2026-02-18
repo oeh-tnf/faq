@@ -752,6 +752,8 @@ de.q = "Darf ich eine LVA wiederholen, die ich geschafft habe?"
 de.a = '''
 Positiv bewertete LVAs können unabhängig von der LVA-Art **einmal** wiederholt werden, und die Wiederholung muss innerhalb von einem Jahr passieren. Die neue Note muss also mit einem Datum innerhalb von 12 Monaten nach der alten eingetragen werden.
 
+Wenn eine Übung nicht jedes Semester angeboten wird, dann wird diese Frist bis zur nächsten Abhaltung der Übung verlängert. (_§ 14 Abs. 3 Satzung_)
+
 Wenn du eine positiv bewertete LVA wiederholst, wird der ursprüngliche Antritt automatisch nichtig und damit vollständig von deinem Zeugnis entfernt: Wenn deine Wiederholung negativ ausfällt, musst du den Kurs also so lange wiederholen, bis du ihn erneut positiv abschließt. Der ursprüngliche positive Antritt zählt dabei nicht zu deiner Anzahl an Prüfungsantritten. Vgl. _§ 77 Abs. 1 UG_.
 
 Es empfiehlt sich, vorab Kontakt zu deinen Profs aufzunehmen und ihnen deine Situation zu schildern, manchmal finden sich alternative Lösungen.
@@ -760,6 +762,8 @@ Es empfiehlt sich, vorab Kontakt zu deinen Profs aufzunehmen und ihnen deine Sit
 en.q = "Can I retake a course I passed?"
 en.a = '''
 Positively graded courses of all course types can be repeated once, and the retake has to happen within one year. In other words, the grade of the retake has to be submitted with a date within 12 months of the original.
+
+If an exercises course (UE) is not available every semester, then this deadline is extended to the next time that exercise course is available. (_§ 14 Abs. 3 Satzung_)
 
 Retaking a positively graded course will automatically void the previous attempt, meaning that it is completely removed from the records: If you fail the retake, you will have to redo it until you pass. The voided positive attempt does not count towards your number of taken attempts. See _§ 77 Abs. 1 UG_.
 
