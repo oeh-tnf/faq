@@ -1605,14 +1605,14 @@ de.q = "Was für Fristen und Termine gibt es vor der Masterprüfung?"
 de.a = '''
 Die Masterarbeit kann das gesamte Jahr über abgegeben werden. Zwischen der Abgabe der Arbeit und der abschließenden Masterprüfung müssen mindestens vier Wochen liegen.
 
-Eine genauere Übersicht findest du [hier](https://informatik.jku.at/teaching/master/process_thesis.pdf).
+Eine genauere Übersicht findest du im [CS Master Studienleitfaden](https://oeh.jku.at/cs/guide).
 '''
 
 en.q = "What are the deadlines and dates before the Master's examination?"
 en.a = '''
 The Master's thesis can be submitted throughout the year. There must be at least four weeks between the submission of the thesis and the final Master's examination.
 
-You can find a more detailed overview [here](https://informatik.jku.at/teaching/master/process_thesis.pdf).
+You can find a more detailed overview in the [CS Master Study Guide](https://oeh.jku.at/cs/guide).
 '''
 
 [[sections.subsections.questions]]
@@ -1876,7 +1876,7 @@ Hier gibt es einige weitere Ressourcen, die dir vielleicht helfen:
 * [Allgemeines Computer Science Master](https://informatik.jku.at/teaching/master/)
 * [Current Information for the CS Master](https://informatik.jku.at/teaching/)
 * [The final steps to earn your Master’s Degree in Computer Science](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
-* [Master's Thesis Process](https://informatik.jku.at/teaching/master/process_thesis.pdf)
+* [CS Master Studienleitfaden](https://oeh.jku.at/cs/guide)
 '''
 
 en.q = "Helpful documents and links about completing your degree"
@@ -1891,7 +1891,7 @@ Here are some other useful resources that might help:
 * [General Information about Computer Science Master](https://informatik.jku.at/teaching/master/)
 * [Current Information for the CS Master](https://informatik.jku.at/teaching/)
 * [The final steps to earn your Master’s Degree in Computer Science](https://informatik.jku.at/teaching/master/how-to-computer-science-master.pdf)
-* [Master's Thesis Process](https://informatik.jku.at/teaching/master/process_thesis.pdf)
+* [CS Master Study Guide](https://oeh.jku.at/cs/guide)
 '''
 
 [[sections.subsections.questions]]
