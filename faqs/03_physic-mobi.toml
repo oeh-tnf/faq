@@ -1,0 +1,610 @@
+logo.src = "physic-logo.png"
+logo.href = "https://oeh.jku.at/studium/technik-und-naturwissenschaften/physik-mobi"
+
+de.title = "FAQ: Physik Studium"
+en.title = "FAQ: Physics Study"
+
+de.intro = '''
+Als Studienvertretungen für Physik und MoBi erhalten wir oft Fragen zu unseren Studien. Dieses FAQ soll dabei helfen, die meisten davon zu beantworten. Für Fragen spezifisch von internationalen Studierende gibt es [hier](../../internationals/en/) ein eigenes FAQ.
+
+Für eine aufbereitete Sammlung von wichtigen Informationen zum Studienstart empfiehlt sich auch ein Blick in unsere **Leitfäden**. Du findest den Leitfaden für Physik [hier](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_Physik.pdf) und den Leitfaden für MoBi [hier](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_MoBi.pdf)!
+
+Wenn du weitere **Fragen oder Feedback** hast, kannst du dich jederzeit an uns wenden. Entweder per Mail ([physik@oeh.jku.at](mailto:physik@oeh.jku.at) und [mobi@oeh.jku.at](mailto:mobi@oeh.jku.at)), oder via Discord. Falls du noch nicht auf unserem Discord Server für Physik & MoBi bist, tritt über diesen Link bei: <https://discord.gg/EQ2n3kR42v>.
+Wir haben uns bei der Ausarbeitung dieses FAQs große Mühe gegeben, es können sich aber natürlich Fehler eingeschlichen haben. Bitte melde dich bei uns, solltest du welche finden, und behandle das FAQ als Erstauskunft - wende dich bei komplexeren Problemen direkt an uns.
+
+Wir referenzieren im FAQ manchmal auch bestehende **Gesetze**, damit du dich selbst weiter informieren kannst. Die Deutung von Gesetzestexten ist aber nicht immer ganz einfach, hol dir also gerne Unterstützung von uns. Wir verwenden primär die folgenden beiden Quellen und ihre gängigen Abkürzungen:
+[Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) und [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
+'''
+en.intro = '''
+As student representatives for Physics and MoBi, we frequently receive questions about our studies. This FAQ should help answer most of them. Questions specific to International Students are answered in a separate FAQ [here](../../internationals/en/).
+
+We have also created a more in-depth study guide that should help you with the start of your study. You can find the guide for Physics [here](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_Physik.pdf) and the one for MoBi [here](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_MoBi.pdf)!
+
+If you have any further **questions or feedback**, do not hesitate to contact us. Either via email ([physik@oeh.jku.at](mailto:physik@oeh.jku.at) and [mobi@oeh.jku.at](mailto:mobi@oeh.jku.at)) or via Discord. If you are not yet on our Discord server for Physics & MoBi, join by following this link: <https://discord.gg/EQ2n3kR42v>.
+We have taken great care in creating this FAQ, but of course, errors may occur. Please contact us if you find any, and treat the FAQ as initial information - contact us directly for solutions to more complex problems.
+
+Finally, we will sometimes provide **law references** to aid you in finding further information yourself. Law texts are usually in German and a bit hard to interpret, however, so feel free to ask for assistance. We will mostly refer to two texts of law and will use the common shorthand abbreviation when doing so:
+[Universitätsgesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (“UG”) and [Satzung JKU, Teil Studienrecht](https://www.jku.at/rechtsabteilung/mtb-satzung-co/) (“Satzung”).
+'''
+
+[[sections]]
+
+de.title = "Allgemein"
+en.title = "General"
+
+[[sections.subsections]]
+
+de.title = "Anmeldung // Studienplanung"
+en.title = "Registration // Planning your Studies"
+
+[[sections.subsections.questions]]
+
+de.q = "Was soll ich für den Anfang wissen?"
+de.a = '''
+Wir empfehlen dir immer, zum ersten Termin deiner LVAs zu gehen. Oft wird dort viel Organisatorisches besprochen, das für den restlichen Kurs wichtig ist. Bei LVAs mit Anwesenheitspflicht kann es außerdem sein, dass dein Platz an eine Person auf der Warteliste gegeben wird, wenn du zum ersten Termin nicht erscheinst.
+
+
+Wir haben einen aktiven Discord Server für alle, die Physik oder MoBi studieren.
+Tritt über diesen Link bei: <https://discord.gg/EQ2n3kR42v>
+Wenn du Fragen hast, kannst du dich jederzeit an uns, die Studienvertretung Physik & MoBi, wenden. Entweder per Mail ([physik@oeh.jku.at](mailto:physik@oeh.jku.at) and [mobi@oeh.jku.at](mailto:mobi@oeh.jku.at)), oder via Discord.
+Für Erstsemestrige haben wir zudem einen Leitfaden ausgearbeitet, den wir dir sehr ans Herz legen können. Schmöker einmal durch den “[Studienleitfaden für Physik](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_Physik.pdf)” bzw. den [Studienleitfaden für MoBi](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_MoBi.pdf)!
+'''
+
+en.q = "What should I know as a newcomer?"
+en.a = '''
+We recommend that you always go to the first meeting of your courses. Often, a lot of organisational matters are discussed there, which are important for the rest of the course. For courses with compulsory attendance, it is also possible that your spot may be given to someone on the waiting list if you do not show up to the first appointment.
+
+We have a very active Discord server for anyone studying Physics and MoBi.
+Join via this link: <https://discord.gg/EQ2n3kR42v>
+
+If you have any questions, you can always contact us, the Student Unions for Physics and MoBi. Either via email ([physik@oeh.jku.at](mailto:physik@oeh.jku.at) for Physics and [mobi@oeh.jku.at](mailto:mobi@oeh.jku.at) for MoBi), or via Discord.
+
+We also prepared a guide for first-semester students that we would like to recommend to you. Check out the “[Studienleitfaden for Physics](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_Physik.pdf)” and the [study guide for AI](https://oeh.jku.at/fileadmin/user_upload/Studienvertretungen/StV_PhysikMoBi/Leitfaden_MoBi.pdf)!
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es Anforderungen für eine Zulassung zum Studium?"
+de.a = '''
+Für unsere Bachelor-Studiengänge gibt es keine besonderen Erfordernisse. Du musst wie bei allen Bachelor-Studien nachweisen, dass du auf Matura-Niveau bist (etwa durch dein Matura-Zeugnis, eine [Studienberechtigungsprüfung](https://www.jku.at/studium/studierende/studienberechtigungspruefung), Sprachzertifikate etc.). Genaueres erfährst du beim [Anmelde-FAQ der JKU](https://www.jku.at/studium/studieninteressierte/anmeldung-zum-studium/bachelor-diplom/) und in unserem [Internationals FAQ](../../internationals/en/).
+
+Für unsere Master-Kurse musst du ein aufbauendes Bachelor-Studium absolviert haben - mehr Infos zu etwaigen zusätzlichen Prüfungen findest du auf der [Hilfeseite der JKU](https://www.jku.at/studium/studieninteressierte/anmeldung-zum-studium/master/) und beim jeweiligen Master-Abschnitt im FAQ weiter unten.
+
+In keinem Fall ist dein Notenschnitt von Bedeutung, es gibt auch keine Quoten oder eine Begrenzung der Studierendenzahlen: Sofern du die geforderten Dokumente fristgerecht einreichst, wirst du zum Studium zugelassen.
+'''
+
+en.q = "Are there any requirements to get admitted?"
+en.a = '''
+None of our Bachelor studies have any special requirements. As with all Bachelor studies, you have to prove that you are on the same level as an Austrian after high school (Matura, [enrollment eligibility exam](https://www.jku.at/en/degree-programs/students/university-enrollment-eligibility-examination/), language certificates, etc.) - see this [JKU page](https://www.jku.at/en/degree-programs/prospective-students/register-to-enroll/bachelors-degree-diploma-degree/) and our [Internationals FAQ](../../internationals/en/) for more.
+
+For our Master studies, you need to have done a suitable Bachelor study beforehand - you can find more information on this [JKU page](https://www.jku.at/en/degree-programs/prospective-students/register-to-enroll/masters-degree-programs/) and some more questions about the topic in your respective Master's section in the FAQ.
+
+JKU never cares about your grade average etc, there are no quotas and no limits to the number of students that can register for our studies: If you submit the required documents in time, you will be accepted.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Welche Fächer soll ich machen?"
+de.a = '''
+Auf der letzten Seite deines [Curriculums](https://studienhandbuch.jku.at) findest du den vorgeschlagenen Studienplan. Es ist ratsam, sich für alle empfohlenen LVAs eines Semesters anzumelden. Wenn es dir zuviel wird, kannst du während des Semesters noch [Fächer aufhören](#wie-kann-ich-eine-lva-aufhoeren). Der Studienplan ist aber nur eine Empfehlung, du kannst ihn (mit [Einschränkungen](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere)) nach deinen Bedürfnissen abändern.
+'''
+
+en.q = "Which courses should I take?"
+en.a = '''
+On the last page of your [Curriculum](https://studienhandbuch.jku.at/index.php?lang=en), you will find the suggested study plan. It is advisable to register for all recommended courses. If it becomes too much for you, you can still [drop subjects](#how-can-i-drop-a-course) during the semester. Note that this study plan is only a recommendation, and that you can adjust it to your needs (with some [caveats](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan)).
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was heißt “VO”, “UE”, etc. bei LVAs?"
+de.a = '''
+##### Vorlesungen (VO oder VL)
+
+geben einen Überblick über ein Fach und dessen theoretische Ansätze und präsentieren unterschiedliche Lehrmeinungen und Methoden. Die Inhalte werden überwiegend im Vortragsstil vermittelt. Eine Vorlesung hat nie Anwesenheitspflicht und wird normalerweise durch eine einzelne Klausur am Semesterende bewertet. Manche Vorlesungen bieten zusätzliche Wege an, eine Note zu erhalten (z.B. Mini-Tests).
+
+##### Übungen (UE) und Praktika (PR)
+
+vertiefen den Vorlesungsstoff. Was für einen positiven Abschluss einer LVA geleistet werden muss, wird von der vortragenden Person festgelegt: Meist gibt es regelmäßige Übungsabgaben, es können aber auch Tafel-Präsentationen, Lab-Reports oder Übungstests sein. Anwesenheitspflicht wird von der LVA leitenden Person bestimmt. Genauere Informationen findest du immer im KUSSS beim [Studienhandbuch](https://studienhandbuch.jku.at/index.php)-Eintrag der jeweiligen LVA.
+
+##### Seminare (SE)
+
+sind wissenschaftlich weiterführende Lehrveranstaltungen. Sie dienen dem Erwerb von vertieftem Fachwissen und Kompetenzen sowie der Diskussion und Reflexion wissenschaftlicher Themen. Meist sucht man sich ein Thema, schreibt eine Seminararbeit und präsentiert diese dann am Ende vom Semester vor den LVA-Teilnehmer*innen. Ein Seminar hat in der Regel verpflichtende Anwesenheit.
+
+##### Kombinierte Veranstaltungen (KV)
+
+sind eine Kombination aus Vorlesung und Übung. Ob Anwesenheit besteht und wie sich die Note zusammensetzt, hängt von der vortragenden Person ab.
+
+Weitere LVA-Arten, welche nicht in Physik Curricula enthalten sind: Übung mit Vorlesung (UV), Vorlesung mit Übung (VU), Grundkurs (GK), Exkursion (EX), Konversatorium (KO), Proseminar (PS), Sprachkurs (SK), Interdisziplinäres Projekt (IP), Künstlerischer Einzelunterricht (KE), Künstlerischer Gruppenunterricht (KG)...
+Mehr Infos über sie findest du in _§§ 13f Satzung_.
+'''
+
+en.q = "What does \"VO\", \"UE\", etc. mean for courses?"
+en.a = '''
+##### Lectures (VO or VL)
+
+give an overview of a subject and its theoretical approaches and present different doctrinal opinions and methods. The contents are predominantly taught in a teacher-centred style. A lecture may never require attendance and is usually graded with a single exam at the end of the semester. Some lectures offer additional ways to get a grade (e.g. Minitests).
+
+##### Exercises (UE) and Practical Courses (PR)
+
+deepen the material of a lecture. The course instructor determines what must be achieved for a positive conclusion of the course: In most cases, there are regular exercises, but there can also be blackboard presentations, lab reports, or exercise tests. Compulsory attendance is determined by the lecturer.
+
+You always find more information in KUSSS in the [Study Guide](https://studienhandbuch.jku.at/index.php?lang=en) entry for the corresponding course.
+
+##### Seminars (SE)
+
+develop your scientific capabilities. They aim to teach the acquisition of in-depth specialist knowledge and competencies, as well as the discussion and reflection of scientific topics. In most cases, students choose a topic, write a seminar paper, and present it to the course participants at the end of the semester. A seminar usually has compulsory attendance.
+
+##### Combined courses (KV)
+
+are a combination of lecture and exercise. Whether attendance is compulsory, and how the grade is calculated is up to the course instructor.
+
+Other types of courses that are not included in the Physics curricula: Exercise with lecture (UV), lecture with exercise (VU), basic course (GK), excursion (EX), conversational course (KO), proseminar (PS), language course (SK), interdisciplinary project (IP), individual artistic instruction (KE), group artistic instruction (KG)...
+You can find further information on them in _§§ 13f Satzung_.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich im Vorhinein heraus, ob eine LVA Anwesenheitspflicht hat?"
+de.a = '''
+Wenn Anwesenheitspflicht besteht, sollte dies im KUSSS im [Studienhandbuch](https://studienhandbuch.jku.at/index.php)-Eintrag zur jeweiligen LVA unter “Beurteilungskriterien” aufgelistet sein.
+'''
+
+en.q = "How do I find out in advance if a course has compulsory attendance?"
+en.a = '''
+If attendance is compulsory, it should be listed in the KUSSS, specifically in the [Study Guide](https://studienhandbuch.jku.at/index.php?lang=en) entry of the respective course under ‘Criteria for evaluation’.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie melde ich mich zu Kursen an?"
+de.a = '''
+Du kannst dich für Kurse während des Anmeldungszeitraums registrieren, du findest die Termine auf der [JKU-Website](https://www.jku.at/studium/studierende/fristen-und-termine/).
+Manche Kurse werden nach dem “first come, first served”-Prinzip zugeteilt, bei anderen spielt die Reihenfolge keine Rolle - sieh dir dazu die [Zuteilungsarten](https://www.jku.at/index.php?id=9629) an und priorisiere bei der Anmeldung entsprechend.
+
+Wir empfehlen dir also, schon vorher zu überlegen, zu welchen Kursen du dich anmelden möchtest. Bei manchen Kursen gibt es außerdem mehrere Zeitslots, also stell sicher, dass sie sich nicht überlappen. Das Kursangebot ist immer mindestens eine Woche vor Anmeldung verfügbar.
+'''
+
+en.q = "How do I register for courses?"
+en.a = '''
+You can register for courses during the registration period listed on the [JKU website](https://www.jku.at/en/degree-programs/students/dates-deadlines/). Be aware that some courses are assigned on a first come, first-served basis, while others don’t take timings into account. Check the [Class Allocation Guide](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/class-allocation/) to find out more and prioritise accordingly.
+
+We therefore recommend that you consider which courses you would like to register for before the registration period opens. For some courses, multiple time slots exist, so make sure to pick ones that don’t overlap. The course programme is always available at least one week before the registration period starts.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie funktioniert KUSSS?"
+de.a = '''
+Siehe dafür das KUSSS FAQ [hier](https://www.jku.at/studium/studierende/kusss/kusss-faq/).
+'''
+
+en.q = "How does KUSSS work?"
+en.a = '''
+Please consult the [KUSSS FAQ](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/) for technical questions.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich bin nicht in meinen Kurs gekommen, was nun?"
+de.a = '''
+Schreib höflich eine Mail an die LVA-Leitung und frag nach, ob für dich noch Platz ist. Wenn nicht, geh unbedingt trotzdem zum ersten Termin der LVA, die du gerne besuchen würdest. Sag Bescheid, dass du noch keinen Platz hast. Oft werden dann die Plätze von den nicht anwesenden Studierenden vergeben.
+
+Bei Pflichtkursen hast du ein Anrecht auf einen Platz (§ 59 Abs. 4 UG), wenn dir sonst eine Studienzeit-Verlängerung droht - melde dich in diesem Fall unbedingt bei uns.
+
+Die JKU hat außerdem eine [Reklamationsstelle](https://www.jku.at/studium/studierende/kusss/kusss-faq/reklamationsmanagement/) für solche Fälle, die sich notfalls darum kümmert, dass für dich noch ein Platz in einem Kurs geschaffen wird.
+'''
+
+en.q = "I didn't get into my class, what now?"
+en.a = '''
+Politely write an email to the course instructor and ask if there is still space for you. If not, make sure you go to the first session of the course you would like to attend. Let them know that you are not registered for the course yet. In this case, you may get a spot from one of the students who are not present.
+
+If the course is mandatory for your curriculum, the university must provide sufficient slots to avoid delaying your study progress (_§ 59 Abs. 4 UG_) - please get in touch with us in that case!
+
+For emergency cases, JKU has also created a [department](https://www.jku.at/en/degree-programs/students/kusss/kusss-faqs/complaints-management/) that will try to get you into courses if necessary.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich habe eine Überschneidung von Kursen, was nun?"
+de.a = '''
+Das kommt auf die Art der LVA an. Bei einer Vorlesung besteht keine Anwesenheitspflicht, das heißt, du musst nicht hingehen und kannst die andere LVA besuchen.
+
+Haben beide LVAs verpflichtende Anwesenheit und werden öfter abgehalten, kannst du versuchen, in einen andere Zeitlslot zu wechseln: Siehe [die nächste Frage](#wie-kann-ich-meine-uebungsgruppe-wechseln).
+Wenn du nach dem vorgeschlagenen Studienplan studierst, sollte es zu keinen Überschneidungen kommen.
+'''
+
+en.q = "I have an overlap of courses, what now?"
+en.a = '''
+That depends on the course type. For lectures, attendance is not compulsory, i.e. you can skip them in favour of another course.
+
+If both courses have mandatory attendance and are offered in multiple time slots, try switching to another slot to remove the overlap: See the [next question](#how-can-i-change-exercise-groups).
+
+If you study according to the suggested study plan, you are guaranteed to be able to study without overlaps.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich meine Übungsgruppe wechseln?"
+de.a = '''
+Schreib eine [höfliche Mail](#wie-schreibe-ich-eine-mail-an-lvaleiterinnen) mit deinem Anliegen an die LVA-Leitung. Vergiss die LVA-Nummer und deine Matrikelnummer nicht!
+
+Die LVA-Leitung wird dir dann Bescheid geben, ob ein Wechsel möglich ist.
+Falls Wechseln nicht möglich ist, schau trotzdem zum ersten Termin deiner gewünschten Übungsgruppe und sag der LVA-Leitung, dass du in diese Gruppe wechseln möchtest. Oft kann eine Lösung gefunden werden.
+'''
+
+en.q = "How can I change exercise groups?"
+en.a = '''
+Write a [polite email](#how-do-i-write-an-email-to-a-lecturer) to the course instructors with your request. Don't forget the course number and your matriculation number!
+
+Your course instructor will let you know if a change is possible.
+
+If changing is not possible, still go to the first appointment of your desired exercise group and talk to the lecturer, explaining that you would like to change to this group. Often, a solution can be found.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie finde ich die Mail-Adressen von meinen LVA-Leiter*innen?"
+de.a = '''
+Es gibt kein zentrales Verzeichnis aller E-Mail-Adressen. Wenn du also eine Mail Adresse einer bestimmten Person suchst, such online nach ihrem Namen + JKU. Der erste Treffer ist meistens die Institutswebsite mit all den Informationen, die du brauchst.
+'''
+
+en.q = "How do I find the email addresses of my course instructors?"
+en.a = '''
+Unfortunately, there is no central record of all email addresses. So if you are looking for an email address of a specific person, search online for their name + JKU. The first hit is usually the institute's website with all the information you need.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie schreibe ich eine Mail an LVA-Leiter*innen?"
+de.a = '''
+Zuallererst: Sei höflich! Deine Chancen auf Erfolg sind viel höher, wenn du nett bist und die Zeit deiner LVA-Leitung respektierst.
+
+Schreibe immer den LVA-Namen dazu, wenn du eine Frage zu einer bestimmten LVA hast. Erwähn auch die LVA-Nummer (sechsstellig mit Punkt in der Mitte, du findest sie im KUSSS).
+
+Unterzeichne am Ende immer mit deinem Namen und deiner Matrikelnummer.
+
+Am besten ist es, du schreibst auch deine Studienkennzahl (SKZ) dazu: Für den Bachelor Technische Physik ist das 033/261, MoBi Bachelor 033 665, Master Physics 066/461, und für Master MoBi 066/865. Alle Studienkennzahlen findest du [hier](https://studienhandbuch.jku.at/index.php).
+
+Deine kleine Checkliste vor dem Abschicken einer E-Mail sollte also sein:
+
+* LVA-Nummer & LVA-Name
+* dein Name + Matrikelnummer
+* Studienkennzahl (SKZ)
+* höflich formuliert
+'''
+
+en.q = "How do I write an email to a lecturer?"
+en.a = '''
+First of all, be polite! Your chances of success are much higher if you are polite and respectful of your lecturer’s time.
+
+Always include the name of the course in case you have a question about a particular one. Also, add the course number (six digits with a dot in the middle - you can find it in the KUSSS).
+
+Always sign with your full name and matriculation number at the end.
+
+Ideally, also include your study code (SKZ): For the Bachelor of Physics this is 033/261, MoBi Bachelor 033/665, Master Physics 066/461 and for Master MoBi 066/865. All SKZs can be found [here](https://studienhandbuch.jku.at/index.php).
+
+So your checklist before sending an email should be:
+
+* Course number + Course name
+* Your name + Matriculation number
+* Study code (SKZ)
+* Politely worded
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es etwas zu beachten, wenn ich nicht nach empfohlenem Studienplan studiere?"
+de.a = '''
+Ja. Fast alle LVAs im technisch-naturwissenschaftlichen Bereich werden nur jährlich angeboten, nicht jedes Semester. Behalte das im Hinterkopf, wenn du deinen eigenen Studienplan zusammenstellst. Stell außerdem sicher, dass du die [StEOP](#was-ist-die-steop-wie-funktioniert-sie) baldmöglichst abschließt, sie schränkt dich nämlich in deinem individuellen Plan ein.
+
+Es macht grundsätzlich Sinn, LVAs in der empfohlenen Reihenfolge zu absolvieren: Oft ist eine Abhängigkeit auch recht ersichtlich, zum Beispiel bei “Mathe für Physik I” und “Mathe für Physik II”. Es wird nicht überprüft, ob du die vorangegangene LVA schon abgeschlossen hast, aber das Wissen wird vorausgesetzt.
+
+Melde dich gerne bei uns, wenn du Hilfe bei deinem Studienplan brauchst!
+'''
+
+en.q = "Is there anything to consider if I don’t study according to the recommended study plan?"
+en.a = '''
+Yes. Almost all courses in the technical and natural sciences are only offered annually, not every semester. Keep this in mind when you compile your own study plan. Also, make sure to finish [StEOP](#what-is-the-steop-how-does-it-work) as quickly as possible since it might limit you in your plans.
+
+It generally makes sense to complete courses in the recommended order. Often a dependency is quite obvious, for example in “Statistical Physics I” and “Statistical Physics II”. It is not checked whether you have already completed the previous course, but the knowledge is assumed.
+
+Feel free to contact us if you need help assembling your study plan!
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Müssen Vorlesung und Übung zu einem Thema gemeinsam absolviert werden?"
+de.a = '''
+Oft werden Fächer in zwei LVAs geteilt: Eine Vorlesung für theoretische Inhalte, und eine Übung zur praktischen Umsetzung. In diesem Fall können sie immer getrennt absolviert werden, und es gibt für jedes Fach eine eigene Note.
+
+Aufgrund der starken inhaltlichen Nähe wird allerdings empfohlen, beide gleichzeitig zu absolvieren - dadurch sparst du dir nicht nur den doppelten Lernaufwand, die Verflechtung von Theorie und Praxis hilft auch beim Verständnis.
+'''
+
+en.q = "Do I need to attend Lecture and Exercise about a topic concurrently?"
+en.a = '''
+Subjects are often divided into two LVAs: A lecture for theoretical content, and an exercise for practical implementation. If there are two LVAs, they can always be completed separately and there is a separate grade for each subject.
+
+However, due to the proximity of content, it is recommended that you complete both at the same time - this not only saves you the effort of learning things twice, but the interweaving of theory and practice also helps with understanding.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind Special Topics (“Spezielle Kapitel”)?"
+de.a = '''
+Special Topics sind Kurse, die nicht jedes Jahr/Semester angeboten werden, weil sie eben ein spezielles Thema und wechselnden Inhalt haben.
+
+Special Topics ermöglichen es den Instituten, aktuelle Trends in ihren Bereichen aufzugreifen und das Lehrangebot von Gastlehrenden zu nutzen. Lehrveranstaltungen dieser Kategorie können angekündigt werden, ohne im Studienplan aufgeführt zu sein, und es besteht keine Verpflichtung, sie regelmäßig abzuhalten.
+
+Die Bezeichnung von Special Topics besteht aus einem Haupttitel ("Special Topics:") und einem Untertitel, der den eigentlichen Inhalt der Lehrveranstaltung darstellt.
+'''
+
+en.q = "What are Special Topics?"
+en.a = '''
+Special Topics are courses that are not offered every year/semester because they are, as the name suggests, about a special topic, or have changing content.
+
+Special Topics enable institutes to cover current trends in their fields and to offer courses taught by guest lecturers. Courses in this category can be announced without being listed in the curriculum and there is no obligation to hold them regularly.
+
+The designation of Special Topics consists of a main title ("Special Topics:") and a subtitle that describes the actual content of the course.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Was sind freie Studienleistungen?"
+de.a = '''
+Jedes österreichische Uni-Studium muss “Freie Studienleistungen” beinhalten - sie sollen Studierenden die Möglichkeit geben, auch über ihr Fachgebiet hinaus Einblicke in die Wissenschaft zu erhalten. Die dafür vorgesehenen ECTS kannst du darum durch beliebige Fächer an einer beliebigen österreichischen Universität absolvieren, vom Sprach- bis zum Töpferkurs. Es ist natürlich auch möglich (wenngleich nicht unbedingt Ziel der Maßnahme), ein Physik-Fach für die freien Studienleistungen zu nutzen.
+Viele [ehrenamtliche Dienste](https://www.jku.at/lift-c/lehren/lehre-mit-purpose/freiwilligenarbeit-im-sozialbereich/) geben ebenfalls “Freie ECTS” - auf unserem [Discord-Server](https://discord.gg/EQ2n3kR42v) kannst du dich im `#free-electives` channel zu den besten Fächern austauschen.
+
+Wenn du zwei Studien parallel studierst, kannst du außerdem Fächer des einen Studiums als Free Electives für das andere Studium verwenden (siehe auch [Regeln zur Anrechnung](#kann-ich-einen-kurs-fuer-mehrere-studiengaenge-nutzen-kann-ich-mir-einen-aehnlichen-kurs-anrechnen)) - kurz, du bist in der Wahl der Fächer wirklich vollkommen frei.
+Wenn du ein Fach an einer anderen Universität absolvieren möchtest, lies dir die Regeln der jeweiligen Uni zu “Mitbelegung” durch.
+'''
+
+en.q = "What are Free Electives?"
+en.a = '''
+Every Austrian university degree program must include "Freie Studienleistungen" - they are intended to allow students to gain an insight into science beyond their subject area. You can therefore complete the ETCS provided for this purpose through any subject at any Austrian university, from language to pottery courses. It is of course also possible (although not necessarily the aim of the program) to use a physics subject for the free credits.
+
+Many [voluntary work engagements](https://www.jku.at/en/lift-c/lehren/lehre-mit-purpose/volunteering-in-the-social-sector/) (e.g. firefighters) also give "free ECTS" - you can exchange information on the best subjects in the `#free-electives` channel on our [Discord server](https://discord.gg/EQ2n3kR42v).
+
+If you are doing two degrees at the same time, you can also use subjects from one degree as free electives for the other (see also [rules on credit transfer](#can-i-use-a-course-for-two-different-degrees-can-i-accredit-a-similar-course)) - in short, you are completely free to choose your subjects.
+
+If you would like to take a subject at another university, read the rules of the respective university regarding "Mitbelegung".
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich neben dem Studium arbeiten? Wie viele ECTS soll ich machen?"
+de.a = '''
+Die Studien sind prinzipiell als Vollzeitstudium (30 ECTS pro Semester) ausgelegt. Grundsätzlich gilt, dass ein Credit-Punkt ca. 25 Arbeitsstunden ausmacht, du also jedes Semester über 40 Stunden pro Woche an Zeit einplanen musst.
+
+Da man auf der Universität selbst entscheiden kann, wie viele Kurse man belegt, empfiehlt es sich darum, bei Arbeit neben dem Studium weniger als 30 ECTS zu machen: Man muss dann natürlich mit Verzögerungen in der Studienzeit rechnen, die empfohlene Studiendauer wird sich so also nicht mehr ausgehen.
+
+Im Bachelor wird darum empfohlen, erst frühestens ab dem 5. Semester zu arbeiten - uns ist aber selbstverständlich klar, dass das nicht für alle finanziell möglich ist: Wenn du Probleme hast, dir das Studium leisten zu können, sieh dir die [Frage zur finanziellen Unterstützung](#gibt-es-finanzielle-unterstuetzung) an.
+
+Die Anzahl an ECTS, die du im Semester machen kannst/sollst, ist natürlich von deiner freien Zeit und deinen Vorkenntnissen abhängig.
+Gerne beraten wir dich individuell dazu, schreib uns einfach eine E-Mail oder eine Nachricht auf Discord!
+'''
+
+en.q = "Can I work while studying? How many ECTS should I take?"
+en.a = '''
+In principle, studies are designed as full-time studies (30 ECTS). A credit point equates to ca. 25 hours of work, meaning that a normal semester is already more than 40 hours of work each week.
+
+Since you can decide for yourself how many courses you want to take, we recommend doing less than 30 ECTS if you plan to work on the side: Of course, you have to take delays in your studies into account then, i.e. the recommended study time will no longer be possible.
+
+In the Bachelor's programme, the official recommendation therefore suggests you should start working no earlier than the 5th semester, though we do of course know that this is not possible for everyone financially. If you are struggling to afford your studies, check out our [question on financial aid](#is-there-financial-aid)!
+
+Generally, the number of ECTS you can/should do in a semester depends on the number of hours you have available and your previous knowledge.
+
+We are happy to advise you on this: Drop us an email or a message on Discord!
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich mehr als 30 ECTS pro Semester machen?"
+de.a = '''
+Wie [oben](#kann-ich-neben-dem-studium-arbeiten-wie-viele-ects-soll-ich-machen) schon erwähnt, steht es dir grundsätzlich frei, auch mehr als die empfohlenen 30 ECTS pro Semester zu absolvieren, angenehm ist es aber sicher nicht.
+
+Falls du das Studium primär für den Titel absolvierst, bereits entsprechende Vorbildung hast und bereit bist, sehr wenig Freizeit zu haben, kannst du deine Studiendauer durch eine höhere ECTS-Zahl pro Semester aber natürlich verkürzen. Natürlich musst du dann unsere Frage zu einer [individuellen Studienplanung](#gibt-es-etwas-zu-beachten-wenn-ich-nicht-nach-empfohlenem-studienplan-studiere) berücksichtigen - wir beraten dich gerne individuell.
+
+Mach dir aber bitte bewusst, dass du damit nicht nur soziale Einbuße hast, sondern auch inhaltlich vermutlich nicht so viel mitnehmen wirst - viele Lernprozesse passieren schließlich auch außerhalb der Kurse bei Gesprächen mit deinen Kommiliton:innen und Professor:innen.
+'''
+
+en.q = "Can I do more than 30 ECTS in a semester?"
+en.a = '''
+As mentioned [above](#can-i-work-while-studying-how-many-ects-should-i-take), you are free to do more than the recommended 30 ECTS per semester, but it probably won’t be fun.
+
+If you are primarily studying to get a degree, already have the relevant previous education and are prepared to have very little free time, you can of course shorten the duration of your studies by taking a higher number of ECTS per semester. If you plan on doing so, please take our question about [individual study planning](#is-there-anything-to-consider-if-i-dont-study-according-to-the-recommended-study-plan) into account - we are happy to advise you individually.
+
+However, please be aware that you will not only lose out on the social side but also probably won’t benefit from your study academically as much - after all, many learning processes also happen outside of the courses during discussions with your fellow students and professors.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Kann ich einen Kurs für mehrere Studiengänge nutzen? Kann ich mir einen ähnlichen Kurs anrechnen?"
+de.a = '''
+Ja, Kurse können für mehrere Studien verwendet werden, mit einigen Einschränkung. Insbesondere dürfen die beiden Studiengänge nicht voneinander abhängen: Wenn du den Kurs für einen Abschluss verwendet hast (z.B.: BSc  Technische Physik), und dieser Titel dann Voraussetzungen für den zweiten Studiengang (z.B.: MSc Physics) ist, kannst du den Kurs darin nicht verwenden. Ähnliche Einschränkungen gelten auch für Vorstudienlehrgänge.
+
+Wenn der Kurs in den beiden Studiengängen nicht exakt gleich ist, kann trotzdem eine Anrechnung möglich sein. Schreib uns am besten einfach eine Mail.
+'''
+
+en.q = "Can I use a course for two different degrees? Can I accredit a similar course?"
+en.a = '''
+Yes, courses can be used for multiple degrees, with some restrictions. Notably, the degrees may not [depend on each other](#can-i-use-courses-from-my-bachelors-degree-in-my-masters): If you used the course to get a degree (e.g. BSc Technische Physik), and this degree is a requirement to do another study (e.g. MSc Physics), you cannot use the course in this study. Similar restrictions might be in place for pre-study programs.
+
+If the course is not exactly identical between programmes, accreditation might still be possible. Write us an email if you have concrete questions.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Ich kann im nächsten Semester keine LVAs abschließen, was soll ich tun?"
+de.a = '''
+Falls es dir mal nicht möglich ist, für ein oder zwei Semester zu studieren, du aber nicht vorhast, das Studium abzubrechen, kannst du dich beurlauben lassen. Dies ist maximal zwei Semester hintereinander möglich. Gründe für Beurlaubung und Formulare findest du [hier](https://www.jku.at/studium/studierende/beurlaubung/).
+'''
+
+en.q = "I cannot complete any courses in the next semester, what should I do?"
+en.a = '''
+If it is impossible for you to study for one or two semesters, but you do not intend to drop out, you can take a leave of absence. This is possible for a maximum of two semesters in a row. Reasons for a leave of absence and forms can be found [here](https://www.jku.at/en/degree-programs/students/leave-of-absence/).
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie lange darf ich für mein Studium brauchen? Ab wann muss ich Geld zahlen?"
+de.a = '''
+Grundsätzlich gibt es keine maximale Studiendauer, ein Studium ist aber mit Kosten verbunden. Jedes Semester musst du den ÖH-Beitrag (rund 25€) zahlen.
+
+Je nach Staatsbürgerschaft musst du zudem Studiengebühren zahlen: EU- bzw. EWR-Bürger:innen zahlen während der Mindeststudienzeit + zwei Toleranzsemestern keine Studiengebühren (in unserem Bachelor sind das also z.B. acht beitragsbefreite Semester). Mehr Infos findest du [hier](https://www.jku.at/studium/studierende/dein-studienstart/oeh-und-studienbeitrag/).
+
+Für manche Förderungen (etwa die Studienbeihilfe) hast du nur ein Toleranzsemester, bevor die Unterstützung eingestellt wird.
+
+Beachte im Bachelor die [Mindeststudienleistung](#was-ist-die-mindeststudienleistung).
+'''
+
+en.q = "How long am I allowed to take for my studies? When do I have to start paying money?"
+en.a = '''
+There is no maximum study duration, but studying comes with a cost. Every semester you have to pay the ÖH fee (around 25€).
+
+Depending on your citizenship, you will also need to pay tuition fees: EU and EEA citizens are exempted from tuition fees during the minimum period of study + 2 tolerance semesters (e.g. in our Bachelor’s that would be 8 semesters). You can find more information about this [here](https://www.jku.at/en/degree-programs/students/start-your-studies/pay-austrian-student-union-fees-and-tuition/).
+
+Note that for some financial aids (e.g. Studienbeihilfe), the amount of tolerance semesters before funding is cut is lower.
+
+During the Bachelor’s, keep [Mindeststudienleistung](#what-is-the-minimum-number-of-credits-mindeststudienleistung) in mind.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wie kann ich eine LVA aufhören?"
+de.a = '''
+Bei den meisten LVAs kannst du dich bis zum ersten Termin einfach im KUSSS abmelden. Wenn du diese Frist verpasst, hängt das weitere Vorgehen von der LVA-Art ab:
+Bei Vorlesungen meldest du dich einfach nicht zur Prüfung an, das kostet dich keinen Antritt und hat auch sonst keinerlei Konsequenzen. Du musst deine LVA-Leitung nicht informieren.
+
+Bei Übungen, KVs oder Praktika gibt es oft einen festgelegten Modus, der meist in der ersten Übungseinheit erklärt wird (z.B. "Nach zwei abgegeben Hausübungen bekommt man eine Note”), rechtlich gesehen kannst du aber ab der ersten erbrachten Leistung beurteilt werden. Willst du den Kurs beenden, schreib eine höfliche Mail an die LVA-Leitung, ob sie dich vom Kurs abmelden kann.
+
+Ist das nicht möglich, und du machst den Kurs nicht weiter, bekommst du eine negative Beurteilung. Du hast aber [mehrere Versuche](#wie-viele-antritte-habe-ich-bei-lvas).
+'''
+
+en.q = "How can I drop a course?"
+en.a = '''
+For most courses, you can deregister up until the first meeting in KUSSS. If that deadline has passed and you no longer want to take a course, it depends on the type of course. In the case of lectures, you simply do not sign up for the examination. This will not “cost” you any attempts and you can simply take the course at a later time.
+
+For exercises or practicals, there is either a certain mode (e.g. after two exercises have been handed in, you get a grade) or you politely write an email to the lecturer asking whether they can deregister you from the course.
+
+If this is not possible, and you do not continue the course, you will receive a negative grade. No worries though, you do have [several attempts to pass](#how-many-attempts-do-i-have-for-courses).
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wohin kann ich mich bei psychischen Problemen wenden?"
+de.a = '''
+Ein Studium ist mit viel Stress und Druck verbunden: Deine psychische Gesundheit ist wichtiger als Noten. Wenn es dir nicht gut geht, gibt es einige Ressourcen, die dir helfen können.
+
+- **[Psychologische Studierendenberatung](https://www.studierendenberatung.at/standorte/linz/ueberblick)**: Diese Beratungsstelle sitzt direkt an der JKU und kann dir mit studienbezogenen Problemen helfen, ist aber auch Ansprechpartner bei persönlichen Problemen.
+- **[ÖH Helpline](https://www.oeh.ac.at/helpline): Die ÖH Bundesvertretung bietet eine niederschwellige, kostenlose psychosoziale Beratung an. Du kannst telefonisch mit Expert*innen reden oder online einen Termin vereinbaren und eine Erstberatung in Präsenz buchen.
+- **[Oberösterreichische Krisenhilfe](https://www.krisenhilfeooe.at)**: Die Krisenhilfe ist 24/7 telefonisch und via Chat verfügbar, wenn sich du oder ein*e Freund*in in einer psychischen Krise befinden.
+- **[Notrufnummern für Frauen](https://www.frauenreferat-ooe.at/439.htm)**: Das Frauenreferat OÖ bietet hier eine Liste an Ressourcen an, an die sich vor allem Frauen in Krisensituationen wenden können.
+- **[Männernotruf](https://maennernotruf.at)**: Der Männerrotnuf ist 24/7 und kostenfrei für Männer verfügbar, die mit persönlichen Krisen konfrontiert sind.
+
+Wenn du aufgrund von psychischen Problemen Therapie in Anspruch nimmst, unterstützt dich die ÖH finanziell durch den **[ÖH JKU Mental Health Fond](https://oeh.jku.at/en/oeh-jku/departments/social-department#c2273)**.
+Du kannst außerdem [dein Studium pausieren](#ich-kann-im-naechsten-semester-keine-lvas-abschliessen-was-soll-ich-tun) und deine ECTS-Load reduzieren. Unser Lehrenden sind in der Regel sehr verständnisvoll, wenn du aufgrund von psychischen Problemen einen Kurs nicht abschließen kannst, vieles lässt sich im direkten Gespräch lösen.
+'''
+
+en.q = "Are there resources for Mental Health?"
+en.a = '''
+Studying comes with stress and a lot of pressure to perform: Your Mental Health is more important than any grade. If you don't feel well, here are several resources that can help you out.
+
+- **[Psychologische Studierendenberatung](https://www.studierendenberatung.at/standorte/linz/ueberblick)** [German only]: The psychological counseling service is located at JKU and can help with study-related issues, but it is also a general point of contact for personal problems as well.
+- **[ÖH Helpline](https://www.oeh.ac.at/en/helpline)** [German and English]: The federal student representation is providing free counseling. You can either talk to a professional over the phone or make an inquiry online to get a consultation in person.
+- **[Upper Austrian Crisis Helpline](https://www.krisenhilfeooe.at)** [German only]: The government of Upper Austria has a service available to call or chat 24/7 if you or your friend is in any psychological crisis.
+- **[Helplines for Women](https://www.frauenreferat-ooe.at/439.htm)** [some in English]: The Department for Women of the government of Upper Austria is providing a list of resources specifically aimed at women who find themselves in a crisis situation.
+- **[Helpline for Men](https://maennernotruf.at)** [only in German]: The Männernotruf can be called for free 24/7 for men who experience abuse or other personal problems.
+
+If you take therapy sessions, ÖH also covers parts of your costs via the **[ÖH JKU Mental Health Fond](https://oeh.jku.at/oeh-jku/referate/sozialreferat#c2273)**.
+You can also [pause your study](#i-cannot-complete-any-courses-in-the-next-semester-what-should-i-do) and reduce your ECTS load. Our teacher are usually very understanding if you need to drop a course for mental health reasons - much can be resolved in a chat.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Gibt es finanzielle Unterstützung?"
+de.a = '''
+Die ÖH hat einige Angebote, die dir die Finanzierung deines Studiums erleichtern können. Eine Liste findest du [hier](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
+
+Zusätzlich gibt es auch viele [weitere staatliche Unterstützungsangebote](https://www.stipendium.at/), die etwa berufstätigen Studierenden helfen sollen.
+
+Bitte wende dich bei Fragen an unsere Expert:innen im [ÖH JKU Soziareferat](https://oeh.jku.at/oeh-jku/referate/sozialreferat).
+'''
+
+en.q = "Is there Financial Aid?"
+en.a = '''
+The Student Union has several grants and support services, they can be found [here](https://oeh.jku.at/en/oeh-jku/departments/social-department).
+
+Additionally, there are also multiple [governmental grants](https://www.stipendium.at/english), e.g. for students working on the side.
+
+Please refer to our experts at the [ÖH JKU Sozialreferat](https://oeh.jku.at/sozialreferat) for questions.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Brauche ich einen Laptop, und was muss er können?"
+de.a = '''
+Prinzipiell gibt es auf der Universität zum Beispiel in der Bibliothek PCs, die man verwenden kann. Weil aber so gut wie alle Abgaben elektronisch erfolgen, es regelmäßige Hausaufgaben am PC gibt usw., ist ein Laptop sehr empfehlenswert.
+
+
+Es reicht im Grund fast jeder Laptop mit Windows, macOS oder Linux, er muss nichts Spezifisches können oder eine bestimmte Ausstattung haben. Grundsätzlich raten wir von Chromebooks, Android-Tablets und iPads als Haupt-Arbeitsgeräten ab, weil nicht alle empfohlenen Programme damit kompatibel sind.
+
+In manchen seltenen Fällen kann es sein, dass du für ein Programm eine virtuelle Maschine mit einem bestimmten Betriebssystem benötigst, das kann dir aber unabhängig vom Host-System passieren.
+
+Für ideales Arbeiten empfehlen wir ein Gerät mit mindestens 8GB RAM, einer SSD, einem 1920x1080 Bildschirm, und einer Akkulaufzeit von mindestens 2h: Nicht in jedem Raum steht eine Steckdose zur Verfügung.
+Des Weiteren ist ein leichter Laptop super: Du wirst ihn viel herumtragen.
+
+Wenn du einen neuen Laptop suchst, gibt es oft auch spezielle Angebote für Studierende im Netz, etwa unter [edustore](https://www.edustore.at/) und [u:book](https://ubook.at/) - vergleich hier aber in jedem Fall die Preise. Geräte mit den Spezifikationen oben findest du in der Regel für unter 400€ auf gängigen [Vergleichsportalen](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+
+Übrigens: Die JKU hat auch eine Menge an [kostenloser Software](https://help.jku.at/im/de/software/software-fuer-studierende) für dich, die du also nicht kaufen musst.
+
+Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
+'''
+
+en.q = "Do I need a laptop and what specs should it have?"
+en.a = '''
+In principle, there are PCs at the university, for example in the library, which you can use. However, because almost all submissions are made electronically, there is regular homework on the PC, etc., a laptop is highly recommended.
+
+Almost any laptop with Windows, macOS or Linux will do; it doesn't have to be anything fancy or have any particular features. We generally advise against Chromebooks, Android tablets and iPads as main work devices because not all recommended programs are compatible with them.
+
+In some rare cases, programs might require a virtual machine to run on a specific operating system, but this will be the case for all host systems.
+
+For ideal working conditions, we recommend a device with at least 8GB RAM, an SSD, a 1920x1080 screen and a battery life of at least 2 hours: not every room has a power socket.
+Furthermore, a lightweight laptop is great: you'll be carrying it around a lot.
+
+If you are looking for a new laptop, there are often special offers for students online, for example at [edustore](https://www.edustore.at/) and [u:book](https://ubook.at/) - but be sure to compare prices. You can usually find devices with the specifications above for less than €400 making use of [comparison portals](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+
+Note that JKU also supplies you with a variety of free [software](https://help.jku.at/im/de/software/software-fuer-studierende).
+
+Of course you can further optimise your device for complex AI operations etc. (the internet is happy to help with guides), but this is not necessary for your studies.
+'''
+
+[[sections.subsections.questions]]
+
+de.q = "Wo finde ich Templates für Präsentationen und Arbeiten?"
+de.a = '''
+Das Institut für Netzwerke und Sicherheit hat praktische LaTeX-Templates ausgearbeitet, die du für Seminar-Arbeiten, technische Reports und vor allem für Abschlussarbeiten verwenden kannst: Du findest den aktuellen Release auf [GitHub](https://github.com/michaelroland/jku-templates-report-latex).
+
+Für Präsentationen gibt es ein eigenes Template, das du ebenfalls auf [GitHub](https://github.com/michaelroland/jku-templates-presentation-latex) findest.
+
+Weitere Templates und Richtlinien für deine Thesis findest du auf der [JKU-Website](https://www.jku.at/studium/studierende/abschlussarbeiten/).
+'''
+
+en.q = "Are there templates for presentations, theses and reports?"
+en.a = '''
+The Institute for Networks and Security has created LaTeX templates that can be used for seminars, technical reports and most importantly, for your thesis. You can always find an up-to-date version on [GitHub](https://github.com/michaelroland/jku-templates-report-latex).
+
+Presentations have their own template that can also be downloaded from [GitHub](https://github.com/michaelroland/jku-templates-presentation-latex).
+
+Additional templates and guidelines for your thesis can be found on the [JKU Website](https://www.jku.at/en/degree-programs/students/theses-and-dissertations/).
+'''
+
+[[sections.subsections]]
+
+de.title = "Prüfungen"
+en.title = "Exams"
+
+[[sections.subsections.questions]]
+
+de.q = "Wie melde ich mich zu Prüfungen an?"
+de.a = '''
+Für Vorlesungsprüfungen musst du dich rechtzeitig via [KUSSS](https://kusss.jku.at/kusss/szsearchexam.action?search=true&searchType=mylvas) anmelden, um teilnehmen zu dürfen. Folge einfach dem Link oben und such nach dem entsprechenden Kurs. Kannst du keine Prüfung finden, siehe [unten](#wie-viele-klausur... (71 kB verbleibend)
