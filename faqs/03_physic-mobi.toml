@@ -1126,7 +1126,7 @@ More information on exceptions, consequences of non-compliance, etc. can be foun
 
 de.q = "Wie kann ich mir etwas von der Schule anrechnen lassen?"
 de.a = '''
-Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar. '''
+Zur Anerkennung musst du über das [AUWEA-Tool](https://anerkennung.jku.at/anerkennung/student/) eine Anfrage einreichen. Die Anrechnung ist erst nach dem Start des Studiums beantragbar.
 '''
 en.q = "How can I get credit for something I did in school?"
 en.a = '''
