@@ -496,8 +496,8 @@ de.a = '''
 Ein Studium ist mit viel Stress und Druck verbunden: Deine psychische Gesundheit ist wichtiger als Noten. Wenn es dir nicht gut geht, gibt es einige Ressourcen, die dir helfen können.
 
 - **[Psychologische Studierendenberatung](https://www.studierendenberatung.at/standorte/linz/ueberblick)**: Diese Beratungsstelle sitzt direkt an der JKU und kann dir mit studienbezogenen Problemen helfen, ist aber auch Ansprechpartner bei persönlichen Problemen.
-- **[ÖH Helpline](https://www.oeh.ac.at/helpline): Die ÖH Bundesvertretung bietet eine niederschwellige, kostenlose psychosoziale Beratung an. Du kannst telefonisch mit Expert*innen reden oder online einen Termin vereinbaren und eine Erstberatung in Präsenz buchen.
-- **[Oberösterreichische Krisenhilfe](https://www.krisenhilfeooe.at)**: Die Krisenhilfe ist 24/7 telefonisch und via Chat verfügbar, wenn sich du oder ein*e Freund*in in einer psychischen Krise befinden.
+- **[ÖH Helpline](https://www.oeh.ac.at/helpline)**: Die ÖH Bundesvertretung bietet eine niederschwellige, kostenlose psychosoziale Beratung an. Du kannst telefonisch mit Expert*innen reden oder online einen Termin vereinbaren und eine Erstberatung in Präsenz buchen.
+- **[Oberösterreichische Krisenhilfe](https://www.krisenhilfeooe.at)**: Die Krisenhilfe ist 24/7 telefonisch und via Chat verfügbar, wenn sich du oder ein\*e Freund\*in in einer psychischen Krise befinden.
 - **[Notrufnummern für Frauen](https://www.frauenreferat-ooe.at/439.htm)**: Das Frauenreferat OÖ bietet hier eine Liste an Ressourcen an, an die sich vor allem Frauen in Krisensituationen wenden können.
 - **[Männernotruf](https://maennernotruf.at)**: Der Männerrotnuf ist 24/7 und kostenfrei für Männer verfügbar, die mit persönlichen Krisen konfrontiert sind.
 
@@ -557,7 +557,7 @@ Wenn du einen neuen Laptop suchst, gibt es oft auch spezielle Angebote für Stud
 
 Übrigens: Die JKU hat auch eine Menge an [kostenloser Software](https://help.jku.at/im/de/software/software-fuer-studierende) für dich, die du also nicht kaufen musst.
 
-Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
+Selbstverständlich kannst du dein Gerät weiter optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
 '''
 
 en.q = "Do I need a laptop and what specs should it have?"
@@ -1045,7 +1045,7 @@ All StVs at JKU have a subpage on the [ÖH JKU website](https://oeh.jku.at/studi
 
 [[sections]]
 
-de.title = "Bacholor"
+de.title = "Bachelor"
 en.title = "Bachelor"
 
 [[sections.subsections]]
