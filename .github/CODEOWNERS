@@ -1,0 +1,12 @@
+# everything that is non-content is owned by jstsmthrgk
+* @jstsmthrgk
+
+# the faqs by CS and AI
+# CS: jstsmthrgk and byte-kraken
+# AI: steilgedacht
+faqs/01_cs-ai.toml @jstsmthrgk @byte-kraken @steilgedacht
+faqs/02_internationals.toml @jstsmthrgk @byte-kraken @steilgedacht
+
+# the faq for physic & mobi
+# Physic & Mobi: zuUncreativ
+faqs/03_physic-mobi.toml @zuUncreativ
