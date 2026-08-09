@@ -551,39 +551,90 @@ Please refer to our experts at the [ÖH JKU Sozialreferat](https://oeh.jku.at/so
 
 de.q = "Brauche ich einen Laptop, und was muss er können?"
 de.a = '''
-Prinzipiell gibt es auf der Universität zum Beispiel in der Bibliothek PCs, die man verwenden kann. Weil aber so gut wie alle Abgaben elektronisch erfolgen, es regelmäßige Hausaufgaben am PC gibt usw., ist ein Laptop sehr empfehlenswert.
+Theoretisch könntest du z.B. die PCs in der Bibliothek verwenden. Wir empfehlen aber ganz klar einen eigenen Laptop zu nutzen.
 
+Auf diese Dinge solltest du bei der Laptopwahl achten:
 
-Es reicht im Grund fast jeder Laptop mit Windows, macOS oder Linux, er muss nichts Spezifisches können oder eine bestimmte Ausstattung haben. Grundsätzlich raten wir von Chromebooks, Android-Tablets und iPads als Haupt-Arbeitsgeräten ab, weil nicht alle empfohlenen Programme damit kompatibel sind.
+##### Größe und Gewicht
 
-In manchen seltenen Fällen kann es sein, dass du für ein Programm eine virtuelle Maschine mit einem bestimmten Betriebssystem benötigst, das kann dir aber unabhängig vom Host-System passieren.
+Du wirst deinen Laptop vermutlich täglich zur Uni mitnehmen und auch dort quer über den Campus tragen, kaufe dir also keinen schweren Gaming-Laptop.
 
-Für ideales Arbeiten empfehlen wir ein Gerät mit mindestens 8GB RAM, einer SSD, einem 1920x1080 Bildschirm, und einer Akkulaufzeit von mindestens 2h: Nicht in jedem Raum steht eine Steckdose zur Verfügung.
-Des Weiteren ist ein leichter Laptop super: Du wirst ihn viel herumtragen.
+Beachte auch, dass du in einem vollen Vorlesungssaal nur wenig Breite zur Verfügung hast, vermeide also unnötig große Laptops. (Die sind auch üblicherweise jene mit mehr Gewicht, du schlägst also zwei Fliegen mit einer Klappe) Auch passen dünnere Laptops besser in deine Tasche.
 
-Wenn du einen neuen Laptop suchst, gibt es oft auch spezielle Angebote für Studierende im Netz, etwa unter [edustore](https://www.edustore.at/) und [u:book](https://ubook.at/) - vergleich hier aber in jedem Fall die Preise. Geräte mit den Spezifikationen oben findest du in der Regel für unter 400€ auf gängigen [Vergleichsportalen](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+##### Akkulaufzeit
+
+Du solltest zumindest zwei Stunden Akkulaufzeit zur Verfügung haben. Obwohl Steckdosen immer häufiger werden, gibt es immer noch Räume ohne Steckdosen.
+
+Natürlich gilt je mehr Akkulaufzeit desto besser. In diesem Punkt sind die neueren M-Serie MacBooks mit teilweise über 12 Stunden Akkulaufzeit die Champions.
+
+##### Betriebssystem
+
+Verwende einfach eine mainstream Linux Distro (Fedora, Ubuntu, ...), macOS oder Windows. Wenn du unbedingt willst, kannst du auch etwas anderes verwenden, aber stell dich darauf ein, viel herumbasteln zu müssen.
+
+##### Prozessor
+
+Mittlerweile machen M-Serie MacBooks fast keine Probleme mehr. Wenn du unter Linux oder Windows unterwegs bist, sparst du dir mit x86_64 aber weiterhin einiges an Aufwand gegenüber ARM.
+
+##### Ich will Zahlen!
+
+Fast jeder moderne Laptop wird ausreichen, er muss nicht besonders sein. Falls du trotzdem ein paar Zahlen zur Orientierung brauchst:
+
+* mindestens 8GB RAM
+* 1920x1080 Bildschirm
+* auf jeden Fall eine SSD
+
+Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
+
+##### Wie kann ich beim Laptopkauf Geld sparen?
+
+Es gibt oft spezielle Angebote für Studierende im Netz, etwa unter [edustore](https://www.edustore.at/) und [u:book](https://ubook.at/) - **vergleich hier aber in jedem Fall die Preise**, manchmal sind diese Angebote nicht wirklich billiger. Geräte mit den Spezifikationen oben findest du in der Regel für unter 400€ auf gängigen [Vergleichsportalen](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
 
 Übrigens: Die JKU hat auch eine Menge an [kostenloser Software](https://help.jku.at/im/de/software/software-fuer-studierende) für dich, die du also nicht kaufen musst.
 
-Selbstverständlich kannst du dein Gerät weiter für z.B. komplexe AI-Operationen optimieren (das Internet hilft gerne mit Guides), für das Studium ist das aber nicht notwendig.
 '''
 
 en.q = "Do I need a laptop and what specs should it have?"
 en.a = '''
-In principle, there are PCs at the university, for example in the library, which you can use. However, because almost all submissions are made electronically, there is regular homework on the PC, etc., a laptop is highly recommended.
+In theory you could use e.g. the PCs in the library, but we definitely recommend using your own laptop.
 
-Almost any laptop with Windows, macOS or Linux will do; it doesn't have to be anything fancy or have any particular features. We generally advise against Chromebooks, Android tablets and iPads as main work devices because not all recommended programs are compatible with them.
+You should consider the following things when choosing a laptop:
 
-In some rare cases, programs might require a virtual machine to run on a specific operating system, but this will be the case for all host systems.
+##### Size and Weight
 
-For ideal working conditions, we recommend a device with at least 8GB RAM, an SSD, a 1920x1080 screen and a battery life of at least 2 hours: not every room has a power socket.
-Furthermore, a lightweight laptop is great: you'll be carrying it around a lot.
+You will probably take your laptop with you to the university every day and also carry it around campus, so don't by a heavy gaming laptop.
 
-If you are looking for a new laptop, there are often special offers for students online, for example at [edustore](https://www.edustore.at/) and [u:book](https://ubook.at/) - but be sure to compare prices. You can usually find devices with the specifications above for less than €400 making use of [comparison portals](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
+Also consider that if a lecture hall is full you will not have a lot of width available to you, so don't take a laptop that is unnecessarily large. (Those are also usually the ones that are heavier, so you kill two birds with one stone.) Also thinner laptops will fit better into your bag.
+
+##### Battery Capacity
+
+You want at the very least two hours of battery capacity. Even though power sockets are getting more and more common, a lot of rooms still have no power sockets available.
+
+Of course the more the merrier. In this category the M-Series MacBooks with sometimes over 12 hours of charge are the champions.
+
+##### Operating System
+
+Just use any mainstream Linux Distro (Fedora, Ubuntu, ...), macOS or Windows. If you really want you can also use other ones, but expect a high amount of tinkering.
+
+##### Processor
+
+M-Series MacBooks make almost no problems by now. If you are on Linux or Windows, you will still save quite some effort when using x86_64 over ARM.
+
+##### I want numbers!
+
+Almost any modern laptop will be sufficient, it does not have to be fancy, but if you need some numbers for orientation:
+
+* at least 8GB of RAM
+* 1920x1080 screen
+* also make sure you have an SSD
+
+Of course you can further optimise your device for complex AI operations etc. (the internet is happy to help with guides), but this is not necessary for your studies.
+
+##### How can I save money when buying a laptop?
+
+There are often special offers for students online, for example at [edustore](https://www.edustore.at/) and [u:book](https://ubook.at/) - but **be sure to compare prices**, sometimes these offers are not really cheaper. You can usually find devices with the specifications above for less than €400 making use of [comparison portals](https://geizhals.at/?cat=nb&xf=11049_2~12_8192~82_allgsosd~9_19201080).
 
 Note that JKU also supplies you with a variety of free [software](https://help.jku.at/im/de/software/software-fuer-studierende).
 
-Of course you can further optimise your device for complex AI operations etc. (the internet is happy to help with guides), but this is not necessary for your studies.
 '''
 
 [[sections.subsections.questions]]
