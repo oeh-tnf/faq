@@ -1,8 +1,8 @@
-logo.src = "physic-logo.png"
+logo.src = "physik_mobi_logo.png"
 logo.href = "https://oeh.jku.at/studium/technik-und-naturwissenschaften/physik-mobi"
 
-de.title = "FAQ: Physik Studium"
-en.title = "FAQ: Physics Study"
+de.title = "FAQ: Physik & MoBi Studium"
+en.title = "FAQ: Physics & MoBi Study"
 
 de.intro = '''
 Als Studienvertretungen für Physik und MoBi erhalten wir oft Fragen zu unseren Studien. Dieses FAQ soll dabei helfen, die meisten davon zu beantworten. Für Fragen spezifisch von internationalen Studierende gibt es [hier](../../internationals/en/) ein eigenes FAQ.
